@@ -1,6 +1,6 @@
 # Will Pisani's Wordle Assistant 
 
-![Screenshot of Will Pisani's Wordle Assistant](https://github.com/wapisani/public-pyprojects/tree/main/Wordle_Solver/Wordle_Solver_GUI.png "screenshot of Will Pisani's Wordle Assistant")
+![Screenshot of Will Pisani's Wordle Assistant](./Wordle_Solver_GUI.png "screenshot of Will Pisani's Wordle Assistant")
 
 My wife introduced me to Wordle a few days ago. Immediately I thought that coding up a Wordle solver/assistant would be a fun project and fairly simple to code. My initial Wordle assistant was clunky and needed to be edited after each guess. I used the PySimpleGUI library to make a simple GUI that works fairly well. 
 
