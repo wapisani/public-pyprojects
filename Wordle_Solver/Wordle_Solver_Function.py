@@ -8,9 +8,9 @@ This script is a companion to Wordle_Solver_GUI.py.
 """
 
 def solveWordle(guesses,correct_letters,correct_positions):
-    import json
+    import json, os
     from random import shuffle
-
+    os.chdir(r'/Users/wapisani/Documents/Programming/public-pyprojects/Wordle_Solver')
     with open(r'words_dictionary_five_letters.json','r') as handle:
         dict_words = json.load(handle)
     letters_in_word = [key for key in correct_letters.keys()]
