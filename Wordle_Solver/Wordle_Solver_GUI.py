@@ -50,10 +50,10 @@ while True:
         break
     
     if event == 'Run':
-        guesses = [values[0],values[1],values[2],values[3],values[4]]
-        letters = [l for l in values[5]]
+        guesses = [values['guess1'],values['guess2'],values['guess3'],values['guess4'],values['guess5']]
+        letters = [l for l in values['yellow']]
         correct_letters = {}
-        correct_positions = [values[6],values[7],values[8],values[9],values[10]]
+        correct_positions = [values['green1'],values['green2'],values['green3'],values['green4'],values['green5']]
         # Determine the positions of letters that were in the guesses
         # that are indeed in the word (these are the yellow letters)
         for guess in guesses:
