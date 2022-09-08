@@ -28,18 +28,18 @@ import PySimpleGUI as sg
 sg.theme('Dark Blue 3')   # Add a touch of color
 # All the stuff inside your window.
 layout = [  [sg.Text('Enter your guesses below.', font='Courier 18')],
-            [sg.InputText(font='Courier 18',size=(28,5))],
-            [sg.InputText(font='Courier 18',size=(28,5))],
-            [sg.InputText(font='Courier 18',size=(28,5))],
-            [sg.InputText(font='Courier 18',size=(28,5))],
-            [sg.InputText(font='Courier 18',size=(28,5))],
+            [sg.InputText(font='Courier 18',size=(28,5),key='guess1')],
+            [sg.InputText(font='Courier 18',size=(28,5),key='guess2')],
+            [sg.InputText(font='Courier 18',size=(28,5),key='guess3')],
+            [sg.InputText(font='Courier 18',size=(28,5),key='guess4')],
+            [sg.InputText(font='Courier 18',size=(28,5),key='guess5')],
             [sg.Text('Enter yellow letters below, as one string.\nRemove yellow letters from this box \nonce they turn green.',font='Courier 18')],
-            [sg.InputText(font='Courier 18',size=(28,5))],
+            [sg.InputText(font='Courier 18',size=(28,5),key='yellow')],
             [sg.Text('Enter green letters below in position.',font='Courier 18')],
             [sg.Text('  1  ',font='Courier 18'),sg.Text('  2  ',font='Courier 18'),sg.Text('  3  ',font='Courier 18'),sg.Text('  4  ',font='Courier 18'),sg.Text('  5  ',font='Courier 18')],
-            [sg.InputText(font='Courier 18',size=(5,5)),sg.InputText(font='Courier 18',size=(5,5)),sg.InputText(font='Courier 18',size=(5,5)),sg.InputText(font='Courier 18',size=(5,5)),sg.InputText(font='Courier 18',size=(5,5))],
+            [sg.InputText(font='Courier 18',size=(5,5),key='green1'),sg.InputText(font='Courier 18',size=(5,5),key='green2'),sg.InputText(font='Courier 18',size=(5,5),key='green3'),sg.InputText(font='Courier 18',size=(5,5),key='green4'),sg.InputText(font='Courier 18',size=(5,5),key='green5')],
             [sg.Output(font='Courier 18',size=(30,8))],
-            [sg.Button('Run',font='Courier 18'), sg.Button('Cancel',font='Courier 18')] ]
+            [sg.Button('Run',font='Courier 18'), sg.Button('Cancel',font='Courier 18'), sg.Button('Reset',font='Courier 18') ]]
 
 # Create the Window
 window = sg.Window("Will Pisani's Wordle Assistant", layout,finalize=True)
@@ -64,6 +64,19 @@ while True:
                     else:
                         correct_letters[l].append(index+1)
         solveWordle(guesses,correct_letters,correct_positions)
+    
+    if event == 'Reset':
+        window['guess1'].update('')
+        window['guess2'].update('')
+        window['guess3'].update('')
+        window['guess4'].update('')
+        window['guess5'].update('')
+        window['yellow'].update('')
+        window['green1'].update('')
+        window['green2'].update('')
+        window['green3'].update('')
+        window['green4'].update('')
+        window['green5'].update('')
                 
 window.close()
 
