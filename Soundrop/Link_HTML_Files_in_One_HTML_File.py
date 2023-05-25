@@ -10,7 +10,7 @@ royalty report web pages created in "Soundrop_Report_Generator.py".
 
 import os
 
-directory = r'/home/wapisani/Documents/Music/Soundrop_csvs'
+directory = r''
 os.chdir(directory)
 
 html_files = [x for x in os.listdir(directory) if '.html' in x and 'Soundrop_Royalty_reports.html' not in x]

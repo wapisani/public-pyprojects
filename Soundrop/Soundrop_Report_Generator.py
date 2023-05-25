@@ -2,21 +2,25 @@
 # -*- coding: utf-8 -*-
 """
 
-@author: Will Pisani
+@author: William A. Pisani
+@email: wapisani@mtu.edu
 
 This script generates an HTML page of a Soundrop royalty earnings spreadsheet.
 """
 
-import os, re
+import os, re, json
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 
 
-directory = r'/home/wapisani/Documents/Music/Soundrop_csvs'
+directory = r''
 os.chdir(directory)
 
 soundrop_csvs = [x for x in os.listdir(directory) if '.csv' in x]
 soundrop_csvs.sort()
+
+over_time = {}
 
 for csv in soundrop_csvs:
     date = csv.split('_')[1]
@@ -53,7 +57,7 @@ for csv in soundrop_csvs:
     streams_by_track_country = df.groupby(['Track Title','Country'])['Quantity'].sum()
     streams_by_country_track = df.groupby(['Country','Track Title'])['Quantity'].sum()
     # To print the full data frame, do print(df.to_string())
-    # Don't do this for a large data frame!!
+    # Don't do this for a large data frame!!☺
     
     # Get countries where the net rev is greater than 10 cents
     top_country_net_rev = net_rev_by_country[net_rev_by_country>0.3]
@@ -157,7 +161,7 @@ for csv in soundrop_csvs:
         f.write(f'Total Spotify Streams: {total_spotify_streams}\n')
         f.write('</p>')
         f.write('<center>\n')
-        f.write(f"""<img src="./{fig_net_rev_country}" class="w3-round w3-image w3-center" width="100%" height="100%">\n""")
+        f.write(f"""<img src="./{fig_net_rev_country}" class="w3-round w3-image w3-center" width="700" height="500">\n""")
         f.write('<h3 style="text-align:center">Figure 1: Net Revenue by Country</h3>\n')
         f.write(f"""<img src="./{fig_net_rev_service}" class="w3-round w3-image w3-center" width="700" height="500">\n""")
         f.write('<h3 style="text-align:center">Figure 2: Net Revenue by Service</h3>\n')
@@ -201,5 +205,29 @@ for csv in soundrop_csvs:
         f.write('</html>')
     
     
+    # Data over time
+    over_time[date] = {}
+    over_time[date]['net_rev'] = net_revenue
+    over_time[date]['total_streams'] = total_streams
+    over_time[date]['countries'] = total_countries
+    over_time[date]['total_spotify_rev'] = total_spotify_rev
+    over_time[date]['total_spotify_streams'] = total_spotify_streams
+    over_time[date]['rev_per_track'] = net_rev_by_track.to_dict()
+    over_time[date]['rev_per_country'] = net_rev_by_country.to_dict()
+    over_time[date]['streams_per_service'] = streams_by_service.to_dict()
     
     
+# Save over time data to JSON for later analysis
+# NpEncoder from https://stackoverflow.com/a/57915246 to prevent a TypeError 
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        if isinstance(obj, np.floating):
+            return float(obj)
+        if isinstance(obj, np.ndarray):
+            return obj.tolist()
+        return super(NpEncoder, self).default(obj)
+    
+with open('Soundrop_Data_Over_time.json','w') as f:
+    json.dump(over_time,f,cls=NpEncoder)
