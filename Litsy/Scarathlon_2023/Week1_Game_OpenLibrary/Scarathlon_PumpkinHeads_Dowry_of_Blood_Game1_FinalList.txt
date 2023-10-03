@@ -284,9 +284,8 @@ Total number of books for Fudge: 26
 
 
 For FunnelCakes:
-1 Fatal Funnel Cake - Livia J. Washburn
-2 The Fatal Funnel Cake A Freshbaked Mystery - Livia J. Washburn
-Total number of books for FunnelCakes: 2
+1 The Fatal Funnel Cake A Freshbaked Mystery - Livia J. Washburn
+Total number of books for FunnelCakes: 1
 
 
 For Goat:
@@ -760,4 +759,4 @@ For Vampire:
 40 Vittorio The Vampire - Anne Rice
 41 Warrior Vampire - Kate Baxter
 Total number of books for Vampire: 41
-Total number of books across all subjects: 636
+Total number of books across all subjects: 635
