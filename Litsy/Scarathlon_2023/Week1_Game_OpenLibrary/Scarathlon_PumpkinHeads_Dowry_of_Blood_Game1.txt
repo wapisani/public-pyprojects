@@ -1,0 +1,773 @@
+Open Library's Search API was used to find these books. Instructions on using the API were found at this URL: https://openlibrary.org/dev/docs/api/search
+The Open Library's database was queried (using the 'q' solr query) using these subjects as keywords (spaces between words): AppleCider, Apples, Blood, Campfire, Candy, CaramelApples, CornMaze, Crow, Dowry, Fudge, FunnelCakes, Goat, Golf, Halloween, Hotdog, JohnDenver, KettleCorn, Magic, Marshmallow, Mouse, October, Pie, Pony, PumpkinPatch, Pumpkin, S'mores, Scarecrow, Squirrel, Succotash, Train, Vampire
+
+
+For AppleCider:
+1 Apple Cider Making Days - Ann Purmell
+2 Apple Cider Pup - Maranda Zimmerman
+3 Cider Apples - Sandy Nightingale
+Total number of books for AppleCider: 3
+
+
+For Apples:
+1 A Apple Pie - Kate Greenaway
+2 An Apple From Eve - Betty Neels
+3 Apple Bough - Noel Streatfeild
+4 Apple Countdown - Joan Holub, Jan Smith
+5 Apple Days - Allison Sarnoff Soffer, Bob Mcmahon
+6 Apple Pigs - Ruth Orbach
+7 Apple Training Series - Mary Plummer
+8 Apple, Apple, Alligator - William Accorsi
+9 Apple, Inc - Jason D. O'Grady
+10 Apples! - June Crebbin, Susan Hellard, Richard Brown, Jean Glasberg, Kate Ruttle
+11 Apples, Apples - Kathleen Weidner Zoehfeld
+12 Apples, Apples! - Salina Yoon
+13 Apples, Apples, Apples - Nancy Elizabeth Wallace
+14 Apples, Apples, Apples! - Victoria Kann
+15 Bad Apple - Larry Bograd
+16 Bad Apple - Laura Ruby
+17 Eve'S Apples - Lena Kennedy
+18 Fool'S Apple - Sara Cardiff
+19 Fresh Apples - Rachel Trezise
+20 Golden Apples - Paul Heiney
+21 Rotten Apples - Edith Pinero Green
+22 The Apple Gathering - Jacob Abbott
+23 The Apple Orchard - Susan Wiggs
+24 The Golden Apples - Eudora Welty
+25 The Golden Apples Of The Sun And Other Stories - Ray Bradbury, Francisco Abelenda, Richard Negrou
+26 Wax Apple - Tucker Coe
+27 White Apples - Jonathan Carroll
+28 Wild Apples - Henry David Thoreau
+29 Wild Apples - Lucinda Franks
+Total number of books for Apples: 29
+
+
+For Blood:
+1 Bad Blood - John Sandford
+2 Bad Blood - Lorna Sage
+3 Blood - Alan Durant
+4 Blood - Patricia Traxler
+5 Blood And Gold - Anne Rice
+6 Blood Brother - Elliott Arnold
+7 Blood Brothers - Nora Roberts
+8 Blood Brothers Of Gor - John Norman
+9 Blood Canticle - Anne Rice
+10 Blood Debt ; Blood Bank - Tanya Huff
+11 Blood Dreams - Kay Hooper
+12 Blood Eagle - Craig Russell
+13 Blood For Blood - Julian Gloag
+14 Blood For Blood - Ryan Graudin
+15 Blood For Blood - S. K. Rizzolo
+16 Blood Hunt - Ian Rankin, Ian Rankin
+17 Blood Junction - Caroline Carver, Caroline Carver
+18 Blood Kin - Ceridwen Dovey
+19 Blood Lies - Daniel Kalla
+20 Blood Magic - Tessa Gratton
+21 Blood Moon - Edward Gorman
+22 Blood Music - Greg Bear, George Guidall
+23 Blood Of My Blood - Barry Lyga
+24 Blood Orange - Sam Llewellyn
+25 Blood Red - Heather Graham
+26 Blood Ritual - Frances Gordon, Gordon
+27 Blood Royal - Dornford Yates
+28 Blood Sport - Dick Francis
+29 Blood Stone - Michael Allegretto
+30 Blood Test - Jonathan Kellerman
+31 Blood To Blood - Elaine Bergstrom
+32 Blood Vines - Erica Spindler
+33 Blood Will Have Blood - Lee Lejeune
+34 Blood Work - Michael Connelly
+35 Captain Blood - Rafael Sabatini
+36 Captain Blood Returns - Rafael Sabatini, Rafael Sabatini
+37 Clive Barker'S Books Of Blood Volume Four - Clive Barker
+38 Cold Blooded - Lisa Jackson
+39 Creek Mary'S Blood - Dee Alexander Brown
+40 Dragon'S Blood - Christopher Nicole
+41 Dragon'S Blood - Jane Yolen
+42 First Blood - Robert Asprin, Lynn Abbey
+43 Flesh And Blood - Jonathan Kellerman
+44 Harry Potter And The Half-Blood Prince - J. K. Rowling
+45 Hot Blooded - Lisa Jackson
+46 Hottest Blood - Jeff Gelb
+47 In Cold Blood - Truman Capote
+48 Innocent Blood - P. D. James
+49 Oxford Blood - Antonia Fraser
+50 The Blood - D. J. Machale
+51 Wise Blood - Flannery O'Connor
+52 Witch'S Blood - William Blain
+Total number of books for Blood: 52
+
+
+For Campfire:
+1 Andy Adams' Campfire Tales - Andy Adams
+2 Bigfoot Campfire Stories - Rusty Wilson
+3 Camp-Fire And Wigwam - Edward Sylvester Ellis
+4 Campfire - Shawn Sarles
+5 Campfire Capers - Lisa Mullarkey
+6 Campfire Chillers - Edith M. Freeman, E.M. Freeman, Mary Eleanor Wilkins Freeman
+7 Campfire Confessions - Kristine Ochu
+8 Campfire Cookies - Martha Freeman
+9 Campfire Ghost Stories - Jo-Anne Christensen
+10 Campfire Mallory - Laurie B. Friedman
+11 Campfire Morgan - Ted Staunton
+12 Campfire Secrets - Art Baltazar
+13 Campfire Stories - Andres Miedoso, Victor Rivas
+14 Campfire Stories - Nicola Kapron
+15 Campfire Stories - Tim Thompson
+16 Campfire Tales Kentucky - Roberta Simpson Brown
+17 Campfire Vampire - John Sazaklis, Patrycja Fabicka
+18 Final Campfire - Robert Sobczak, Robert Sobczak, Robert Sobczak, Rudi Heinrich
+19 Piper Reed Campfire Girl - Kimberly Willis Holt
+20 The Campfire Boys - Philip Lee Williams
+21 The Campfire Collection - Katherine Duane
+22 The Campfire Collection - R. L. Stine
+23 The Kids Campfire Book - Jane Drake, Jane Drake, Ann Love
+Total number of books for Campfire: 23
+
+
+For Candy:
+1 Angry Candy - Harlan Ellison
+2 Arm Candy - Jill Kargman
+3 Arm Candy - Jo Leigh
+4 Candy - Kevin Brooks
+5 Candy - Luke Davies
+6 Candy - Mian Mian
+7 Candy - Terry Southern
+8 Candy Apple Dead - Sammi Carter
+9 Candy Basket - Valenti Angelo
+10 Candy Box - Kojo Black, Lara Addams, Malin James
+11 Candy Floss - Rumer Godden
+12 Candy House - Jennifer Egan
+13 Candy Hunter - Mark Reddish, Hector Mexia
+14 Candy Licker - Noire.
+15 Candy Papers - Helen Cavanagh
+16 Candy Story - Marie Redonnet
+17 Concrete Candy - Apollo
+18 Eye Candy - Dorie Graham
+19 Gym Candy - Carl Deuker
+20 Hard Candy - Andrew Vachss
+21 Hard Candy Saga - Amaleka G. Mccall
+22 I Want Candy - Kim Wong Keltner
+23 Ice Candy Man - Bapsi Sidhwa
+24 L. A. Candy - Lauren Conrad
+25 L.A. Candy (L.A. Candy #1) - Lauren Conrad
+26 Penny Candy - Edward Fenton
+27 Poison Candy = - David Hine, David Hine, Hans Steinbach
+28 Strange Candy - Laurell K. Hamilton
+29 Tasting Candy - Ray Gordon
+30 The Big Rock Candy Mountain - Wallace Stegner
+31 The Candy Factory - Sylvia Fraser
+32 The Candy Smash - Jacqueline Davies
+33 The Candy Witch - Steven Kroll
+34 Yuvi'S Candy Tree - Lesley Simpson
+Total number of books for Candy: 34
+
+
+For CaramelApples:
+1 Felix At The Amusement Park #08-3012518 - Kidz Collection
+2 Popcorn - April R. Newton
+Total number of books for CaramelApples: 2
+
+
+For CornMaze:
+1 Corn Maze - Just Right Reader
+2 Corn Maze - Olesia Parker
+3 Kornstalkers - Dan Waltz
+4 Lost In The Corn Maze - Precious Mckenzie
+5 Lost In The Corn Maze - Precious Mckenzie, Marie Allen
+6 The Clue In The Corn Maze - Gertrude Chandler Warner, Robert Papp
+7 What We Found In The Corn Maze And How It Saved A Dragon - Henry Clark
+Total number of books for CornMaze: 7
+
+
+For Crow:
+1 A Hooded Crow - Craig Thomas
+2 As The Crow Files - Jeffrey Archer
+3 Black Crow, Black Crow - Ginger Foglesong Guy
+4 Blacky The Crow - Thornton W. Burgess
+5 Calling Crow - Paul Clayton
+6 Crow - James O'Barr, John Wagner, Alexander Maleev
+7 Crow - Lisa Vanecek
+8 Crow And Weasel - Barry Lopez
+9 Crow Bait - Douglas Skelton
+10 Crow Bait - Robert J. Randisi
+11 Crow Boy - Tarō Yashima
+12 Crow Call - Lois Lowry, Bagram Ibatoulline
+13 Crow Girl - Kate Cann
+14 Crow Mountain - Lucy Inglis
+15 Crow Not Crow - Jane Yolen
+16 Crow Stone - Jenni Mills
+17 Crow'S Tale - Naomi Howarth
+18 Crow'S War - James Mcgee
+19 Crow-Girl - Bodil Bredsdorff, Faith Ingwersen
+20 Crows & Cards - Joseph Helgerson
+21 Crows - Charles Dickinson
+22 Fools Crow - James Welch
+23 Hollywood Crows - Joseph Wambaugh
+24 Old Crow - Shena Mackay
+25 Sea Crow - Shannon Stewart
+26 Six Of Crows - Leigh Bardugo
+27 Still Life With Crows - Douglas Preston, Lincoln Child
+28 Storm Crow - Jeff Gulvin
+29 The Blood Of Crows - Caro Ramsay
+30 The Compleat Crow - Brian Lumley
+31 The Crow - Alison Croggon
+32 The Crow - James O'Barr
+33 The Crow - James Vance, Alexander Maleev, James O'Barr
+34 The Crow - K. Shivkumar
+35 The Crow Biddy - Gill White
+36 The Crow Eaters - Bapsi Sidhwa
+37 The Crow Girl - Erik Axl Sund
+38 The Crow Road - Iain M. Banks
+39 The Crow'S-Nest - Sara Jeannette Duncan
+40 The Daughter Of Anderson Crow - George Barr Mccutcheon
+41 The Fourth Crow - Pat Mcintosh
+42 The Merciful Crow - Margaret Owen
+43 The Storm Crow - Kalyn Josephson
+44 The Way The Crow Flies - Ann-Marie Macdonald
+45 Those Calculating Crows! - Ali Wakefield
+46 Voice Of Crow (Aspect Of Crow) - Jeri Smith-Ready
+47 White Crow - Marcus Sedgwick
+48 White Crow - Myrtle Quimby
+Total number of books for Crow: 48
+
+
+For Dowry:
+1 A Dowry Of Blood - S T Gibson
+2 Destiny'S Dowry - Rosemary Gard
+3 Dowry - Frances Walter
+4 Dowry Blade - Cherry Potts
+5 Dowry Divas - Zara J
+6 Dowry Of Anna Berlitz - Kristin York
+7 Helga'S Dowry - Tomie Depaola
+8 Impoverished Dowry - Emily Ek Murdoch
+9 Queen'S Dowry - Aislinn Kerry
+10 The Disappearing Dowry - Libi Astaire
+11 The Dowry - Ginger Whitaker, Giner Whittaker
+12 The Dowry - Walter Keady
+13 The Dowry Bride - Shobhan Bantwal
+14 The Dressmaker'S Dowry - Meredith Jaeger
+15 The Lace Dowry - Andrea Cheng
+16 The Spanish Dowry - L. Dougall
+17 The Unpaid Dowry - Komben Emmanuel Ngwainmbi
+18 Wolf'S Dowry - Johnny Stone
+19 Yelling Dowry - Amir Tag Elsir
+Total number of books for Dowry: 19
+
+
+For Fudge:
+1 All Fudged Up - Nancy Coco
+2 Big Fudge - Tempany Deckert
+3 Bunnicula'S Pals -- Harold, Howie And Chester -- In Hot Fudge - James Howe
+4 Double Fudge - Judy Blume
+5 Five-Alarm Fudge - Christine Desmet
+6 Forever Fudge - Nancy Coco
+7 Friendship Fudge - Lorna Honeywell
+8 Fudge - Charlotte Towner Graeber
+9 Fudge And Jury - Ellie Alexander
+10 Fudge Cupcake Murder - Joanne Fluke
+11 Fudge Doings - Donald Grant Mitchell
+12 Fudge Factor - Robert Elmer
+13 Fudge In Bubbleville - Ken Reid - Undifferentiated
+14 Fudge Judge - Brooke Vitale, Mila Uvarova
+15 Fudge-A-Mania - Judy Blume
+16 Fudging The Books - Daryl Wood Gerber
+17 Hot Fudge - Anthony Bruno
+18 Hot Fudge - James Howe
+19 Hot Fudge Frame-Up - Christy Desmet
+20 Hot Fudge Hero - Pat Brisson
+21 Hot Fudge Murder - Cynthia Baxter
+22 Hot Fudge Sundae Blues - Bev Marshall
+23 Oh, Fudge - Ernest G. Bormann
+24 Oh, Fudge! - Nancy Coco
+25 Superfudge - Judy Blume
+26 To Fudge Or Not To Fudge - Nancy Coco
+Total number of books for Fudge: 26
+
+
+For FunnelCakes:
+1 Fatal Funnel Cake - Livia J. Washburn
+2 The Fatal Funnel Cake A Freshbaked Mystery - Livia J. Washburn
+Total number of books for FunnelCakes: 2
+
+
+For Goat:
+1 A Goat'S Song - Dermot Healy, Dermot Healy
+2 Beatrice'S Goat - Page Mcbrier
+3 Catch That Goat! - Polly Alakija
+4 Goat - Anne Fleming
+5 Goat Dance - Douglas Clegg
+6 Goat Mountain - David Vann
+7 Goat Song - Dodici Azpadu
+8 Goat'S Trail - Brian Wildsmith
+9 Goats - Mark Jude Poirier
+10 Let'S Count Goats - Mem Fox, Jan Thomas
+11 Mr. Goat'S Valentine - Eve Bunting, Kevin Zimmer
+12 Reggie The Goat - Frances Altman
+13 Rosanna The Goat - Mary Cockett, Reginald Gray
+14 Soup'S Goat - Robert Newton Peck
+15 The Birthday Goat - Nancy Dingman Watson
+16 The Flying Goat - H. E. Bates
+17 The Goat Café - Francesca Simon, Leo Broadley
+18 The Goat Castle Murder - Michael Llewellyn
+19 The Goat-Foot God - Dion Fortune
+20 The Goats - Brock Cole
+21 The Grumpy Goat - Heather Amery, Stephen Cartwright, Steven Cartwright, Emily Huws
+22 The Judas Goat - Robert B. Parker
+23 The Three Billy Goats Gruff - Paul Galdone
+24 The Three Goats - Margaret Hillert
+Total number of books for Goat: 24
+
+
+For Golf:
+1 Doctor Golf - Fox, William
+2 Go Golf - Gavin Newsham
+3 Golf Dreams - John Updike
+4 Golf For Dummies - Gary Mccord
+5 The Murder On The Links - Agatha Christie
+Total number of books for Golf: 5
+
+
+For Halloween:
+1 Carrie - Stephen King
+2 Fantastic Fables - Ambrose Bierce
+3 Hallowe'En Party - Agatha Christie
+4 Halloween = - May Harte, Rachel O'Connor
+5 It'S Halloween - Jack Prelutsky
+6 The Halloween Tree - Ray Bradbury
+Total number of books for Halloween: 6
+
+
+For Hotdog:
+1 Do Vampires Like Hotdog Buns? - Ashley Moore, Badrus Soleh
+2 Hotdog Math - Later Inc
+3 Hotdog On Tv - Karen T. Taha
+4 Hotdog Shop - Amy Ingalls, Jennie Roberts Roberts, Pryor Rayburn, Kamie Rudisill
+5 Hotdog, Frankenstina, And Metamorphic Me - Dale Bryan
+6 The Legend Of The Flying Hotdog - Celeste White
+7 Those Were The Days - Gary Diehl
+Total number of books for Hotdog: 7
+
+
+For JohnDenver:
+1 Denver - John Dunning
+2 John Denver'S Ancient Rhymes - Christopher Canyon
+3 John Elway And The Denver Broncos - Michael Sandler
+Total number of books for JohnDenver: 3
+
+
+For KettleCorn:
+Total number of books for KettleCorn: 0
+
+
+For Magic:
+1 Enid Blyton'S The Magic Faraway Tree - Enid Blyton, Mark Beech
+2 Fog Magic - Julia L. Sauer
+3 Fur Magic - Andre Norton
+4 Glinda Of Oz - L. Frank Baum
+5 Half Magic (Tales Of Magic #1) - Edward Eager
+6 Island Magic - Elizabeth Goudge
+7 Magic - Gilbert Keith Chesterton
+8 Magic Fishbone - Charles Dickens
+9 Magic Kingdom For Sale/Sold! - Terry Brooks
+10 Possum Magic - Mem Fox, Vivas Julie, Julie Vivas
+11 Practical Magic - Alice Hoffman
+12 Rinkitink In Oz - L. Frank Baum, Andrew J. Heller, John R. Neill
+13 Shadow Magic - Patricia C. Wrede
+14 Steel Magic (Magic Books (Starscape)) - Andre Norton
+15 Sylvester And The Magic Pebble - William Steig, William Steig
+16 The Colour Of Magic - Terry Pratchett
+17 The Magic Barrel - Bernard Malamud, Bernard Malamud
+18 The Magic Books - Andre Norton
+19 The Magic City - Edith Nesbit
+20 The Magic Finger - Roald Dahl
+21 The Magic Of Oz - L. Frank Baum, John R. Neill, Enric Solbes Cabrera, Josep Franco Martínez, Jenny Sánchez, Joshua George, Dania Florino, Anna Gasol
+22 The Magic Walking-Stick - John Buchan
+23 The Magic World - Edith Nesbit
+24 This Rough Magic - Mary Stewart
+25 Through The Magic Door - Arthur Conan Doyle
+26 Wet Magic (Books Of Wonder) - Edith Nesbit
+27 Wild Magic - Tamora Pierce
+28 Witch Wood - John Buchan
+29 Zauberberg - Thomas Mann
+Total number of books for Magic: 29
+
+
+For Marshmallow:
+1 Dragons And Marshmallows - Asia Citro
+2 Jump, Marshmallow, Jump - Michèle Dufresne, Ann Caranci
+3 Marshmallow - Clare Turlay Newberry
+4 Marshmallow Clouds - Leslie Parrott
+5 Marshmallow Clouds - Vonnie Woodrick
+6 Marshmallow Cowboy - Matt Rush
+7 Marshmallow Gets A Little Sister - Kimberly Brayman, Irina Dennisova
+8 Marshmallow Incident - Judi Barrett, Ron Barrett
+9 Marshmallow Kisses - Linda Crotta Brennan
+10 Marshmallow Love - Rachel Schiller, S. I. International
+11 Marshmallow Makes A New Friend - Michele Dufresne, Ann Caranci
+12 Marshmallow Man - Jordan Moore
+13 Marshmallow Martians - Deanna Kent, Neil Hooson
+14 Marshmallow Mermaid - Michael Dahl, Jeff Crowther
+15 Marshmallow Muscles, Banana Brainstorm - Karen T. Taha
+16 Marshmallow Mystery - C. J. Corki
+17 Marshmallow Mystery - Helen Perelman
+18 Marshmallow Mystery - Helen Perelman, Erica-Jane Waters
+19 Marshmallow Paints The Town - Kimberly Brayman, Irina Dennisova
+20 Marshmallow Pie - Graham Lord
+21 Marshmallow Skye - Cathy Cassidy
+22 Marshmallows - Louise Willingham
+23 Marshmallows For Breakfast - Dorothy Koomson
+24 Marshmallows For Martians - Charlotte Guillain, Adam Guillain, Lee Wildish
+25 Marshmallows In Danger - Arnav Chandra
+26 Most Marshmallows - Rowboat Watkins
+27 Owen'S Marshmallow Chick Book And Finger Puppet - Kevin Henkes
+28 Riding Marshmallow - Michèle Dufresne, Ann Caranci
+29 Santa'S Marshmallow Canyon - Patricia Bartolomeo
+30 Shooggie'S Marshmallow Rain - Pamela Ebert Davidson
+31 The Lonely Marshmallow - Quinzel Lee, Lawanda Burrell
+32 The Marshmallow Caper - Gloria D. Miklowitz
+33 The Marshmallow Experiment - Rachel Dixon
+34 The Marshmallow Incident - Judi Barrett
+35 The Marshmallow Mermaid - Michael Dahl
+Total number of books for Marshmallow: 35
+
+
+For Mouse:
+1 A Mouse'S Diary - Michelle Cartlidge
+2 Barking Mouse - Antonio Sacre, Alfredo Aguirre
+3 Bear Mouse Freschet - Berniece Freschet
+4 Bedtime Mouse - Sandol Stoddard
+5 Bookstore Mouse - Peggy Christian
+6 Cat & Mouse - James Patterson
+7 Cathedral Mouse - Kay Chorao
+8 Eeeek, Mouse! - Lydia Monks
+9 Emergency Mouse - Bernard Stone, Ralph Steadman
+10 Gingerbread Mouse - Katy Bratun
+11 Goodbye Mickey Mouse - Len Deighton
+12 House Mouse, Senate Mouse - Peter W. Barnes
+13 I, Mouse - Robert Kraus
+14 Inside Mouse, Outside Mouse - Lindsay Barrett George
+15 Inspector Mouse - Bernard Stone
+16 Kat & Mouse - Alex De Campi, Federica Manfredi
+17 Library Mouse - Daniel Kirk
+18 Maggie Mouse - Katherine Rawson
+19 Marar Mouse - Savitri.
+20 Maria And Mouse Mouse, Mouse Mouse And Maria - Beverly Donofrio
+21 Moon Mouse - Adelaide Holl
+22 Mouse Around - Pat Schories
+23 Mouse By Mouse - Julia Noonan
+24 Mouse Café - Patricia Coombs
+25 Mouse Code - Jack Ronder
+26 Mouse Count - Felicia Law
+27 Mouse House - John Burningham
+28 Mouse House - Rumer Godden
+29 Mouse Island - Eve Bunting
+30 Mouse Mischief - Margaret Greaves, Jane Pinkney
+31 Mouse Soup - Arnold Lobel, Alain Prinsaud
+32 Mouse Tales - Arnold Lobel, Syd Hoff, Edith Thacher Hurd
+33 Mouse Time: Two Mouse Stories In One Volume - Rumer Godden
+34 Mouse Trouble - John Yeoman
+35 Mouse Tv - Matt Novak
+36 Mouse'S Birthday - Jane Yolen
+37 Mouse'S Marriage - Junko Morimoto
+38 Mrs. Mortifee'S Mouse - Linda Hendry
+39 Pinchpenny Mouse - Robert Kraus, Robert Byrd
+40 Pinta Ratones - Ellen Stoll Walsh
+41 Quasimodo Mouse - Bernard Stone, Ralph Steadman
+42 Ralph S. Mouse - Beverly Cleary
+43 Scaredy Mouse - Alan Macdonald
+44 Snow Mouse - Phyllis Root
+45 The Church Mouse - Graham Oakley
+46 The Green Mouse - Robert William Chambers
+47 The Mouse And His Child - Russell Hoban, Small, David
+48 The Mouse And The Motorcycle - Beverly Cleary
+49 The Pocket Mouse - Barbara Willard
+50 The Schoolmouse - Dick King-Smith, Chris Riddell, Cynthia Fisher
+51 The Stone Mouse - Jenny Nimmo
+52 The Subway Mouse - Barbara Reid
+53 The Tale Of Johnny Town-Mouse - Beatrix Potter, Wendy Rasmussen, H.Y. Xiao Phd
+54 The Town Mouse And The Country Mouse - Christopher E. Long
+55 The Town Mouse And The Country Mouse - Paul Galdone
+56 Town Mouse, Country Mouse - Carol Jones
+57 Town Mouse, Country Mouse - Jan Brett
+58 Walt Disney'S Country Mouse, City Mouse - Walt Disney Productions
+59 Where'S Mouse? - Baker, Alan
+60 Word Of Mouse - James Patterson, Chris Grabenstein, Joe Sutphin
+Total number of books for Mouse: 60
+
+
+For October:
+1 Love'S Labour'S Lost - William Shakespeare
+2 Much Ado About Nothing - William Shakespeare
+3 Night And Day - Virginia Woolf, Julia Briggs, Kristen Radtke, Lauren Groff, Hao Luo, Rachel Wetzsteon, Jan Oliveira, Harry Wong, Supernova Star Books
+4 October Men - Anthony Price
+5 The Hunt For Red October - Tom Clancy
+6 The October Country - Ray Bradbury
+Total number of books for October: 6
+
+
+For Pie:
+1 A Apple Pie - Kate Greenaway
+2 All For Pie, Pie For All - Martin, David
+3 Apple Pie - David Mazzotta
+4 Babyberry Pie - Heather Vogel Frederick
+5 Blueberry Pie - Louise Lee Floethe
+6 Drums, Girls, And Dangerous Pie - Jordan Sonnenblick
+7 Elephant Pie - Hilda Offen
+8 Gator Pie - Louise Mathews
+9 Halloween Pie - Michael O. Tunnell
+10 Horse Pie - Dick King-Smith
+11 Humble Pie - Jennifer Donnelly
+12 Marshmallow Pie - Graham Lord
+13 Never Say Pie - Carol Grace, Carol Culver
+14 Pecan Pie Baby - Jacqueline Woodson
+15 Pie - Sarah Weeks
+16 Pie Magic - Toby Forward
+17 Pie Rats Ahoy! - Richard Scarry
+18 Pie'S In Theoven - Betty G. Birney
+19 Pie, The Pie, And Oh That Smell! - Connie Smith, Carla Castagno
+20 Pie-Biter - Ruthanne Lum Mccunn
+21 Pigeon Pie - Nancy Mitford
+22 Piggie Pie! - Margie Palatini
+23 Plum Pie - P. G. Wodehouse
+24 Puppy Pie - Jay Williams, Wayne Blickenstaff
+25 Rabbit Pie - Gerald Rose
+26 Rabbit Pie - Penny Ives
+27 Squash Pie - Wilson Gage
+28 Stargazy Pie - Laura Lockington
+29 Sweet Dream Pie - Audrey Wood, Mark Teague
+30 Sweet Potato Pie - Kathleen D. Lindsey
+31 The Bye-Bye Pie - Sharon Jennings
+32 The Misadventures Of Sweetie Pie - Chris Van Allsburg
+33 The Pie And The Patty-Pan - Beatrix Potter, H.Y. Xiao Phd
+34 The Pigeon Pie - Charlotte Mary Yonge
+35 The Pigeon Pie Mystery - Julia Stuart
+36 The Quarter-Pie Window - Marianne Brandis
+Total number of books for Pie: 36
+
+
+For Pony:
+1 Charming Ponies - Lois K. Szymanski
+2 Horses And Ponies - Camilla De La BéDoyèRe
+3 Leah'S Pony - Elizabeth Friedrich
+4 Little Pony - Anna Milbourne
+5 My Little Pony - Ann Marie Capalija
+6 My Little Pony - G. M. Berrow
+7 My Little Pony - Jodi Huelin
+8 My Little Pony - Kate Egan
+9 My Little Pony - Namrata Tripathi
+10 My Little Pony - Nora Pelizzari
+11 My Little Pony - Scout Driggs
+12 My Little Pony - Ted Anderson
+13 My Little Pony : Pony Life - Hasbro
+14 My Magical Pony - Jenny Oldfield
+15 Painted Ponies - Amanda Harte
+16 Pantomime Ponies - Gillian Baxter
+17 Ponies - Dorling Kindersley Publishing, Inc
+18 Pony Party - Jill Kalz
+19 Pony Party - Kate Egan
+20 Pony Party! - P. J. Denton
+21 Pony Pedro - Erwin Strittmatter
+22 Pony Soldier - Lee Mcgiffin
+23 Popsicle Pony - Jill Stover
+24 Summer Pony - Jean Slaughter Doty
+25 The Magic Pony - Patricia Leitch
+26 The Pony Rebellion - Janet Rising
+27 The Red Pony - John Steinbeck
+28 War Pony - Donald Emmet Worcester
+29 Western Pony - Jeanne Betancourt, Jeanne Bethancourt
+30 Winning Pony (Pony Pals) - Jeanne Betancourt
+31 Winter Ponies - Pamela Cockerill, Pamela Cockrill
+32 Winter Pony - Jean Slaughter Doty
+Total number of books for Pony: 32
+
+
+For PumpkinPatch:
+1 Biscuit Visits The Pumpkin Patch - Alyssa Satin Capucilli
+2 Dead In The Pumpkin Patch - Kensington
+3 Hatched In The Pumpkin Patch - Christopher Wilson
+4 Jeb Scarecrow'S Pumpkin Patch - Jana Dillon
+5 Justin'S Pumpkin Patch Adventure - Tamika L Prince
+6 Justin'S Pumpkin Patch Adventure - Tamika Prince, Devin Smith
+7 Karen'S Pumpkin Patch - Ann M. Martin
+8 Kittens And The Pumpkin Patch - Finley J. Keller
+9 Mysterious Pumpkin Patch - George E. Richardson, Joe Lee
+10 Patty'S Pumpkin Patch - Teri Sloat
+11 Peter Rabbit And The Pumpkin Patch - Beatrix Potter
+12 Piggies In The Pumpkin Patch - Mary Peterson
+13 Pony In A Pumpkin Patch - Ben M. Baglio
+14 Pumpkin Patch - Holly Valero
+15 Pumpkin Patch - Pm. Martin
+16 Pumpkin Patch And A Fling - Starla Dekruyf
+17 Pumpkin Patch Blessings - Kim Washburn, Jacqueline East
+18 Pumpkin Patch Party (Sesame Street) - Joel Schick
+19 Pumpkin Patch Scarecrows - Frank Fiorello
+20 The Kitten In The Pumpkin Patch - Shaw, Richard
+21 The Pumpkin Patch - Cm Leslie
+22 The Pumpkin Patch - Elizabeth King
+23 The Pumpkin Patch - Margaret Mcnamara
+24 The Pumpkin Patch - Patricia Miles Martin
+25 The Pumpkin Patch Puzzle - Carolyn Keene
+26 The Pumpkin Patch Puzzle - Sheila Sweeny
+27 The Witch In The Pumpkin Patch - Molly Mia Stewart
+28 To The Pumpkin Patch - Katherine Follett, David Cockcroft
+Total number of books for PumpkinPatch: 28
+
+
+For Pumpkin:
+1 Big Pumpkin - Erica Silverman
+2 Five Little Pumpkins - Ben Mantle
+3 Proud Pumpkin - Nora Spicer Unwin
+4 Pumpkin Day, Pumpkin Night - Anne F. Rockwell, Megan Halsey
+5 Pumpkin Eye - Denise Fleming
+6 Pumpkin Heads - Wendell Minor
+7 Pumpkin Heads! - Wendell Minor
+8 Pumpkin Moonshine - Tasha Tudor
+9 Pumpkin Oh Pumpkin - Farrah Fryar
+10 Pumpkin Pumpkin - Jeanne Titherington
+11 Pumpkin Spice - Jenny Meyerhoff
+12 Pumpkin, Pumpkin - Jeanne Titherington
+13 Pumpkins, Pumpkins, Pumpkins - Nancy Elizabeth Wallace
+14 Snow Pumpkin - Carole Lexa Schaefer
+15 The Pumpkin Blanket - Deborah Turney Zagwyn
+16 The Pumpkin Eater - Penelope Mortimer
+17 The Pumpkin Fair - Eve Bunting
+18 The Ugly Pumpkin - Dave Horowitz
+Total number of books for Pumpkin: 18
+
+
+For S'mores:
+1 Dino S'Mores - Emily Macnevin, Fhiona Galloway
+2 Let'S Make S'Mores - Joseph D. Newcomer, Alfred Stewart
+3 Life Of A S'More - Kris Taft Miller
+4 Love You S'More - Beth Merlin
+5 One S'More Summer - Beth Merlin
+6 P.S. Send More Cookies - Martha Freeman
+7 Petits S'Mores - Mardi Ballou
+8 S'More Murders - Maya Corrigan
+9 S'More Than A Feeling - Marika Ray
+10 S'More To Lose - Beth Merlin
+11 S'More'S Lost Pom Pom - Bonny Gaffney
+12 S'Mores - Just Right Reader
+13 S'Mores - Mary Ann Jensen
+14 S'Mores Explorer'S Cookbook - Sarah Gordon
+15 S'Mores Family - Mike Bezilla, Rachel Whitlinger
+16 Scooby-Doo In Nothing S'More Terrifying! - Darryl Taylor Kravitz
+17 September S'Mores - Theresa Del Vecchio, Karla Polifrone
+18 Something More (Gollancz Sf S.) - Paul Cornell
+19 Tell Me S'More - Beth Merlin
+Total number of books for S'mores: 19
+
+
+For Scarecrow:
+1 Hello Mr. Scarecrow - Rob Lewis
+2 Scarecrow - Cynthia Rylant
+3 Scarecrow - Cynthia Rylant, Lauren Stringer
+4 Scarecrow - Darren G. Burton
+5 Scarecrow - Douglas Smith
+6 Scarecrow - Ellowyn Beimler
+7 Scarecrow - Ingrid Sampo
+8 Scarecrow - Matthew Pritchard
+9 Scarecrow - Matthew Reilly
+10 Scarecrow - Matthew Reilly, Steven Pacey
+11 Scarecrow - Michael Connelly
+12 Scarecrow - Michael Rex
+13 Scarecrow - Pam Holden
+14 Scarecrow - Richie Tankersley Cusick
+15 Scarecrow - Robin Hathaway
+16 Scarecrow - Ronald Hugh Morrieson, Craig Sherborne
+17 Scarecrow - Sean Williams
+18 Scarecrow - V. Zheleznikov, Vladimir Zheleznikov
+19 Scarecrow - William M. Hutchins
+20 Scarecrow Returns - Matthew Reilly
+21 Scarecrow'S Nightmare Maze - J. E. Bright
+22 Scarecrows - Robert Westall
+23 Scarecrows Secret - Heather Amery, Stephen Cartwright, Anna Milbourne
+24 The Little Scarecrow Boy - Margaret Wise Brown
+25 The Scarecrow - Caroline Rush
+26 The Scarecrow - Michael Connelly
+27 The Scarecrow - Ronald Hugh Morrieson
+28 The Scarecrow Of Oz - L. Frank Baum, Taylor Anderson, Russell Lee, John R. Neill
+29 The Scarecrow Queen - Melinda Salisbury
+30 The Scarecrows - Robert Westall
+31 The Scarecrows Wedding - Julia Donaldson, Axel Scheffler
+32 The Ticklish Scarecrow - Pauline Emsley
+Total number of books for Scarecrow: 32
+
+
+For Squirrel:
+1 Baker Squirrel - Anderson, Patricia
+2 Baker Squirrel - P. Anderson
+3 Ekorn The Squirrel - Ruth Orbach
+4 Grey Squirrel - John Paling
+5 Squirrel'S Fun Day - Lisa Moser
+6 Squirrel'S Tale - Mary Mouton, Nisa Kuzucan
+7 The Knot Squirrel Tied - Alison Uttley
+8 The Squirrel Wife - Philippa Pearce
+9 The Squirrel'S Thanksgiving - Steven Kroll
+10 The Tale Of Squirrel Nutkin - Beatrix Potter, Wendy Rasmussen, H.Y. Xiao Phd, H Y Xiao Phd
+11 The Unbeatable Squirrel Girl - Ryan North
+12 Those Darn Squirrels! - Adam Rubin, Daniel Salmieri
+Total number of books for Squirrel: 12
+
+
+For Succotash:
+1 Babar And The Succotash Bird - Laurent De Brunhoff
+2 The Trailer Trash Chronicles - Leigh Adrien James
+Total number of books for Succotash: 2
+
+
+For Train:
+1 Mr Norris Changes Trains - Christopher Isherwood
+2 Stamboul Train - Graham Greene
+3 The 4:50 From Paddington - Agatha Christie
+4 The Great Train Robbery - Michael Crichton
+5 The Mystery Of The Blue Train - Agatha Christie
+6 Train - Pete Dexter
+Total number of books for Train: 6
+
+
+For Vampire:
+1 Carmilla - Joseph Sheridan Le Fanu
+2 Goosebumps - Vampire Breath - R. L. Stine, Patricia Aleixandre
+3 Interview With The Vampire - Anne Rice
+4 Last Vampire - Willis Hall, W. Hall, Babette Cole, Hervé Zitvogel
+5 Prisoners Of Vampires - Nancy Garden
+6 Rosario  + Vampire - Akihisa Ikeda
+7 The Accidental Vampire - Lynsay Sands
+8 The Dark Vampire - Kate Baxter
+9 The House Of The Vampire - George Sylvester Viereck
+10 The Last Vampire - Christopher Pike
+11 The President'S Vampire - Christopher Farnsworth
+12 The Vampire - Les Martin
+13 The Vampire Armand - Anne Rice
+14 The Vampire Lestat - Anne Rice
+15 The Vampire Mystery - Gertrude Chandler Warner, Robert Papp
+16 The Vampire Shrink - Lynda Hilburn
+17 The Vampire Tapestry - Suzy Mckee Charnas
+18 Uncle Vampire - Cynthia D. Grant
+19 Vampire & Werewolf Stories - Alan Durant, Alan Durant, Alan Durant,Nick Hardcastle, Arthur Conan Doyle
+20 Vampire - Bo Widfeldt, Åke Hall
+21 Vampire - Snoo Wilson
+22 Vampire Academy - Richelle Mead
+23 Vampire Hunt - Dan Jolley
+24 Vampire Junction - S. P. Somtow
+25 Vampire Kisses - Ellen Schreiber
+26 Vampire Kisses 3 - Ellen Schreiber
+27 Vampire Kisses 4 - Ellen Schreiber
+28 Vampire Knight - 樋野 まつり
+29 Vampire Lover - Charlotte Lamb
+30 Vampire Mistress - Joey W. Hill
+31 Vampire Mom - Don Whittington
+32 Vampire Nation - Thomas M. Sipos, Thomas M.Sipos
+33 Vampire Royalty - Valerie Hoffman
+34 Vampire Trouble - Sara Humphreys, Sara Humphreys
+35 Vampire'S Revenge - Eric Morecambe
+36 Vampire'S Revenge - Willis Hall, Tony Ross, Babette Cole
+37 Vampires - John Steakley
+38 Vampires - Michael Ashley
+39 Vikram And The Vampire - Richard Francis Burton, Ernest Henry Griset, Isabel Lady Burton, Ernest Griset
+40 Vittorio The Vampire - Anne Rice
+41 Warrior Vampire - Kate Baxter
+Total number of books for Vampire: 41
+Total number of books across all subjects: 646

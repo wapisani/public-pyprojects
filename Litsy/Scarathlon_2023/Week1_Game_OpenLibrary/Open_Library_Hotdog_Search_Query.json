@@ -1,0 +1,5996 @@
+{
+    "numFound": 159,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL29753613W",
+            "type": "work",
+            "seed": [
+                "/books/OL40925363M",
+                "/works/OL29753613W",
+                "/authors/OL4194976A"
+            ],
+            "title": "Hotdog",
+            "title_suggest": "Hotdog",
+            "title_sort": "Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40925363M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "9781980320135",
+                "1980320136"
+            ],
+            "last_modified_i": 1669092288,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4194976A"
+            ],
+            "author_name": [
+                "Panda"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924749984333824,
+            "author_facet": [
+                "OL4194976A Panda"
+            ]
+        },
+        {
+            "key": "/works/OL33776116W",
+            "type": "work",
+            "seed": [
+                "/books/OL45747440M",
+                "/works/OL33776116W"
+            ],
+            "title": "Hotdog",
+            "title_suggest": "Hotdog",
+            "title_sort": "Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL45747440M"
+            ],
+            "publish_date": [
+                "2000-01-01"
+            ],
+            "publish_year": [
+                2000
+            ],
+            "first_publish_year": 2000,
+            "isbn": [
+                "1760279005",
+                "9781760279004"
+            ],
+            "last_modified_i": 1673699062,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Scholastic Australia"
+            ],
+            "publisher_facet": [
+                "Scholastic Australia"
+            ],
+            "_version_": 1767931180697518081
+        },
+        {
+            "key": "/works/OL8293724W",
+            "type": "work",
+            "seed": [
+                "/books/OL9981924M",
+                "/works/OL8293724W",
+                "/authors/OL2755027A"
+            ],
+            "title": "Hotdogs",
+            "title_suggest": "Hotdogs",
+            "title_sort": "Hotdogs",
+            "edition_count": 1,
+            "edition_key": [
+                "OL9981924M"
+            ],
+            "isbn": [
+                "9780091865979",
+                "0091865972"
+            ],
+            "last_modified_i": 1668694769,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Ebury Press"
+            ],
+            "author_key": [
+                "OL2755027A"
+            ],
+            "author_name": [
+                "D Morris"
+            ],
+            "publisher_facet": [
+                "Ebury Press"
+            ],
+            "_version_": 1767942530830172161,
+            "author_facet": [
+                "OL2755027A D Morris"
+            ]
+        },
+        {
+            "key": "/works/OL29481793W",
+            "type": "work",
+            "seed": [
+                "/books/OL40582451M",
+                "/works/OL29481793W",
+                "/authors/OL10871130A"
+            ],
+            "title": "Hotdog",
+            "title_suggest": "Hotdog",
+            "title_sort": "Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40582451M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "isbn": [
+                "9781521721506",
+                "1521721505"
+            ],
+            "last_modified_i": 1668899593,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10871130A"
+            ],
+            "author_name": [
+                "Ji saays"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924304468508672,
+            "author_facet": [
+                "OL10871130A Ji saays"
+            ]
+        },
+        {
+            "key": "/works/OL36594005W",
+            "type": "work",
+            "seed": [
+                "/books/OL49442958M",
+                "/works/OL36594005W",
+                "/authors/OL13145473A"
+            ],
+            "title": "Hotdog",
+            "title_sort": "Hotdog",
+            "title_suggest": "Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL49442958M"
+            ],
+            "publish_date": [
+                "2011"
+            ],
+            "publish_year": [
+                2011
+            ],
+            "first_publish_year": 2011,
+            "isbn": [
+                "3844850821",
+                "9783844850826"
+            ],
+            "last_modified_i": 1694929609,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Books on Demand GmbH"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13145473A"
+            ],
+            "author_name": [
+                "Ursula Ringel"
+            ],
+            "publisher_facet": [
+                "Books on Demand GmbH"
+            ],
+            "_version_": 1777262512027205632,
+            "author_facet": [
+                "OL13145473A Ursula Ringel"
+            ]
+        },
+        {
+            "key": "/works/OL30786456W",
+            "type": "work",
+            "seed": [
+                "/books/OL42302863M",
+                "/works/OL30786456W",
+                "/authors/OL10181519A"
+            ],
+            "title": "Mr. Hotdog",
+            "title_suggest": "Mr. Hotdog",
+            "title_sort": "Mr. Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42302863M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798572415513"
+            ],
+            "last_modified_i": 1669888613,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10181519A"
+            ],
+            "author_name": [
+                "Mohamed Loubani"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926340378427392,
+            "author_facet": [
+                "OL10181519A Mohamed Loubani"
+            ]
+        },
+        {
+            "key": "/works/OL16797138W",
+            "type": "work",
+            "seed": [
+                "/books/OL25418467M",
+                "/books/OL25418466M",
+                "/works/OL16797138W"
+            ],
+            "title": "Hotdogs & Coleslaw",
+            "title_suggest": "Hotdogs & Coleslaw",
+            "title_sort": "Hotdogs & Coleslaw",
+            "edition_count": 2,
+            "edition_key": [
+                "OL25418467M",
+                "OL25418466M"
+            ],
+            "publish_date": [
+                "2012"
+            ],
+            "publish_year": [
+                2012
+            ],
+            "first_publish_year": 2012,
+            "number_of_pages_median": 50,
+            "publish_place": [
+                "united states"
+            ],
+            "isbn": [
+                "9780615622385",
+                "0615622380"
+            ],
+            "last_modified_i": 1355437807,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL25418466M",
+            "cover_i": 7242517,
+            "publisher": [
+                "Moore & Poesy Publishing"
+            ],
+            "publisher_facet": [
+                "Moore & Poesy Publishing"
+            ],
+            "_version_": 1767901437538336768
+        },
+        {
+            "key": "/works/OL17490951W",
+            "type": "work",
+            "seed": [
+                "/books/OL26077899M",
+                "/works/OL17490951W",
+                "/subjects/children's_fiction",
+                "/subjects/dogs_fiction",
+                "/subjects/adventure_and_adventurers_fiction",
+                "/authors/OL7329465A"
+            ],
+            "title": "Hotdog Math",
+            "title_suggest": "Hotdog Math",
+            "title_sort": "Hotdog Math",
+            "edition_count": 1,
+            "edition_key": [
+                "OL26077899M"
+            ],
+            "publish_date": [
+                "2009"
+            ],
+            "publish_year": [
+                2009
+            ],
+            "first_publish_year": 2009,
+            "isbn": [
+                "1423117603",
+                "9781423117605"
+            ],
+            "last_modified_i": 1640536490,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL26077899M",
+            "cover_i": 7683709,
+            "publisher": [
+                "Disney Press"
+            ],
+            "author_key": [
+                "OL7329465A"
+            ],
+            "author_name": [
+                "Later Inc"
+            ],
+            "subject": [
+                "Children's fiction",
+                "Dogs, fiction",
+                "Adventure and adventurers, fiction"
+            ],
+            "publisher_facet": [
+                "Disney Press"
+            ],
+            "subject_facet": [
+                "Adventure and adventurers, fiction",
+                "Children's fiction",
+                "Dogs, fiction"
+            ],
+            "_version_": 1767902661313560580,
+            "author_facet": [
+                "OL7329465A Later Inc"
+            ],
+            "subject_key": [
+                "adventure_and_adventurers_fiction",
+                "children's_fiction",
+                "dogs_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL16568652W",
+            "type": "work",
+            "seed": [
+                "/books/OL25256339M",
+                "/works/OL16568652W",
+                "/authors/OL1429334A"
+            ],
+            "title": "Hotdogs anonymous",
+            "title_suggest": "Hotdogs anonymous",
+            "title_sort": "Hotdogs anonymous",
+            "edition_count": 1,
+            "edition_key": [
+                "OL25256339M"
+            ],
+            "publish_date": [
+                "2011"
+            ],
+            "publish_year": [
+                2011
+            ],
+            "first_publish_year": 2011,
+            "number_of_pages_median": 31,
+            "lccn": [
+                "2010936546"
+            ],
+            "publish_place": [
+                "Minneapolis, MN"
+            ],
+            "contributor": [
+                "Adamson, Bonnie, ill"
+            ],
+            "isbn": [
+                "0982885202",
+                "9780982885208"
+            ],
+            "last_modified_i": 1601016538,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Peppermint Books"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1429334A"
+            ],
+            "author_name": [
+                "Sarah Bridges"
+            ],
+            "publisher_facet": [
+                "Peppermint Books"
+            ],
+            "_version_": 1767900913481023489,
+            "author_facet": [
+                "OL1429334A Sarah Bridges"
+            ]
+        },
+        {
+            "key": "/works/OL16797137W",
+            "type": "work",
+            "seed": [
+                "/books/OL25418465M",
+                "/works/OL16797137W"
+            ],
+            "title": "Hotdogs & Coleslaw",
+            "title_suggest": "Hotdogs & Coleslaw",
+            "title_sort": "Hotdogs & Coleslaw",
+            "edition_count": 1,
+            "edition_key": [
+                "OL25418465M"
+            ],
+            "publish_date": [
+                "2012"
+            ],
+            "publish_year": [
+                2012
+            ],
+            "first_publish_year": 2012,
+            "number_of_pages_median": 50,
+            "publish_place": [
+                "United States"
+            ],
+            "isbn": [
+                "9780615622385",
+                "0615622380"
+            ],
+            "last_modified_i": 1355437807,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL25418465M",
+            "cover_i": 7242516,
+            "publisher": [
+                "Moore & Poesy Publishing"
+            ],
+            "publisher_facet": [
+                "Moore & Poesy Publishing"
+            ],
+            "_version_": 1767901437778460672
+        },
+        {
+            "key": "/works/OL25441080W",
+            "type": "work",
+            "seed": [
+                "/books/OL34114052M",
+                "/works/OL25441080W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A"
+            ],
+            "title": "Hotdog #1",
+            "title_suggest": "Hotdog #1",
+            "title_sort": "Hotdog #1",
+            "edition_count": 1,
+            "edition_key": [
+                "OL34114052M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "1338633945",
+                "9781338633948"
+            ],
+            "last_modified_i": 1632994599,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Scholastic, Incorporated"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness"
+            ],
+            "publisher_facet": [
+                "Scholastic, Incorporated"
+            ],
+            "_version_": 1767917494549348352,
+            "author_facet": [
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL25612674W",
+            "type": "work",
+            "seed": [
+                "/books/OL34366881M",
+                "/works/OL25612674W",
+                "/subjects/education",
+                "/subjects/children's_fiction",
+                "/authors/OL9641623A",
+                "/authors/OL9673916A",
+                "/authors/OL9641624A",
+                "/authors/OL9641625A"
+            ],
+            "title": "Hotdog Shop",
+            "title_suggest": "Hotdog Shop",
+            "title_sort": "Hotdog Shop",
+            "edition_count": 1,
+            "edition_key": [
+                "OL34366881M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "1737503352",
+                "9781737503354"
+            ],
+            "last_modified_i": 1633165657,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Ready Reader Decodables"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9641623A",
+                "OL9673916A",
+                "OL9641624A",
+                "OL9641625A"
+            ],
+            "author_name": [
+                "Amy Ingalls",
+                "Jennie Roberts Roberts",
+                "Pryor Rayburn",
+                "Kamie Rudisill"
+            ],
+            "subject": [
+                "Education",
+                "Children's fiction"
+            ],
+            "publisher_facet": [
+                "Ready Reader Decodables"
+            ],
+            "subject_facet": [
+                "Children's fiction",
+                "Education"
+            ],
+            "_version_": 1767917680364355584,
+            "author_facet": [
+                "OL9641623A Amy Ingalls",
+                "OL9641624A Pryor Rayburn",
+                "OL9641625A Kamie Rudisill",
+                "OL9673916A Jennie Roberts Roberts"
+            ],
+            "subject_key": [
+                "children's_fiction",
+                "education"
+            ]
+        },
+        {
+            "key": "/works/OL21873043W",
+            "type": "work",
+            "seed": [
+                "/books/OL29825593M",
+                "/works/OL21873043W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A"
+            ],
+            "title": "Hotdog! #1",
+            "title_suggest": "Hotdog! #1",
+            "title_sort": "Hotdog! #1",
+            "edition_count": 1,
+            "edition_key": [
+                "OL29825593M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "133858720X",
+                "9781338587203"
+            ],
+            "last_modified_i": 1670449229,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Scholastic, Incorporated"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness"
+            ],
+            "publisher_facet": [
+                "Scholastic, Incorporated"
+            ],
+            "_version_": 1767911366261211136,
+            "author_facet": [
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL28026174W",
+            "type": "work",
+            "seed": [
+                "/books/OL38343361M",
+                "/works/OL28026174W",
+                "/authors/OL7808532A"
+            ],
+            "title": "Harry Hotdog",
+            "title_suggest": "Harry Hotdog",
+            "title_sort": "Harry Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38343361M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "1527279863",
+                "9781527279865"
+            ],
+            "last_modified_i": 1655523588,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Unknown Publisher"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7808532A"
+            ],
+            "author_name": [
+                "Cher Graiden"
+            ],
+            "publisher_facet": [
+                "Unknown Publisher"
+            ],
+            "_version_": 1767921915779874819,
+            "author_facet": [
+                "OL7808532A Cher Graiden"
+            ]
+        },
+        {
+            "key": "/works/OL2182436W",
+            "type": "work",
+            "seed": [
+                "/books/OL5073594M",
+                "/works/OL2182436W",
+                "/subjects/ski_acrobatics",
+                "/authors/OL276724A"
+            ],
+            "title": "Hot-dogging",
+            "title_suggest": "Hot-dogging",
+            "title_sort": "Hot-dogging",
+            "edition_count": 1,
+            "edition_key": [
+                "OL5073594M"
+            ],
+            "publish_date": [
+                "1974"
+            ],
+            "publish_year": [
+                1974
+            ],
+            "first_publish_year": 1974,
+            "number_of_pages_median": 128,
+            "lccn": [
+                "74083918"
+            ],
+            "publish_place": [
+                "Philadelphia"
+            ],
+            "oclc": [
+                "1323922"
+            ],
+            "lcc": [
+                "GV-0854.90000000.A25 J63"
+            ],
+            "ddc": [
+                "796.93"
+            ],
+            "isbn": [
+                "9780805920673",
+                "0805920676"
+            ],
+            "last_modified_i": 1602239734,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Dorrance"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL276724A"
+            ],
+            "author_name": [
+                "Rob Johnson"
+            ],
+            "subject": [
+                "Ski acrobatics"
+            ],
+            "id_goodreads": [
+                "3572687"
+            ],
+            "publisher_facet": [
+                "Dorrance"
+            ],
+            "subject_facet": [
+                "Ski acrobatics"
+            ],
+            "_version_": 1767911402157113344,
+            "lcc_sort": "GV-0854.90000000.A25 J63",
+            "author_facet": [
+                "OL276724A Rob Johnson"
+            ],
+            "subject_key": [
+                "ski_acrobatics"
+            ],
+            "ddc_sort": "796.93"
+        },
+        {
+            "key": "/works/OL29807918W",
+            "type": "work",
+            "seed": [
+                "/books/OL40992350M",
+                "/works/OL29807918W",
+                "/authors/OL9564159A"
+            ],
+            "title": "Tiny Hotdogs",
+            "title_suggest": "Tiny Hotdogs",
+            "title_sort": "Tiny Hotdogs",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40992350M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781095053775",
+                "1095053779"
+            ],
+            "last_modified_i": 1669132075,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9564159A"
+            ],
+            "author_name": [
+                "VeRB."
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924807290060800,
+            "author_facet": [
+                "OL9564159A VeRB."
+            ]
+        },
+        {
+            "key": "/works/OL4626107W",
+            "type": "work",
+            "seed": [
+                "/books/OL3672198M",
+                "/works/OL4626107W",
+                "/subjects/television_advertising",
+                "/subjects/dogs",
+                "/subjects/fiction",
+                "/subjects/children's_fiction",
+                "/subjects/dogs_fiction",
+                "/subjects/advertising_fiction",
+                "/authors/OL949291A"
+            ],
+            "title": "Hotdog on TV",
+            "title_suggest": "Hotdog on TV",
+            "title_sort": "Hotdog on TV",
+            "edition_count": 1,
+            "edition_key": [
+                "OL3672198M"
+            ],
+            "publish_date": [
+                "2005"
+            ],
+            "publish_year": [
+                2005
+            ],
+            "first_publish_year": 2005,
+            "number_of_pages_median": 40,
+            "lccn": [
+                "2003002356"
+            ],
+            "publish_place": [
+                "New York"
+            ],
+            "oclc": [
+                "51647793"
+            ],
+            "contributor": [
+                "Takahashi, Hideko, ill."
+            ],
+            "lcc": [
+                "PZ-0007.00000000.T1288 Ho 2005",
+                "PZ-0007.00000000.T1288Ho 2005"
+            ],
+            "ddc": [
+                "[E]"
+            ],
+            "isbn": [
+                "0803729332",
+                "9780803729339"
+            ],
+            "last_modified_i": 1671276786,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "hotdogontv00taha"
+            ],
+            "ia_collection": [
+                "china",
+                "framingham-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "miltonpubliclibrary-ol",
+                "printdisabled"
+            ],
+            "ia_collection_s": "china;framingham-ol;inlibrary;internetarchivebooks;miltonpubliclibrary-ol;printdisabled",
+            "lending_edition_s": "OL3672198M",
+            "lending_identifier_s": "hotdogontv00taha",
+            "printdisabled_s": "OL3672198M",
+            "cover_edition_key": "OL3672198M",
+            "cover_i": 575542,
+            "publisher": [
+                "Dial Books for Young Readers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL949291A"
+            ],
+            "author_name": [
+                "Karen T. Taha"
+            ],
+            "subject": [
+                "Television advertising",
+                "Dogs",
+                "Fiction",
+                "Children's fiction",
+                "Dogs, fiction",
+                "Advertising, fiction"
+            ],
+            "id_goodreads": [
+                "545613"
+            ],
+            "id_librarything": [
+                "2293302"
+            ],
+            "ia_loaded_id": [
+                "hotdogontv00taha"
+            ],
+            "ia_box_id": [
+                "IA106401"
+            ],
+            "publisher_facet": [
+                "Dial Books for Young Readers"
+            ],
+            "subject_facet": [
+                "Advertising, fiction",
+                "Children's fiction",
+                "Dogs",
+                "Dogs, fiction",
+                "Fiction",
+                "Television advertising"
+            ],
+            "_version_": 1767936153896353792,
+            "lcc_sort": "PZ-0007.00000000.T1288 Ho 2005",
+            "author_facet": [
+                "OL949291A Karen T. Taha"
+            ],
+            "subject_key": [
+                "advertising_fiction",
+                "children's_fiction",
+                "dogs",
+                "dogs_fiction",
+                "fiction",
+                "television_advertising"
+            ],
+            "ddc_sort": "[E]"
+        },
+        {
+            "key": "/works/OL1583019W",
+            "type": "work",
+            "seed": [
+                "/books/OL9730712M",
+                "/works/OL1583019W",
+                "/authors/OL171273A"
+            ],
+            "title": "Hotdogging and Snowboarding",
+            "title_suggest": "Hotdogging and Snowboarding",
+            "title_sort": "Hotdogging and Snowboarding",
+            "edition_count": 1,
+            "edition_key": [
+                "OL9730712M"
+            ],
+            "publish_date": [
+                "September 1992"
+            ],
+            "publish_year": [
+                1992
+            ],
+            "first_publish_year": 1992,
+            "number_of_pages_median": 48,
+            "isbn": [
+                "9780516350523",
+                "0516350528"
+            ],
+            "last_modified_i": 1675185385,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL9730712M",
+            "cover_i": 13176769,
+            "publisher": [
+                "Capstone Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL171273A"
+            ],
+            "author_name": [
+                "Robert Guthrie"
+            ],
+            "id_amazon": [
+                ""
+            ],
+            "publisher_facet": [
+                "Capstone Press"
+            ],
+            "_version_": 1767899623046774784,
+            "author_facet": [
+                "OL171273A Robert Guthrie"
+            ]
+        },
+        {
+            "key": "/works/OL7544093W",
+            "type": "work",
+            "seed": [
+                "/books/OL6758255M",
+                "/works/OL7544093W",
+                "/authors/OL2307874A"
+            ],
+            "title": "Hot-dog partners",
+            "title_suggest": "Hot-dog partners",
+            "title_sort": "Hot-dog partners",
+            "edition_count": 1,
+            "edition_key": [
+                "OL6758255M"
+            ],
+            "publish_date": [
+                "1931"
+            ],
+            "publish_year": [
+                1931
+            ],
+            "first_publish_year": 1931,
+            "number_of_pages_median": 196,
+            "lccn": [
+                "31013226"
+            ],
+            "publish_place": [
+                "New York"
+            ],
+            "oclc": [
+                "7422154"
+            ],
+            "lcc": [
+                "PZ-0007.00000000.H45 Ho"
+            ],
+            "last_modified_i": 1600097161,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Grosset & Dunlap"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2307874A"
+            ],
+            "author_name": [
+                "William Heyliger"
+            ],
+            "id_librarything": [
+                "1159403"
+            ],
+            "publisher_facet": [
+                "Grosset & Dunlap"
+            ],
+            "_version_": 1767941076941799424,
+            "lcc_sort": "PZ-0007.00000000.H45 Ho",
+            "author_facet": [
+                "OL2307874A William Heyliger"
+            ]
+        },
+        {
+            "key": "/works/OL30614810W",
+            "type": "work",
+            "seed": [
+                "/books/OL42086270M",
+                "/works/OL30614810W",
+                "/authors/OL8445471A"
+            ],
+            "title": "Hotdogs and Havoc",
+            "title_suggest": "Hotdogs and Havoc",
+            "title_sort": "Hotdogs and Havoc",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42086270M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781712675038",
+                "1712675036"
+            ],
+            "last_modified_i": 1669761051,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8445471A"
+            ],
+            "author_name": [
+                "Gretchen Allen"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926106730528769,
+            "author_facet": [
+                "OL8445471A Gretchen Allen"
+            ]
+        },
+        {
+            "key": "/works/OL2040024W",
+            "type": "work",
+            "seed": [
+                "/books/OL7408464M",
+                "/works/OL2040024W",
+                "/authors/OL247047A"
+            ],
+            "title": "Hotdog Pro Windows",
+            "title_suggest": "Hotdog Pro Windows",
+            "title_sort": "Hotdog Pro Windows",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7408464M"
+            ],
+            "publish_date": [
+                "December 31, 1997"
+            ],
+            "publish_year": [
+                1997
+            ],
+            "first_publish_year": 1997,
+            "number_of_pages_median": 248,
+            "oclc": [
+                "38401447"
+            ],
+            "isbn": [
+                "9780201696677",
+                "0201696673"
+            ],
+            "last_modified_i": 1304123680,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL7408464M",
+            "cover_i": 1142488,
+            "publisher": [
+                "Addison Wesley Longman"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL247047A"
+            ],
+            "author_name": [
+                "Elisabeth Parker"
+            ],
+            "id_goodreads": [
+                "5108187"
+            ],
+            "publisher_facet": [
+                "Addison Wesley Longman"
+            ],
+            "_version_": 1767908686752120834,
+            "author_facet": [
+                "OL247047A Elisabeth Parker"
+            ]
+        },
+        {
+            "key": "/works/OL4349684W",
+            "type": "work",
+            "seed": [
+                "/books/OL1772666M",
+                "/works/OL4349684W",
+                "/authors/OL852231A"
+            ],
+            "title": "Hot-Dog alene",
+            "title_suggest": "Hot-Dog alene",
+            "title_sort": "Hot-Dog alene",
+            "edition_count": 1,
+            "edition_key": [
+                "OL1772666M"
+            ],
+            "publish_date": [
+                "1980"
+            ],
+            "publish_year": [
+                1980
+            ],
+            "first_publish_year": 1980,
+            "number_of_pages_median": 80,
+            "lccn": [
+                "92126119"
+            ],
+            "publish_place": [
+                "[Copenhagen]"
+            ],
+            "isbn": [
+                "9788773246139",
+                "8773246131"
+            ],
+            "last_modified_i": 1605482516,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Sesam"
+            ],
+            "language": [
+                "dan"
+            ],
+            "author_key": [
+                "OL852231A"
+            ],
+            "author_name": [
+                "Charlotte Blay"
+            ],
+            "publisher_facet": [
+                "Sesam"
+            ],
+            "_version_": 1767935454117625856,
+            "author_facet": [
+                "OL852231A Charlotte Blay"
+            ]
+        },
+        {
+            "key": "/works/OL26048426W",
+            "type": "work",
+            "seed": [
+                "/books/OL35157815M",
+                "/works/OL26048426W",
+                "/authors/OL9839411A"
+            ],
+            "title": "Hotdogs for Hyenas",
+            "title_suggest": "Hotdogs for Hyenas",
+            "title_sort": "Hotdogs for Hyenas",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35157815M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "1952248825",
+                "9781952248825"
+            ],
+            "last_modified_i": 1633895440,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "United Writers Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9839411A"
+            ],
+            "author_name": [
+                "Pamela Courtney"
+            ],
+            "publisher_facet": [
+                "United Writers Press"
+            ],
+            "_version_": 1767918576627351552,
+            "author_facet": [
+                "OL9839411A Pamela Courtney"
+            ]
+        },
+        {
+            "key": "/works/OL31869769W",
+            "type": "work",
+            "seed": [
+                "/books/OL43576744M",
+                "/works/OL31869769W",
+                "/authors/OL3513008A"
+            ],
+            "title": "Galactic HotDogs 2",
+            "title_suggest": "Galactic HotDogs 2",
+            "title_sort": "Galactic HotDogs 2",
+            "edition_count": 1,
+            "edition_key": [
+                "OL43576744M"
+            ],
+            "publish_date": [
+                "2000-01-01"
+            ],
+            "publish_year": [
+                2000
+            ],
+            "first_publish_year": 2000,
+            "isbn": [
+                "9781471123146",
+                "1471123146"
+            ],
+            "last_modified_i": 1670597314,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Simon & Schuster Childrens Books"
+            ],
+            "author_key": [
+                "OL3513008A"
+            ],
+            "author_name": [
+                "Max Brallier"
+            ],
+            "id_amazon": [
+                "B013PJVKGK"
+            ],
+            "publisher_facet": [
+                "Simon & Schuster Childrens Books"
+            ],
+            "_version_": 1767928071808090113,
+            "author_facet": [
+                "OL3513008A Max Brallier"
+            ]
+        },
+        {
+            "key": "/works/OL27242591W",
+            "type": "work",
+            "seed": [
+                "/books/OL36973066M",
+                "/works/OL27242591W",
+                "/authors/OL10193548A"
+            ],
+            "title": "Hotdog Notizbuch",
+            "title_suggest": "Hotdog Notizbuch",
+            "title_sort": "Hotdog Notizbuch",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36973066M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798637479672"
+            ],
+            "last_modified_i": 1643451932,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "ger"
+            ],
+            "author_key": [
+                "OL10193548A"
+            ],
+            "author_name": [
+                "Food Dieeinsteiger"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920548937990145,
+            "author_facet": [
+                "OL10193548A Food Dieeinsteiger"
+            ]
+        },
+        {
+            "key": "/works/OL25457056W",
+            "type": "work",
+            "seed": [
+                "/books/OL34136540M",
+                "/books/OL34155974M",
+                "/works/OL25457056W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A"
+            ],
+            "title": "Game Time! (Hotdog #4)",
+            "title_suggest": "Game Time! (Hotdog #4)",
+            "title_sort": "Game Time! (Hotdog #4)",
+            "edition_count": 2,
+            "edition_key": [
+                "OL34136540M",
+                "OL34155974M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "133863397X",
+                "9781338633979",
+                "1338587242",
+                "9781338587241"
+            ],
+            "last_modified_i": 1670166744,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Scholastic, Incorporated"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness"
+            ],
+            "publisher_facet": [
+                "Scholastic, Incorporated"
+            ],
+            "_version_": 1767917463177003009,
+            "author_facet": [
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL21887576W",
+            "type": "work",
+            "seed": [
+                "/books/OL34126666M",
+                "/books/OL29849578M",
+                "/works/OL21887576W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A"
+            ],
+            "title": "Circus Time! (Hotdog #3)",
+            "title_suggest": "Circus Time! (Hotdog #3)",
+            "title_sort": "Circus Time! (Hotdog #3)",
+            "edition_count": 2,
+            "edition_key": [
+                "OL34126666M",
+                "OL29849578M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "1338633961",
+                "9781338633962",
+                "9781338587227",
+                "1338587226"
+            ],
+            "last_modified_i": 1683175515,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Scholastic, Incorporated",
+                "Scholastic Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness"
+            ],
+            "publisher_facet": [
+                "Scholastic Inc.",
+                "Scholastic, Incorporated"
+            ],
+            "_version_": 1767911519341772803,
+            "author_facet": [
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL23562628W",
+            "type": "work",
+            "seed": [
+                "/books/OL31394662M",
+                "/works/OL23562628W",
+                "/authors/OL142425A"
+            ],
+            "title": "Na\u1e33ni\u1e33iyot \u1e25amot",
+            "title_suggest": "Na\u1e33ni\u1e33iyot \u1e25amot",
+            "title_sort": "Na\u1e33ni\u1e33iyot \u1e25amot",
+            "edition_count": 1,
+            "edition_key": [
+                "OL31394662M"
+            ],
+            "publish_date": [
+                "1993"
+            ],
+            "publish_year": [
+                1993
+            ],
+            "first_publish_year": 1993,
+            "number_of_pages_median": 186,
+            "lccn": [
+                "94826516"
+            ],
+            "publish_place": [
+                "Tel-Aviv"
+            ],
+            "lcc": [
+                "PJ-5054.00000000.S3 N34 1993"
+            ],
+            "last_modified_i": 1605829441,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Yedi\u02bbot a\u1e25aronot",
+                "Sifriyat po\u02bbalim",
+                "Sifre \u1e25emed"
+            ],
+            "language": [
+                "heb"
+            ],
+            "author_key": [
+                "OL142425A"
+            ],
+            "author_name": [
+                "Nathan Shaham"
+            ],
+            "publisher_facet": [
+                "Sifre \u1e25emed",
+                "Sifriyat po\u02bbalim",
+                "Yedi\u02bbot a\u1e25aronot"
+            ],
+            "_version_": 1767914213656756224,
+            "lcc_sort": "PJ-5054.00000000.S3 N34 1993",
+            "author_facet": [
+                "OL142425A Nathan Shaham"
+            ]
+        },
+        {
+            "key": "/works/OL25441081W",
+            "type": "work",
+            "seed": [
+                "/books/OL34114059M",
+                "/works/OL25441081W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A"
+            ],
+            "title": "Party Time (Hotdog #2)",
+            "title_suggest": "Party Time (Hotdog #2)",
+            "title_sort": "Party Time (Hotdog #2)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL34114059M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "9781338633955",
+                "1338633953"
+            ],
+            "last_modified_i": 1632994603,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Scholastic, Incorporated"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness"
+            ],
+            "publisher_facet": [
+                "Scholastic, Incorporated"
+            ],
+            "_version_": 1767917494436102144,
+            "author_facet": [
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL30409747W",
+            "type": "work",
+            "seed": [
+                "/books/OL41806013M",
+                "/works/OL30409747W",
+                "/authors/OL2913996A"
+            ],
+            "title": "PomPom's Hot-Dog Homecoming",
+            "title_suggest": "PomPom's Hot-Dog Homecoming",
+            "title_sort": "PomPom's Hot-Dog Homecoming",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41806013M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1709454830",
+                "9781709454837"
+            ],
+            "last_modified_i": 1669602107,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2913996A"
+            ],
+            "author_name": [
+                "Elizabeth Green"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925808060432384,
+            "author_facet": [
+                "OL2913996A Elizabeth Green"
+            ]
+        },
+        {
+            "key": "/works/OL1388134W",
+            "type": "work",
+            "seed": [
+                "/books/OL16648222M",
+                "/works/OL1388134W",
+                "/authors/OL142425A"
+            ],
+            "title": "Na\u1e33ni\u1e33iyot \u1e25amot",
+            "title_suggest": "Na\u1e33ni\u1e33iyot \u1e25amot",
+            "title_sort": "Na\u1e33ni\u1e33iyot \u1e25amot",
+            "edition_count": 1,
+            "edition_key": [
+                "OL16648222M"
+            ],
+            "publish_date": [
+                "1993"
+            ],
+            "publish_year": [
+                1993
+            ],
+            "first_publish_year": 1993,
+            "number_of_pages_median": 186,
+            "publish_place": [
+                "Tel-Aviv"
+            ],
+            "lcc": [
+                "PJ-5054.00000000.S3 N34 1993"
+            ],
+            "last_modified_i": 1264837970,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Sifriyat po\u02bbalim",
+                "Sifre \u1e25emed",
+                "Yedi\u02bbot a\u1e25aronot"
+            ],
+            "language": [
+                "heb"
+            ],
+            "author_key": [
+                "OL142425A"
+            ],
+            "author_name": [
+                "Nathan Shaham"
+            ],
+            "publisher_facet": [
+                "Sifre \u1e25emed",
+                "Sifriyat po\u02bbalim",
+                "Yedi\u02bbot a\u1e25aronot"
+            ],
+            "_version_": 1767897555797016576,
+            "lcc_sort": "PJ-5054.00000000.S3 N34 1993",
+            "author_facet": [
+                "OL142425A Nathan Shaham"
+            ]
+        },
+        {
+            "key": "/works/OL2040023W",
+            "type": "work",
+            "seed": [
+                "/books/OL435125M",
+                "/works/OL2040023W",
+                "/subjects/design",
+                "/subjects/hotdog_pro",
+                "/subjects/internet_programming",
+                "/subjects/web_sites",
+                "/authors/OL247047A"
+            ],
+            "title": "HotDog Pro for Windows",
+            "title_suggest": "HotDog Pro for Windows",
+            "title_sort": "HotDog Pro for Windows",
+            "edition_count": 1,
+            "edition_key": [
+                "OL435125M"
+            ],
+            "publish_date": [
+                "1998"
+            ],
+            "publish_year": [
+                1998
+            ],
+            "first_publish_year": 1998,
+            "number_of_pages_median": 224,
+            "lccn": [
+                "98143970"
+            ],
+            "publish_place": [
+                "Berkeley, CA"
+            ],
+            "oclc": [
+                "38401447"
+            ],
+            "lcc": [
+                "QA-0076.62500000.P37 1998"
+            ],
+            "isbn": [
+                "9780201696677",
+                "0201696673"
+            ],
+            "last_modified_i": 1670379732,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "hotdogproforwind0000park"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL435125M",
+            "lending_identifier_s": "hotdogproforwind0000park",
+            "printdisabled_s": "OL435125M",
+            "cover_edition_key": "OL435125M",
+            "cover_i": 1142489,
+            "publisher": [
+                "Peachpit Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL247047A"
+            ],
+            "author_name": [
+                "Elisabeth Parker"
+            ],
+            "subject": [
+                "Design",
+                "HotDog pro",
+                "Internet programming",
+                "Web sites"
+            ],
+            "id_goodreads": [
+                "5108187"
+            ],
+            "ia_box_id": [
+                "IA40315101"
+            ],
+            "publisher_facet": [
+                "Peachpit Press"
+            ],
+            "subject_facet": [
+                "Design",
+                "HotDog pro",
+                "Internet programming",
+                "Web sites"
+            ],
+            "_version_": 1767908686739537921,
+            "lcc_sort": "QA-0076.62500000.P37 1998",
+            "author_facet": [
+                "OL247047A Elisabeth Parker"
+            ],
+            "subject_key": [
+                "design",
+                "hotdog_pro",
+                "internet_programming",
+                "web_sites"
+            ]
+        },
+        {
+            "key": "/works/OL28116052W",
+            "type": "work",
+            "seed": [
+                "/books/OL38483484M",
+                "/works/OL28116052W",
+                "/authors/OL10483161A"
+            ],
+            "title": "Hotdog the Hot Dog",
+            "title_suggest": "Hotdog the Hot Dog",
+            "title_sort": "Hotdog the Hot Dog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38483484M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798818236643"
+            ],
+            "last_modified_i": 1655639312,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10483161A"
+            ],
+            "author_name": [
+                "Kimberly Wong"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921930015342593,
+            "author_facet": [
+                "OL10483161A Kimberly Wong"
+            ]
+        },
+        {
+            "key": "/works/OL28112393W",
+            "type": "work",
+            "seed": [
+                "/books/OL38477526M",
+                "/works/OL28112393W",
+                "/authors/OL2491037A"
+            ],
+            "title": "Karl the Hotdog Wizard",
+            "title_suggest": "Karl the Hotdog Wizard",
+            "title_sort": "Karl the Hotdog Wizard",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38477526M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798511957623"
+            ],
+            "last_modified_i": 1655635789,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2491037A"
+            ],
+            "author_name": [
+                "Daniel Saunders"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767922091389091841,
+            "author_facet": [
+                "OL2491037A Daniel Saunders"
+            ]
+        },
+        {
+            "key": "/works/OL20318531W",
+            "type": "work",
+            "seed": [
+                "/books/OL27523943M",
+                "/works/OL20318531W",
+                "/authors/OL7701777A"
+            ],
+            "title": "Macaroni On A Hotdog",
+            "title_suggest": "Macaroni On A Hotdog",
+            "title_sort": "Macaroni On A Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27523943M"
+            ],
+            "publish_date": [
+                "Feb 28, 2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "number_of_pages_median": 32,
+            "isbn": [
+                "9780692369043",
+                "069236904X"
+            ],
+            "last_modified_i": 1571656795,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL27523943M",
+            "cover_i": 8979876,
+            "publisher": [
+                "Sandra Thomas"
+            ],
+            "author_key": [
+                "OL7701777A"
+            ],
+            "author_name": [
+                "Sandra Lee-Oian Thomas"
+            ],
+            "id_amazon": [
+                "069236904X"
+            ],
+            "publisher_facet": [
+                "Sandra Thomas"
+            ],
+            "_version_": 1767908455589347328,
+            "author_facet": [
+                "OL7701777A Sandra Lee-Oian Thomas"
+            ]
+        },
+        {
+            "key": "/works/OL27213196W",
+            "type": "work",
+            "seed": [
+                "/books/OL36936675M",
+                "/works/OL27213196W",
+                "/authors/OL10193548A"
+            ],
+            "title": "Hotdog Kalender 2020",
+            "title_suggest": "Hotdog Kalender 2020",
+            "title_sort": "Hotdog Kalender 2020",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36936675M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798634949499"
+            ],
+            "last_modified_i": 1643430148,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "ger"
+            ],
+            "author_key": [
+                "OL10193548A"
+            ],
+            "author_name": [
+                "Food Dieeinsteiger"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920438095118338,
+            "author_facet": [
+                "OL10193548A Food Dieeinsteiger"
+            ]
+        },
+        {
+            "key": "/works/OL28854831W",
+            "type": "work",
+            "seed": [
+                "/books/OL39664756M",
+                "/works/OL28854831W",
+                "/authors/OL10678473A"
+            ],
+            "title": "Hotdog Essen Tagebuch",
+            "title_suggest": "Hotdog Essen Tagebuch",
+            "title_sort": "Hotdog Essen Tagebuch",
+            "edition_count": 1,
+            "edition_key": [
+                "OL39664756M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798642285527"
+            ],
+            "last_modified_i": 1663521501,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "ger"
+            ],
+            "author_key": [
+                "OL10678473A"
+            ],
+            "author_name": [
+                "Meino Koch"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767923213536329730,
+            "author_facet": [
+                "OL10678473A Meino Koch"
+            ]
+        },
+        {
+            "key": "/works/OL28135259W",
+            "type": "work",
+            "seed": [
+                "/books/OL38511776M",
+                "/works/OL28135259W",
+                "/authors/OL3448231A"
+            ],
+            "title": "Funny Hotdog in a Pocket Love Hotdog Pocket Hot Dog",
+            "title_suggest": "Funny Hotdog in a Pocket Love Hotdog Pocket Hot Dog",
+            "title_sort": "Funny Hotdog in a Pocket Love Hotdog Pocket Hot Dog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38511776M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798803085393"
+            ],
+            "last_modified_i": 1655656893,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3448231A"
+            ],
+            "author_name": [
+                "LINDA"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921960323383297,
+            "author_facet": [
+                "OL3448231A LINDA"
+            ]
+        },
+        {
+            "key": "/works/OL26330742W",
+            "type": "work",
+            "seed": [
+                "/books/OL35533088M",
+                "/works/OL26330742W",
+                "/subjects/cooking",
+                "/authors/OL9926692A",
+                "/authors/OL9926693A",
+                "/authors/OL9926694A",
+                "/authors/OL9926695A"
+            ],
+            "title": "Hotdogs, Hamburgers, Tacos and Margaritas",
+            "title_suggest": "Hotdogs, Hamburgers, Tacos and Margaritas",
+            "title_sort": "Hotdogs, Hamburgers, Tacos and Margaritas",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35533088M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "lcc": [
+                "TX-0714.00000000"
+            ],
+            "isbn": [
+                "1925418499",
+                "9781925418491"
+            ],
+            "last_modified_i": 1635896817,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Smith Street Books"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9926692A",
+                "OL9926693A",
+                "OL9926694A",
+                "OL9926695A"
+            ],
+            "author_name": [
+                "Steve Burggraf",
+                "Elsa Launay",
+                "Guillaume Pagliano",
+                "Alexandre Auriac"
+            ],
+            "subject": [
+                "Cooking"
+            ],
+            "publisher_facet": [
+                "Smith Street Books"
+            ],
+            "subject_facet": [
+                "Cooking"
+            ],
+            "_version_": 1767918939322449922,
+            "lcc_sort": "TX-0714.00000000",
+            "author_facet": [
+                "OL9926692A Steve Burggraf",
+                "OL9926693A Elsa Launay",
+                "OL9926694A Guillaume Pagliano",
+                "OL9926695A Alexandre Auriac"
+            ],
+            "subject_key": [
+                "cooking"
+            ]
+        },
+        {
+            "key": "/works/OL8471416W",
+            "type": "work",
+            "seed": [
+                "/books/OL7980403M",
+                "/works/OL8471416W",
+                "/subjects/baseball",
+                "/subjects/african_american_baseball_players",
+                "/subjects/history",
+                "/authors/OL2827865A"
+            ],
+            "title": "Hotdogs, Heroes & Hooligans",
+            "title_suggest": "Hotdogs, Heroes & Hooligans",
+            "title_sort": "Hotdogs, Heroes & Hooligans",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7980403M"
+            ],
+            "publish_date": [
+                "March 1994"
+            ],
+            "publish_year": [
+                1994
+            ],
+            "first_publish_year": 1994,
+            "number_of_pages_median": 593,
+            "oclc": [
+                "30440566"
+            ],
+            "isbn": [
+                "081039748X",
+                "9780810397484"
+            ],
+            "last_modified_i": 1551854530,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "hotdogsheroeshoo00labl"
+            ],
+            "ia_collection": [
+                "americana",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "americana;inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL7980403M",
+            "lending_identifier_s": "hotdogsheroeshoo00labl",
+            "printdisabled_s": "OL7980403M",
+            "cover_edition_key": "OL7980403M",
+            "cover_i": 8405136,
+            "publisher": [
+                "Visible Ink Pr"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2827865A"
+            ],
+            "author_name": [
+                "Michael L. Lablanc"
+            ],
+            "subject": [
+                "Baseball",
+                "African American baseball players",
+                "History"
+            ],
+            "id_goodreads": [
+                "4292330"
+            ],
+            "id_librarything": [
+                "1275704"
+            ],
+            "ia_box_id": [
+                "IA1383705"
+            ],
+            "publisher_facet": [
+                "Visible Ink Pr"
+            ],
+            "subject_facet": [
+                "African American baseball players",
+                "Baseball",
+                "History"
+            ],
+            "_version_": 1767943010425765890,
+            "author_facet": [
+                "OL2827865A Michael L. Lablanc"
+            ],
+            "subject_key": [
+                "african_american_baseball_players",
+                "baseball",
+                "history"
+            ]
+        },
+        {
+            "key": "/works/OL1583018W",
+            "type": "work",
+            "seed": [
+                "/books/OL8617295M",
+                "/works/OL1583018W",
+                "/authors/OL171273A"
+            ],
+            "title": "Hotdogging and Snowboarding (Action Sports)",
+            "title_suggest": "Hotdogging and Snowboarding (Action Sports)",
+            "title_sort": "Hotdogging and Snowboarding (Action Sports)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8617295M"
+            ],
+            "publish_date": [
+                "October 1992"
+            ],
+            "publish_year": [
+                1992
+            ],
+            "first_publish_year": 1992,
+            "number_of_pages_median": 48,
+            "isbn": [
+                "1560650524",
+                "9781560650522"
+            ],
+            "last_modified_i": 1347100967,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL8617295M",
+            "cover_i": 4826590,
+            "publisher": [
+                "Capstone Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL171273A"
+            ],
+            "author_name": [
+                "Robert Guthrie"
+            ],
+            "id_goodreads": [
+                "3822043"
+            ],
+            "id_librarything": [
+                "3098558"
+            ],
+            "publisher_facet": [
+                "Capstone Press"
+            ],
+            "_version_": 1767899623344570368,
+            "author_facet": [
+                "OL171273A Robert Guthrie"
+            ]
+        },
+        {
+            "key": "/works/OL28738901W",
+            "type": "work",
+            "seed": [
+                "/books/OL39441437M",
+                "/works/OL28738901W",
+                "/subjects/children's_fiction",
+                "/authors/OL10640146A"
+            ],
+            "title": "Hotdog, Frankenstina, and Metamorphic Me",
+            "title_suggest": "Hotdog, Frankenstina, and Metamorphic Me",
+            "title_sort": "Hotdog, Frankenstina, and Metamorphic Me",
+            "edition_count": 1,
+            "edition_key": [
+                "OL39441437M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798986498706"
+            ],
+            "last_modified_i": 1660873077,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Glasshalfull Books"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10640146A"
+            ],
+            "author_name": [
+                "Dale Bryan"
+            ],
+            "subject": [
+                "Children's fiction"
+            ],
+            "publisher_facet": [
+                "Glasshalfull Books"
+            ],
+            "subject_facet": [
+                "Children's fiction"
+            ],
+            "_version_": 1767923013756387328,
+            "author_facet": [
+                "OL10640146A Dale Bryan"
+            ],
+            "subject_key": [
+                "children's_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL31106512W",
+            "type": "work",
+            "seed": [
+                "/books/OL42717351M",
+                "/works/OL31106512W",
+                "/subjects/children's_fiction",
+                "/authors/OL2980310A",
+                "/authors/OL8515074A"
+            ],
+            "title": "Do Vampires Like Hotdog Buns?",
+            "title_suggest": "Do Vampires Like Hotdog Buns?",
+            "title_sort": "Do Vampires Like Hotdog Buns?",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42717351M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798986955032"
+            ],
+            "last_modified_i": 1670061261,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "AshleyMooreBooks"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2980310A",
+                "OL8515074A"
+            ],
+            "author_name": [
+                "Ashley Moore",
+                "Badrus Soleh"
+            ],
+            "subject": [
+                "Children's fiction"
+            ],
+            "publisher_facet": [
+                "AshleyMooreBooks"
+            ],
+            "subject_facet": [
+                "Children's fiction"
+            ],
+            "_version_": 1767926890228613121,
+            "author_facet": [
+                "OL2980310A Ashley Moore",
+                "OL8515074A Badrus Soleh"
+            ],
+            "subject_key": [
+                "children's_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL22539065W",
+            "type": "work",
+            "seed": [
+                "/books/OL30593454M",
+                "/works/OL22539065W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A"
+            ],
+            "title": "Hotdog! Hot Pack 1-3!",
+            "title_suggest": "Hotdog! Hot Pack 1-3!",
+            "title_sort": "Hotdog! Hot Pack 1-3!",
+            "edition_count": 1,
+            "edition_key": [
+                "OL30593454M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "1742763316",
+                "9781742763316"
+            ],
+            "last_modified_i": 1602431901,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Scholastic Australia"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness"
+            ],
+            "publisher_facet": [
+                "Scholastic Australia"
+            ],
+            "_version_": 1767912296653258753,
+            "author_facet": [
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL21617417W",
+            "type": "work",
+            "seed": [
+                "/books/OL29364082M",
+                "/works/OL21617417W",
+                "/subjects/cooking_(meat)",
+                "/subjects/cooking_(beef)",
+                "/subjects/sausages",
+                "/authors/OL3805556A"
+            ],
+            "title": "Burgers, Sliders, Hotdogs and Sides",
+            "title_suggest": "Burgers, Sliders, Hotdogs and Sides",
+            "title_sort": "Burgers, Sliders, Hotdogs and Sides",
+            "edition_count": 1,
+            "edition_key": [
+                "OL29364082M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "number_of_pages_median": 144,
+            "lcc": [
+                "TX-0749.00000000"
+            ],
+            "isbn": [
+                "9781921024436",
+                "1921024437"
+            ],
+            "last_modified_i": 1598325871,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "New Holland Publishers, Limited"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3805556A"
+            ],
+            "author_name": [
+                "New Holland Publishers"
+            ],
+            "subject": [
+                "Cooking (meat)",
+                "Cooking (beef)",
+                "Sausages"
+            ],
+            "publisher_facet": [
+                "New Holland Publishers, Limited"
+            ],
+            "subject_facet": [
+                "Cooking (beef)",
+                "Cooking (meat)",
+                "Sausages"
+            ],
+            "_version_": 1767910916185128960,
+            "lcc_sort": "TX-0749.00000000",
+            "author_facet": [
+                "OL3805556A New Holland Publishers"
+            ],
+            "subject_key": [
+                "cooking_(beef)",
+                "cooking_(meat)",
+                "sausages"
+            ]
+        },
+        {
+            "key": "/works/OL29016031W",
+            "type": "work",
+            "seed": [
+                "/books/OL39892645M",
+                "/works/OL29016031W",
+                "/authors/OL10739833A"
+            ],
+            "title": "Hotdog in a Banana Costume",
+            "title_suggest": "Hotdog in a Banana Costume",
+            "title_sort": "Hotdog in a Banana Costume",
+            "edition_count": 1,
+            "edition_key": [
+                "OL39892645M"
+            ],
+            "publish_date": [
+                "2013"
+            ],
+            "publish_year": [
+                2013
+            ],
+            "first_publish_year": 2013,
+            "isbn": [
+                "9781304349361",
+                "1304349365"
+            ],
+            "last_modified_i": 1666026421,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Lulu Press, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10739833A"
+            ],
+            "author_name": [
+                "Andrew Guenther"
+            ],
+            "publisher_facet": [
+                "Lulu Press, Inc."
+            ],
+            "_version_": 1767923427491971073,
+            "author_facet": [
+                "OL10739833A Andrew Guenther"
+            ]
+        },
+        {
+            "key": "/works/OL27212657W",
+            "type": "work",
+            "seed": [
+                "/books/OL36936055M",
+                "/works/OL27212657W",
+                "/authors/OL10193548A"
+            ],
+            "title": "Hotdog Monthly Planner",
+            "title_suggest": "Hotdog Monthly Planner",
+            "title_sort": "Hotdog Monthly Planner",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36936055M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798634626505"
+            ],
+            "last_modified_i": 1643429777,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10193548A"
+            ],
+            "author_name": [
+                "Food Dieeinsteiger"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920395328946176,
+            "author_facet": [
+                "OL10193548A Food Dieeinsteiger"
+            ]
+        },
+        {
+            "key": "/works/OL27232644W",
+            "type": "work",
+            "seed": [
+                "/books/OL36960582M",
+                "/works/OL27232644W",
+                "/authors/OL8384976A"
+            ],
+            "title": "Funny Hotdog Kalender 2022",
+            "title_suggest": "Funny Hotdog Kalender 2022",
+            "title_sort": "Funny Hotdog Kalender 2022",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36960582M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798781668779"
+            ],
+            "last_modified_i": 1643444708,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "ger"
+            ],
+            "author_key": [
+                "OL8384976A"
+            ],
+            "author_name": [
+                "Diego Steiger"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920506600685569,
+            "author_facet": [
+                "OL8384976A Diego Steiger"
+            ]
+        },
+        {
+            "key": "/works/OL3620182W",
+            "type": "work",
+            "seed": [
+                "/books/OL16601468M",
+                "/works/OL3620182W",
+                "/subjects/baseball",
+                "/subjects/african_american_baseball_players",
+                "/subjects/history",
+                "/authors/OL616048A"
+            ],
+            "title": "Hotdogs, heroes & hooligans",
+            "title_suggest": "Hotdogs, heroes & hooligans",
+            "title_sort": "Hotdogs, heroes & hooligans",
+            "edition_count": 1,
+            "edition_key": [
+                "OL16601468M"
+            ],
+            "publish_date": [
+                "1994"
+            ],
+            "publish_year": [
+                1994
+            ],
+            "first_publish_year": 1994,
+            "number_of_pages_median": 581,
+            "publish_place": [
+                "Detroit"
+            ],
+            "isbn": [
+                "081039748"
+            ],
+            "last_modified_i": 1266384016,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Visible Ink Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL616048A"
+            ],
+            "author_name": [
+                "Michael L. LaBlanc"
+            ],
+            "subject": [
+                "Baseball",
+                "African American baseball players",
+                "History"
+            ],
+            "publisher_facet": [
+                "Visible Ink Press"
+            ],
+            "subject_facet": [
+                "African American baseball players",
+                "Baseball",
+                "History"
+            ],
+            "_version_": 1767934124447760384,
+            "author_facet": [
+                "OL616048A Michael L. LaBlanc"
+            ],
+            "subject_key": [
+                "african_american_baseball_players",
+                "baseball",
+                "history"
+            ]
+        },
+        {
+            "key": "/works/OL24637871W",
+            "type": "work",
+            "seed": [
+                "/books/OL32694602M",
+                "/works/OL24637871W",
+                "/authors/OL9287702A"
+            ],
+            "title": "The Great Adventures of Hotdog Man",
+            "title_suggest": "The Great Adventures of Hotdog Man",
+            "title_sort": "The Great Adventures of Hotdog Man",
+            "edition_count": 1,
+            "edition_key": [
+                "OL32694602M"
+            ],
+            "publish_date": [
+                "May 21, 2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "number_of_pages_median": 415,
+            "isbn": [
+                "1546855416",
+                "9781546855415"
+            ],
+            "last_modified_i": 1624970508,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL32694602M",
+            "cover_i": 11318339,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform",
+                "Createspace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL9287702A"
+            ],
+            "author_name": [
+                "David Lee Baer"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform",
+                "Createspace Independent Publishing Platform"
+            ],
+            "_version_": 1767916081469456384,
+            "author_facet": [
+                "OL9287702A David Lee Baer"
+            ]
+        },
+        {
+            "key": "/works/OL29980897W",
+            "type": "work",
+            "seed": [
+                "/books/OL41217682M",
+                "/works/OL29980897W",
+                "/authors/OL3908038A"
+            ],
+            "title": "New Adventures of Hotdog Man #6",
+            "title_suggest": "New Adventures of Hotdog Man #6",
+            "title_sort": "New Adventures of Hotdog Man #6",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41217682M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "9781792074455",
+                "179207445X"
+            ],
+            "last_modified_i": 1669262796,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3908038A"
+            ],
+            "author_name": [
+                "David Baer"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925095088521217,
+            "author_facet": [
+                "OL3908038A David Baer"
+            ]
+        },
+        {
+            "key": "/works/OL29519570W",
+            "type": "work",
+            "seed": [
+                "/books/OL40628970M",
+                "/works/OL29519570W",
+                "/authors/OL5256423A"
+            ],
+            "title": "Gore-Met Hotdog Squad Massacre",
+            "title_suggest": "Gore-Met Hotdog Squad Massacre",
+            "title_sort": "Gore-Met Hotdog Squad Massacre",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40628970M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "isbn": [
+                "152061943X",
+                "9781520619439"
+            ],
+            "last_modified_i": 1670590741,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL5256423A"
+            ],
+            "author_name": [
+                "Jenny Godfrey"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924368666525696,
+            "author_facet": [
+                "OL5256423A Jenny Godfrey"
+            ]
+        },
+        {
+            "key": "/works/OL26065053W",
+            "type": "work",
+            "seed": [
+                "/books/OL35178617M",
+                "/works/OL26065053W",
+                "/authors/OL9845227A"
+            ],
+            "title": "My Journal",
+            "title_suggest": "My Journal",
+            "title_sort": "My Journal",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35178617M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798451981788"
+            ],
+            "last_modified_i": 1633905968,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9845227A"
+            ],
+            "author_name": [
+                "Asher Blankenship"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767918448682205184,
+            "author_facet": [
+                "OL9845227A Asher Blankenship"
+            ]
+        },
+        {
+            "key": "/works/OL21351441W",
+            "type": "work",
+            "seed": [
+                "/books/OL28920181M",
+                "/works/OL21351441W",
+                "/authors/OL8180690A"
+            ],
+            "title": "Hotdog People and Other Bitesize Sacrifices",
+            "title_suggest": "Hotdog People and Other Bitesize Sacrifices",
+            "title_sort": "Hotdog People and Other Bitesize Sacrifices",
+            "edition_count": 1,
+            "edition_key": [
+                "OL28920181M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "number_of_pages_median": 130,
+            "isbn": [
+                "1947895087",
+                "9781947895089"
+            ],
+            "last_modified_i": 1597707214,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Animal Media Group LLC"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8180690A"
+            ],
+            "author_name": [
+                "Dan Magdich"
+            ],
+            "publisher_facet": [
+                "Animal Media Group LLC"
+            ],
+            "_version_": 1767910305280557057,
+            "author_facet": [
+                "OL8180690A Dan Magdich"
+            ]
+        },
+        {
+            "key": "/works/OL35321160W",
+            "type": "work",
+            "seed": [
+                "/books/OL47734679M",
+                "/works/OL35321160W",
+                "/authors/OL5755893A"
+            ],
+            "title": "Des Hot-Dogs sous le Soleil",
+            "title_suggest": "Des Hot-Dogs sous le Soleil",
+            "title_sort": "Des Hot-Dogs sous le Soleil",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47734679M"
+            ],
+            "isbn": [
+                "289052406X",
+                "9782890524064"
+            ],
+            "last_modified_i": 1683177151,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "BOREAL QUEBEC"
+            ],
+            "author_key": [
+                "OL5755893A"
+            ],
+            "author_name": [
+                "Raymond Plante"
+            ],
+            "publisher_facet": [
+                "BOREAL QUEBEC"
+            ],
+            "_version_": 1767933485294551041,
+            "author_facet": [
+                "OL5755893A Raymond Plante"
+            ]
+        },
+        {
+            "key": "/works/OL28429338W",
+            "type": "work",
+            "seed": [
+                "/books/OL38937736M",
+                "/works/OL28429338W",
+                "/authors/OL7208348A",
+                "/authors/OL10542365A"
+            ],
+            "title": "\u00a1Las Aventuras de Hot Dog! / Hotdog!",
+            "title_suggest": "\u00a1Las Aventuras de Hot Dog! / Hotdog!",
+            "title_sort": "\u00a1Las Aventuras de Hot Dog! / Hotdog!",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38937736M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "6073815689",
+                "9786073815680"
+            ],
+            "last_modified_i": 1658284373,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Penguin Random House Grupo Editorial"
+            ],
+            "language": [
+                "spa"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL10542365A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "D. A. N. MCGUINESS"
+            ],
+            "publisher_facet": [
+                "Penguin Random House Grupo Editorial"
+            ],
+            "_version_": 1767922516035108865,
+            "author_facet": [
+                "OL10542365A D. A. N. MCGUINESS",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL24732944W",
+            "type": "work",
+            "seed": [
+                "/books/OL32835169M",
+                "/works/OL24732944W",
+                "/authors/OL9258390A"
+            ],
+            "title": "THE FINAL ADVENTURE OF HOTDOG MAN",
+            "title_suggest": "THE FINAL ADVENTURE OF HOTDOG MAN",
+            "title_sort": "THE FINAL ADVENTURE OF HOTDOG MAN",
+            "edition_count": 1,
+            "edition_key": [
+                "OL32835169M"
+            ],
+            "publish_date": [
+                "Aug 15, 2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "number_of_pages_median": 336,
+            "isbn": [
+                "9781686468230",
+                "1686468237"
+            ],
+            "last_modified_i": 1669460134,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL32835169M",
+            "cover_i": 11466764,
+            "publisher": [
+                "Independently published",
+                "Independently Published"
+            ],
+            "author_key": [
+                "OL9258390A"
+            ],
+            "author_name": [
+                "david lee baer"
+            ],
+            "publisher_facet": [
+                "Independently Published",
+                "Independently published"
+            ],
+            "_version_": 1767916356780425216,
+            "author_facet": [
+                "OL9258390A david lee baer"
+            ]
+        },
+        {
+            "key": "/works/OL27242684W",
+            "type": "work",
+            "seed": [
+                "/books/OL36973175M",
+                "/works/OL27242684W",
+                "/authors/OL10193548A"
+            ],
+            "title": "Funny Hotdog Monthly Planner",
+            "title_suggest": "Funny Hotdog Monthly Planner",
+            "title_sort": "Funny Hotdog Monthly Planner",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36973175M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798634626871"
+            ],
+            "last_modified_i": 1643452024,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10193548A"
+            ],
+            "author_name": [
+                "Food Dieeinsteiger"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920549315477504,
+            "author_facet": [
+                "OL10193548A Food Dieeinsteiger"
+            ]
+        },
+        {
+            "key": "/works/OL27222584W",
+            "type": "work",
+            "seed": [
+                "/books/OL36948023M",
+                "/works/OL27222584W",
+                "/authors/OL10193548A"
+            ],
+            "title": "Funny Hotdog Studienplaner 2020/21",
+            "title_suggest": "Funny Hotdog Studienplaner 2020/21",
+            "title_sort": "Funny Hotdog Studienplaner 2020/21",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36948023M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798634953939"
+            ],
+            "last_modified_i": 1643436717,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "ger"
+            ],
+            "author_key": [
+                "OL10193548A"
+            ],
+            "author_name": [
+                "Food Dieeinsteiger"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920497619632130,
+            "author_facet": [
+                "OL10193548A Food Dieeinsteiger"
+            ]
+        },
+        {
+            "key": "/works/OL30141256W",
+            "type": "work",
+            "seed": [
+                "/books/OL41429118M",
+                "/works/OL30141256W",
+                "/authors/OL7991800A"
+            ],
+            "title": "Hotdogs",
+            "title_suggest": "Hotdogs",
+            "title_sort": "Hotdogs",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41429118M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781688728578",
+                "1688728570"
+            ],
+            "last_modified_i": 1669391835,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7991800A"
+            ],
+            "author_name": [
+                "D. Wolter"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925292796477440,
+            "author_facet": [
+                "OL7991800A D. Wolter"
+            ]
+        },
+        {
+            "key": "/works/OL30251303W",
+            "type": "work",
+            "seed": [
+                "/books/OL41585249M",
+                "/works/OL30251303W",
+                "/authors/OL7991800A"
+            ],
+            "title": "Hotdogs",
+            "title_suggest": "Hotdogs",
+            "title_sort": "Hotdogs",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41585249M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781688728561",
+                "1688728562"
+            ],
+            "last_modified_i": 1669478850,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7991800A"
+            ],
+            "author_name": [
+                "D. Wolter"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925478892503041,
+            "author_facet": [
+                "OL7991800A D. Wolter"
+            ]
+        },
+        {
+            "key": "/works/OL30231710W",
+            "type": "work",
+            "seed": [
+                "/books/OL41556918M",
+                "/works/OL30231710W",
+                "/authors/OL3908038A"
+            ],
+            "title": "New Adventures of Hotdog Man #5",
+            "title_suggest": "New Adventures of Hotdog Man #5",
+            "title_sort": "New Adventures of Hotdog Man #5",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41556918M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "1723841218",
+                "9781723841217"
+            ],
+            "last_modified_i": 1669462856,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3908038A"
+            ],
+            "author_name": [
+                "David Baer"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925386076749824,
+            "author_facet": [
+                "OL3908038A David Baer"
+            ]
+        },
+        {
+            "key": "/works/OL34087195W",
+            "type": "work",
+            "seed": [
+                "/books/OL46161494M",
+                "/works/OL34087195W",
+                "/authors/OL2949473A"
+            ],
+            "title": "Hotdog",
+            "title_suggest": "Hotdog",
+            "title_sort": "Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46161494M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798494679444"
+            ],
+            "last_modified_i": 1673957379,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "ger"
+            ],
+            "author_key": [
+                "OL2949473A"
+            ],
+            "author_name": [
+                "Zimmer"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767931477774827521,
+            "author_facet": [
+                "OL2949473A Zimmer"
+            ]
+        },
+        {
+            "key": "/works/OL29836748W",
+            "type": "work",
+            "seed": [
+                "/books/OL41029023M",
+                "/works/OL29836748W",
+                "/authors/OL8937823A"
+            ],
+            "title": "I Like You More Than Hotdogs and I Really Like Hotdogs",
+            "title_suggest": "I Like You More Than Hotdogs and I Really Like Hotdogs",
+            "title_sort": "I Like You More Than Hotdogs and I Really Like Hotdogs",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41029023M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1799010546",
+                "9781799010548"
+            ],
+            "last_modified_i": 1669154448,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8937823A"
+            ],
+            "author_name": [
+                "Legacy Creations"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924882583060481,
+            "author_facet": [
+                "OL8937823A Legacy Creations"
+            ]
+        },
+        {
+            "key": "/works/OL24569685W",
+            "type": "work",
+            "seed": [
+                "/books/OL32580308M",
+                "/works/OL24569685W",
+                "/authors/OL9258390A",
+                "/authors/OL7346000A"
+            ],
+            "title": "The Great Adventures of Hotdog Man",
+            "title_suggest": "The Great Adventures of Hotdog Man",
+            "title_sort": "The Great Adventures of Hotdog Man",
+            "edition_count": 1,
+            "edition_key": [
+                "OL32580308M"
+            ],
+            "publish_date": [
+                "Dec 14, 2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "number_of_pages_median": 104,
+            "isbn": [
+                "1519754337",
+                "9781519754332"
+            ],
+            "last_modified_i": 1622963169,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL32580308M",
+            "cover_i": 11221369,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform",
+                "Createspace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL9258390A",
+                "OL7346000A"
+            ],
+            "author_name": [
+                "david lee baer",
+                "Lauren Jones"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform",
+                "Createspace Independent Publishing Platform"
+            ],
+            "_version_": 1767915962918502400,
+            "author_facet": [
+                "OL7346000A Lauren Jones",
+                "OL9258390A david lee baer"
+            ]
+        },
+        {
+            "key": "/works/OL35599164W",
+            "type": "work",
+            "seed": [
+                "/books/OL48036685M",
+                "/works/OL35599164W",
+                "/authors/OL9501792A"
+            ],
+            "title": "ha-Pi\u1e33ni\u1e33 ha-mushlam",
+            "title_suggest": "ha-Pi\u1e33ni\u1e33 ha-mushlam",
+            "title_sort": "ha-Pi\u1e33ni\u1e33 ha-mushlam",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48036685M"
+            ],
+            "publish_date": [
+                "2008"
+            ],
+            "publish_year": [
+                2008
+            ],
+            "first_publish_year": 2008,
+            "number_of_pages_median": 62,
+            "publish_place": [
+                "Tel Aviv"
+            ],
+            "oclc": [
+                "230870933"
+            ],
+            "contributor": [
+                "Gefen, Sigal"
+            ],
+            "last_modified_i": 1685269713,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Yedi\u02bbot a\u1e25aronot"
+            ],
+            "language": [
+                "heb"
+            ],
+            "author_key": [
+                "OL9501792A"
+            ],
+            "author_name": [
+                "Sheila Sweeny Higginson"
+            ],
+            "publisher_facet": [
+                "Yedi\u02bbot a\u1e25aronot"
+            ],
+            "_version_": 1767933978769096704,
+            "author_facet": [
+                "OL9501792A Sheila Sweeny Higginson"
+            ]
+        },
+        {
+            "key": "/works/OL25999606W",
+            "type": "work",
+            "seed": [
+                "/books/OL35092373M",
+                "/works/OL25999606W",
+                "/authors/OL9820611A"
+            ],
+            "title": "Diary of a Scotty-Dog! Hot-Dog",
+            "title_suggest": "Diary of a Scotty-Dog! Hot-Dog",
+            "title_sort": "Diary of a Scotty-Dog! Hot-Dog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35092373M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1794725229",
+                "9781794725225"
+            ],
+            "last_modified_i": 1633859306,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Lulu Press, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9820611A"
+            ],
+            "author_name": [
+                "Jack O'Hara"
+            ],
+            "publisher_facet": [
+                "Lulu Press, Inc."
+            ],
+            "_version_": 1767918321602134016,
+            "author_facet": [
+                "OL9820611A Jack O'Hara"
+            ]
+        },
+        {
+            "key": "/works/OL2227492W",
+            "type": "work",
+            "seed": [
+                "/books/OL12400478M",
+                "/works/OL2227492W",
+                "/authors/OL286867A"
+            ],
+            "title": "Hot-dog ou petit pain au chocolat",
+            "title_suggest": "Hot-dog ou petit pain au chocolat",
+            "title_sort": "Hot-dog ou petit pain au chocolat",
+            "edition_count": 1,
+            "edition_key": [
+                "OL12400478M"
+            ],
+            "publish_date": [
+                "February 20, 1998"
+            ],
+            "publish_year": [
+                1998
+            ],
+            "first_publish_year": 1998,
+            "number_of_pages_median": 210,
+            "isbn": [
+                "2081619318",
+                "9782081619319"
+            ],
+            "last_modified_i": 1683168865,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL12400478M",
+            "cover_i": 3081452,
+            "publisher": [
+                "Flammarion"
+            ],
+            "author_key": [
+                "OL286867A"
+            ],
+            "author_name": [
+                "Marie Page"
+            ],
+            "id_goodreads": [
+                "545101"
+            ],
+            "id_librarything": [
+                "4036942"
+            ],
+            "publisher_facet": [
+                "Flammarion"
+            ],
+            "_version_": 1767911866581909504,
+            "author_facet": [
+                "OL286867A Marie Page"
+            ]
+        },
+        {
+            "key": "/works/OL34115781W",
+            "type": "work",
+            "seed": [
+                "/books/OL46208026M",
+                "/works/OL34115781W",
+                "/authors/OL2949473A"
+            ],
+            "title": "Hotdog Terminkalender",
+            "title_suggest": "Hotdog Terminkalender",
+            "title_sort": "Hotdog Terminkalender",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46208026M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798577685577"
+            ],
+            "last_modified_i": 1673967318,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "ger"
+            ],
+            "author_key": [
+                "OL2949473A"
+            ],
+            "author_name": [
+                "Zimmer"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767931582486675456,
+            "author_facet": [
+                "OL2949473A Zimmer"
+            ]
+        },
+        {
+            "key": "/works/OL29836747W",
+            "type": "work",
+            "seed": [
+                "/books/OL41029022M",
+                "/works/OL29836747W",
+                "/authors/OL8937823A"
+            ],
+            "title": "I Like You More Than Hotdogs & Burgers and I Really Like Hotdogs & Burgers",
+            "title_suggest": "I Like You More Than Hotdogs & Burgers and I Really Like Hotdogs & Burgers",
+            "title_sort": "I Like You More Than Hotdogs & Burgers and I Really Like Hotdogs & Burgers",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41029022M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1799010538",
+                "9781799010531"
+            ],
+            "last_modified_i": 1669154448,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8937823A"
+            ],
+            "author_name": [
+                "Legacy Creations"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924882651217923,
+            "author_facet": [
+                "OL8937823A Legacy Creations"
+            ]
+        },
+        {
+            "key": "/works/OL18009299W",
+            "type": "work",
+            "seed": [
+                "/books/OL24131482M",
+                "/books/OL40493681M",
+                "/works/OL18009299W",
+                "/subjects/humor",
+                "/subjects/dogs",
+                "/subjects/pictorial_works",
+                "/subjects/humor_topic_animals",
+                "/authors/OL6795880A"
+            ],
+            "title": "I has a hot dog",
+            "title_suggest": "I has a hot dog",
+            "title_sort": "I has a hot dog",
+            "edition_count": 2,
+            "edition_key": [
+                "OL24131482M",
+                "OL40493681M"
+            ],
+            "publish_date": [
+                "2010"
+            ],
+            "publish_year": [
+                2010
+            ],
+            "first_publish_year": 2010,
+            "lccn": [
+                "2009939096"
+            ],
+            "oclc": [
+                "464589874"
+            ],
+            "lcc": [
+                "PN-6231.00000000.D68 I25 2010",
+                "PN-6231.00000000.D68I25 2010"
+            ],
+            "isbn": [
+                "0446571725",
+                "0446566381",
+                "9780446571722",
+                "9780446566384"
+            ],
+            "last_modified_i": 1668845553,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "ihashotdogwhatyo0000unse"
+            ],
+            "ia_collection": [
+                "china",
+                "delawarecountydistrictlibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "china;delawarecountydistrictlibrary-ol;inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL24131482M",
+            "lending_identifier_s": "ihashotdogwhatyo0000unse",
+            "printdisabled_s": "OL24131482M",
+            "readinglog_count": 2,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 1,
+            "cover_edition_key": "OL24131482M",
+            "cover_i": 6312319,
+            "publisher": [
+                "Grand Central Publishing"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6795880A"
+            ],
+            "author_name": [
+                "Professor Happycat"
+            ],
+            "subject": [
+                "Humor",
+                "Dogs",
+                "Pictorial works",
+                "Humor, topic, animals"
+            ],
+            "ia_box_id": [
+                "IA1500406"
+            ],
+            "publisher_facet": [
+                "Grand Central Publishing"
+            ],
+            "subject_facet": [
+                "Dogs",
+                "Humor",
+                "Humor, topic, animals",
+                "Pictorial works"
+            ],
+            "_version_": 1767903528997617665,
+            "lcc_sort": "PN-6231.00000000.D68 I25 2010",
+            "author_facet": [
+                "OL6795880A Professor Happycat"
+            ],
+            "subject_key": [
+                "dogs",
+                "humor",
+                "humor_topic_animals",
+                "pictorial_works"
+            ]
+        },
+        {
+            "key": "/works/OL36249706W",
+            "type": "work",
+            "seed": [
+                "/books/OL48983645M",
+                "/works/OL36249706W",
+                "/authors/OL11312120A"
+            ],
+            "title": "Funny Hotdog Composition Book",
+            "title_suggest": "Funny Hotdog Composition Book",
+            "title_sort": "Funny Hotdog Composition Book",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48983645M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798469731689"
+            ],
+            "last_modified_i": 1689643163,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11312120A"
+            ],
+            "author_name": [
+                "Gadgeteer Books"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1771719276419350528,
+            "author_facet": [
+                "OL11312120A Gadgeteer Books"
+            ]
+        },
+        {
+            "key": "/works/OL7011179W",
+            "type": "work",
+            "seed": [
+                "/books/OL5598709M",
+                "/works/OL7011179W",
+                "/subjects/cookery_(frankfurters)",
+                "/subjects/cooking_(frankfurters)",
+                "/authors/OL1961993A"
+            ],
+            "title": "The new hotdog cookbook",
+            "title_suggest": "The new hotdog cookbook",
+            "title_sort": "The new hotdog cookbook",
+            "edition_count": 1,
+            "edition_key": [
+                "OL5598709M"
+            ],
+            "publish_date": [
+                "1968"
+            ],
+            "publish_year": [
+                1968
+            ],
+            "first_publish_year": 1968,
+            "number_of_pages_median": 160,
+            "lccn": [
+                "68004661"
+            ],
+            "publish_place": [
+                "[New York"
+            ],
+            "lcc": [
+                "TX-0749.00000000.R643"
+            ],
+            "ddc": [
+                "641.66"
+            ],
+            "last_modified_i": 1601871264,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Macfadden-Bartell Corp."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1961993A"
+            ],
+            "author_name": [
+                "Mettja Cappon Roate"
+            ],
+            "subject": [
+                "Cookery (Frankfurters)",
+                "Cooking (Frankfurters)"
+            ],
+            "publisher_facet": [
+                "Macfadden-Bartell Corp."
+            ],
+            "subject_facet": [
+                "Cookery (Frankfurters)",
+                "Cooking (Frankfurters)"
+            ],
+            "_version_": 1767940230084558849,
+            "lcc_sort": "TX-0749.00000000.R643",
+            "author_facet": [
+                "OL1961993A Mettja Cappon Roate"
+            ],
+            "subject_key": [
+                "cookery_(frankfurters)",
+                "cooking_(frankfurters)"
+            ],
+            "ddc_sort": "641.66"
+        },
+        {
+            "key": "/works/OL30225878W",
+            "type": "work",
+            "seed": [
+                "/books/OL41548598M",
+                "/works/OL30225878W",
+                "/authors/OL7672884A"
+            ],
+            "title": "Would You Eat a Hotdog in the Bathtub?",
+            "title_suggest": "Would You Eat a Hotdog in the Bathtub?",
+            "title_sort": "Would You Eat a Hotdog in the Bathtub?",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41548598M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1087020379",
+                "9781087020372"
+            ],
+            "last_modified_i": 1669458074,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7672884A"
+            ],
+            "author_name": [
+                "Aimee Hughes"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925430218653696,
+            "author_facet": [
+                "OL7672884A Aimee Hughes"
+            ]
+        },
+        {
+            "key": "/works/OL20495204W",
+            "type": "work",
+            "seed": [
+                "/books/OL27727423M",
+                "/works/OL20495204W",
+                "/authors/OL7286447A"
+            ],
+            "title": "Harriet. Versehentlich ber\u00fchmt 03. Hotdogs und High Heels",
+            "title_suggest": "Harriet. Versehentlich ber\u00fchmt 03. Hotdogs und High Heels",
+            "title_sort": "Harriet. Versehentlich ber\u00fchmt 03. Hotdogs und High Heels",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27727423M"
+            ],
+            "publish_date": [
+                "Jul 01, 2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "isbn": [
+                "9783401069340",
+                "3401069349"
+            ],
+            "last_modified_i": 1574749288,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL27727423M",
+            "cover_i": 9153312,
+            "publisher": [
+                "Arena Verlag GmbH"
+            ],
+            "author_key": [
+                "OL7286447A"
+            ],
+            "author_name": [
+                "Holly Smale"
+            ],
+            "id_amazon": [
+                "3401069349"
+            ],
+            "publisher_facet": [
+                "Arena Verlag GmbH"
+            ],
+            "_version_": 1767908927270289410,
+            "author_facet": [
+                "OL7286447A Holly Smale"
+            ]
+        },
+        {
+            "key": "/works/OL13538900W",
+            "type": "work",
+            "seed": [
+                "/books/OL22136704M",
+                "/works/OL13538900W",
+                "/authors/OL6404827A"
+            ],
+            "title": "The moon, the sun and a hotdog bun",
+            "title_suggest": "The moon, the sun and a hotdog bun",
+            "title_sort": "The moon, the sun and a hotdog bun",
+            "edition_count": 1,
+            "edition_key": [
+                "OL22136704M"
+            ],
+            "publish_place": [
+                "Nava Publications"
+            ],
+            "oclc": [
+                "52578767"
+            ],
+            "isbn": [
+                "0972348808",
+                "9780972348805"
+            ],
+            "last_modified_i": 1303833108,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6404827A"
+            ],
+            "author_name": [
+                "Mosh Kaposh"
+            ],
+            "id_goodreads": [
+                "2777534"
+            ],
+            "_version_": 1767896709865668608,
+            "author_facet": [
+                "OL6404827A Mosh Kaposh"
+            ]
+        },
+        {
+            "key": "/works/OL17485718W",
+            "type": "work",
+            "seed": [
+                "/books/OL26072301M",
+                "/works/OL17485718W",
+                "/subjects/juvenile_wit_and_humor",
+                "/subjects/animals",
+                "/subjects/pictorial_works",
+                "/subjects/juvenile_humor",
+                "/subjects/wit_and_humor",
+                "/subjects/wit_and_humor_juvenile",
+                "/authors/OL2831002A"
+            ],
+            "title": "Hotdogs And Dinosnores A First Animal Joke Book",
+            "title_suggest": "Hotdogs And Dinosnores A First Animal Joke Book",
+            "title_sort": "Hotdogs And Dinosnores A First Animal Joke Book",
+            "edition_count": 1,
+            "edition_key": [
+                "OL26072301M"
+            ],
+            "publish_date": [
+                "2014"
+            ],
+            "publish_year": [
+                2014
+            ],
+            "first_publish_year": 2014,
+            "isbn": [
+                "1447253736",
+                "9781447253730"
+            ],
+            "last_modified_i": 1686977426,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "hotdogsdinosnore0000liam"
+            ],
+            "ia_collection": [
+                "hamiltonpubliclibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "hamiltonpubliclibrary-ol;inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL26072301M",
+            "lending_identifier_s": "hotdogsdinosnore0000liam",
+            "printdisabled_s": "OL26072301M",
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL26072301M",
+            "cover_i": 7673239,
+            "publisher": [
+                "Pan Macmillan"
+            ],
+            "author_key": [
+                "OL2831002A"
+            ],
+            "author_name": [
+                "Amanda Li"
+            ],
+            "subject": [
+                "Juvenile Wit and humor",
+                "Animals",
+                "Pictorial works",
+                "Juvenile humor",
+                "Wit and humor",
+                "Wit and humor, juvenile"
+            ],
+            "ia_box_id": [
+                "IA1972124"
+            ],
+            "publisher_facet": [
+                "Pan Macmillan"
+            ],
+            "subject_facet": [
+                "Animals",
+                "Juvenile Wit and humor",
+                "Juvenile humor",
+                "Pictorial works",
+                "Wit and humor",
+                "Wit and humor, juvenile"
+            ],
+            "_version_": 1769200171611062273,
+            "author_facet": [
+                "OL2831002A Amanda Li"
+            ],
+            "subject_key": [
+                "animals",
+                "juvenile_humor",
+                "juvenile_wit_and_humor",
+                "pictorial_works",
+                "wit_and_humor",
+                "wit_and_humor_juvenile"
+            ]
+        },
+        {
+            "key": "/works/OL27609481W",
+            "type": "work",
+            "seed": [
+                "/books/OL37648534M",
+                "/works/OL27609481W",
+                "/authors/OL2903375A"
+            ],
+            "title": "Frank Is That You Pig Hotdog Hot-Dog Funny Foodie College Ruled Line - 130 Pages - 8. 5 X 11 In",
+            "title_suggest": "Frank Is That You Pig Hotdog Hot-Dog Funny Foodie College Ruled Line - 130 Pages - 8. 5 X 11 In",
+            "title_sort": "Frank Is That You Pig Hotdog Hot-Dog Funny Foodie College Ruled Line - 130 Pages - 8. 5 X 11 In",
+            "edition_count": 1,
+            "edition_key": [
+                "OL37648534M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798798249411"
+            ],
+            "last_modified_i": 1646306375,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2903375A"
+            ],
+            "author_name": [
+                "Richard Horton"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921062283051008,
+            "author_facet": [
+                "OL2903375A Richard Horton"
+            ]
+        },
+        {
+            "key": "/works/OL28119458W",
+            "type": "work",
+            "seed": [
+                "/books/OL38488437M",
+                "/works/OL28119458W",
+                "/authors/OL9650283A"
+            ],
+            "title": "Cute Sausage Dog Hotdog Costume Gift",
+            "title_suggest": "Cute Sausage Dog Hotdog Costume Gift",
+            "title_sort": "Cute Sausage Dog Hotdog Costume Gift",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38488437M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798497857238"
+            ],
+            "last_modified_i": 1655642642,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9650283A"
+            ],
+            "author_name": [
+                "Qwerty Designs Publishing"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767922000090628097,
+            "author_facet": [
+                "OL9650283A Qwerty Designs Publishing"
+            ]
+        },
+        {
+            "key": "/works/OL34986946W",
+            "type": "work",
+            "seed": [
+                "/books/OL47350687M",
+                "/works/OL34986946W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A",
+                "/authors/OL12645083A"
+            ],
+            "title": "\u00a1Las aventuras de Hotdog! 2 - Bienvenidos a la fiesta",
+            "title_suggest": "\u00a1Las aventuras de Hotdog! 2 - Bienvenidos a la fiesta",
+            "title_sort": "\u00a1Las aventuras de Hotdog! 2 - Bienvenidos a la fiesta",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47350687M"
+            ],
+            "publish_date": [
+                "May 05, 2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "9788427225992",
+                "8427225997"
+            ],
+            "last_modified_i": 1681400004,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47350687M",
+            "cover_i": 13941036,
+            "publisher": [
+                "Molino"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A",
+                "OL12645083A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness",
+                "Mireia Ru\u00e9 i G\u00f2rriz"
+            ],
+            "publisher_facet": [
+                "Molino"
+            ],
+            "_version_": 1767932960549371904,
+            "author_facet": [
+                "OL12645083A Mireia Ru\u00e9 i G\u00f2rriz",
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL34986948W",
+            "type": "work",
+            "seed": [
+                "/books/OL47350689M",
+                "/works/OL34986948W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A",
+                "/authors/OL12645083A"
+            ],
+            "title": "\u00a1Las aventuras de Hotdog! 1 - Mejores amigos al rescate",
+            "title_suggest": "\u00a1Las aventuras de Hotdog! 1 - Mejores amigos al rescate",
+            "title_sort": "\u00a1Las aventuras de Hotdog! 1 - Mejores amigos al rescate",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47350689M"
+            ],
+            "publish_date": [
+                "May 05, 2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "8427225938",
+                "9788427225930"
+            ],
+            "last_modified_i": 1681400011,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47350689M",
+            "cover_i": 13941038,
+            "publisher": [
+                "Molino"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A",
+                "OL12645083A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness",
+                "Mireia Ru\u00e9 i G\u00f2rriz"
+            ],
+            "publisher_facet": [
+                "Molino"
+            ],
+            "_version_": 1767932960818855936,
+            "author_facet": [
+                "OL12645083A Mireia Ru\u00e9 i G\u00f2rriz",
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL34986942W",
+            "type": "work",
+            "seed": [
+                "/books/OL47350680M",
+                "/works/OL34986942W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A",
+                "/authors/OL12645083A"
+            ],
+            "title": "\u00a1Las aventuras de Hotdog! 3 - \u00a1Que empiece el espect\u00e1culo!",
+            "title_suggest": "\u00a1Las aventuras de Hotdog! 3 - \u00a1Que empiece el espect\u00e1culo!",
+            "title_sort": "\u00a1Las aventuras de Hotdog! 3 - \u00a1Que empiece el espect\u00e1culo!",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47350680M"
+            ],
+            "publish_date": [
+                "Oct 20, 2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "9788427226135",
+                "8427226136"
+            ],
+            "last_modified_i": 1681399989,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47350680M",
+            "cover_i": 13941027,
+            "publisher": [
+                "Molino"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A",
+                "OL12645083A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness",
+                "Mireia Ru\u00e9 i G\u00f2rriz"
+            ],
+            "publisher_facet": [
+                "Molino"
+            ],
+            "_version_": 1767932960944685056,
+            "author_facet": [
+                "OL12645083A Mireia Ru\u00e9 i G\u00f2rriz",
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL24226593W",
+            "type": "work",
+            "seed": [
+                "/books/OL32023432M",
+                "/works/OL24226593W",
+                "/authors/OL9116832A"
+            ],
+            "title": "It Was Never About a Hotdog and a Coke",
+            "title_suggest": "It Was Never About a Hotdog and a Coke",
+            "title_sort": "It Was Never About a Hotdog and a Coke",
+            "edition_count": 1,
+            "edition_key": [
+                "OL32023432M"
+            ],
+            "publish_date": [
+                "Jan 01, 2008"
+            ],
+            "publish_year": [
+                2008
+            ],
+            "first_publish_year": 2008,
+            "number_of_pages_median": 202,
+            "isbn": [
+                "1595942017",
+                "9781595942012"
+            ],
+            "last_modified_i": 1615226160,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL32023432M",
+            "cover_i": 10689690,
+            "publisher": [
+                "WingSpan Press"
+            ],
+            "author_key": [
+                "OL9116832A"
+            ],
+            "author_name": [
+                "Rodney L Hurst"
+            ],
+            "publisher_facet": [
+                "WingSpan Press"
+            ],
+            "_version_": 1767915437994016768,
+            "author_facet": [
+                "OL9116832A Rodney L Hurst"
+            ]
+        },
+        {
+            "key": "/works/OL28097386W",
+            "type": "work",
+            "seed": [
+                "/books/OL38455676M",
+                "/works/OL28097386W",
+                "/authors/OL9650283A"
+            ],
+            "title": "I Love Sausage Dogs Funny Hotdog Gift",
+            "title_suggest": "I Love Sausage Dogs Funny Hotdog Gift",
+            "title_sort": "I Love Sausage Dogs Funny Hotdog Gift",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38455676M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798497858617"
+            ],
+            "last_modified_i": 1655622772,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9650283A"
+            ],
+            "author_name": [
+                "Qwerty Designs Publishing"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921905327669248,
+            "author_facet": [
+                "OL9650283A Qwerty Designs Publishing"
+            ]
+        },
+        {
+            "key": "/works/OL29256161W",
+            "type": "work",
+            "seed": [
+                "/books/OL40231353M",
+                "/works/OL29256161W",
+                "/subjects/picnics",
+                "/subjects/juvenile_fiction",
+                "/subjects/pique-niques",
+                "/subjects/romans_nouvelles_etc._pour_la_jeunesse"
+            ],
+            "title": "Mickey Mouse Clubhouse",
+            "title_suggest": "Mickey Mouse Clubhouse",
+            "title_sort": "Mickey Mouse Clubhouse",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40231353M"
+            ],
+            "publish_date": [
+                "2012"
+            ],
+            "publish_year": [
+                2012
+            ],
+            "first_publish_year": 2012,
+            "publish_place": [
+                "[London]"
+            ],
+            "oclc": [
+                "824360322"
+            ],
+            "ddc": [
+                "813.54"
+            ],
+            "isbn": [
+                "1908648341",
+                "9781908648341"
+            ],
+            "last_modified_i": 1670227191,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "mickeymouseclubh0000unse_q9i2"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL40231353M",
+            "lending_identifier_s": "mickeymouseclubh0000unse_q9i2",
+            "printdisabled_s": "OL40231353M",
+            "readinglog_count": 2,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 1,
+            "cover_edition_key": "OL40231353M",
+            "cover_i": 12986300,
+            "publisher": [
+                "Hachette"
+            ],
+            "language": [
+                "eng"
+            ],
+            "subject": [
+                "Picnics",
+                "Juvenile fiction",
+                "Pique-niques",
+                "Romans, nouvelles, etc. pour la jeunesse"
+            ],
+            "ia_box_id": [
+                "IA40755223"
+            ],
+            "publisher_facet": [
+                "Hachette"
+            ],
+            "subject_facet": [
+                "Juvenile fiction",
+                "Picnics",
+                "Pique-niques",
+                "Romans, nouvelles, etc. pour la jeunesse"
+            ],
+            "_version_": 1767923957888974849,
+            "subject_key": [
+                "juvenile_fiction",
+                "picnics",
+                "pique-niques",
+                "romans_nouvelles_etc._pour_la_jeunesse"
+            ],
+            "ddc_sort": "813.54"
+        },
+        {
+            "key": "/works/OL34986947W",
+            "type": "work",
+            "seed": [
+                "/books/OL47350688M",
+                "/works/OL34986947W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A",
+                "/authors/OL12645092A"
+            ],
+            "title": "Les aventures d'en Hotdog! 1 - Millors amics al rescat",
+            "title_suggest": "Les aventures d'en Hotdog! 1 - Millors amics al rescat",
+            "title_sort": "Les aventures d'en Hotdog! 1 - Millors amics al rescat",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47350688M"
+            ],
+            "publish_date": [
+                "May 05, 2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "8427225946",
+                "9788427225947"
+            ],
+            "last_modified_i": 1681400007,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47350688M",
+            "cover_i": 13941037,
+            "publisher": [
+                "Molino"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A",
+                "OL12645092A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness",
+                "N\u00faria Saurina Eudaldo"
+            ],
+            "publisher_facet": [
+                "Molino"
+            ],
+            "_version_": 1767932960631160832,
+            "author_facet": [
+                "OL12645092A N\u00faria Saurina Eudaldo",
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL34986941W",
+            "type": "work",
+            "seed": [
+                "/books/OL47350678M",
+                "/works/OL34986941W",
+                "/authors/OL7208348A",
+                "/authors/OL12645093A"
+            ],
+            "title": "Les aventures d'en Hotdog! 3 - Que comenci l'espectacle!",
+            "title_suggest": "Les aventures d'en Hotdog! 3 - Que comenci l'espectacle!",
+            "title_sort": "Les aventures d'en Hotdog! 3 - Que comenci l'espectacle!",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47350678M"
+            ],
+            "publish_date": [
+                "Oct 20, 2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "9788427226142",
+                "8427226144"
+            ],
+            "last_modified_i": 1681399985,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47350678M",
+            "cover_i": 13941025,
+            "publisher": [
+                "Molino"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL12645093A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Nuria Saurina Eudaldo "
+            ],
+            "publisher_facet": [
+                "Molino"
+            ],
+            "_version_": 1767932961132380160,
+            "author_facet": [
+                "OL12645093A Nuria Saurina Eudaldo ",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL34986944W",
+            "type": "work",
+            "seed": [
+                "/books/OL47350686M",
+                "/works/OL34986944W",
+                "/authors/OL7208348A",
+                "/authors/OL7104339A",
+                "/authors/OL12645092A"
+            ],
+            "title": "Les aventures d'en Hotdog! 2 - Benvinguts a la festa",
+            "title_suggest": "Les aventures d'en Hotdog! 2 - Benvinguts a la festa",
+            "title_sort": "Les aventures d'en Hotdog! 2 - Benvinguts a la festa",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47350686M"
+            ],
+            "publish_date": [
+                "May 05, 2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "8427226004",
+                "9788427226005"
+            ],
+            "last_modified_i": 1681400001,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL47350686M",
+            "cover_i": 13941033,
+            "publisher": [
+                "Molino"
+            ],
+            "author_key": [
+                "OL7208348A",
+                "OL7104339A",
+                "OL12645092A"
+            ],
+            "author_name": [
+                "Anh Do",
+                "Dan McGuiness",
+                "N\u00faria Saurina Eudaldo"
+            ],
+            "publisher_facet": [
+                "Molino"
+            ],
+            "_version_": 1767932961147060225,
+            "author_facet": [
+                "OL12645092A N\u00faria Saurina Eudaldo",
+                "OL7104339A Dan McGuiness",
+                "OL7208348A Anh Do"
+            ]
+        },
+        {
+            "key": "/works/OL24739912W",
+            "type": "work",
+            "seed": [
+                "/books/OL32845347M",
+                "/works/OL24739912W",
+                "/authors/OL9328935A"
+            ],
+            "title": "Secret Agent Hillary and the Case of the Missing Hotdog",
+            "title_suggest": "Secret Agent Hillary and the Case of the Missing Hotdog",
+            "title_sort": "Secret Agent Hillary and the Case of the Missing Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL32845347M"
+            ],
+            "publish_date": [
+                "Apr 04, 2016"
+            ],
+            "publish_year": [
+                2016
+            ],
+            "first_publish_year": 2016,
+            "number_of_pages_median": 44,
+            "isbn": [
+                "0578170531",
+                "9780578170534"
+            ],
+            "last_modified_i": 1626942000,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL32845347M",
+            "cover_i": 11478321,
+            "publisher": [
+                "Books On A Whim, Inc."
+            ],
+            "author_key": [
+                "OL9328935A"
+            ],
+            "author_name": [
+                "Beth Schaefer"
+            ],
+            "publisher_facet": [
+                "Books On A Whim, Inc."
+            ],
+            "_version_": 1767916259862642688,
+            "author_facet": [
+                "OL9328935A Beth Schaefer"
+            ]
+        },
+        {
+            "key": "/works/OL19963689W",
+            "type": "work",
+            "seed": [
+                "/books/OL27143910M",
+                "/works/OL19963689W",
+                "/subjects/vending_stands",
+                "/subjects/selling",
+                "/subjects/frankfurters",
+                "/subjects/new_business_enterprises",
+                "/subjects/hot_dog_stands",
+                "/authors/OL7591893A"
+            ],
+            "title": "How to start a hotdog cart business",
+            "title_suggest": "How to start a hotdog cart business",
+            "title_sort": "How to start a hotdog cart business",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27143910M"
+            ],
+            "publish_date": [
+                "2011"
+            ],
+            "publish_year": [
+                2011
+            ],
+            "first_publish_year": 2011,
+            "number_of_pages_median": 159,
+            "publish_place": [
+                "Austin, Tex"
+            ],
+            "oclc": [
+                "840507875"
+            ],
+            "isbn": [
+                "9781937126971",
+                "1937126978"
+            ],
+            "last_modified_i": 1681522261,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL27143910M",
+            "cover_i": 13994665,
+            "publisher": [
+                "Shoestring Press Pub.",
+                "Shoestring Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7591893A"
+            ],
+            "author_name": [
+                "Perry Belcher"
+            ],
+            "subject": [
+                "Vending stands",
+                "Selling",
+                "Frankfurters",
+                "New business enterprises",
+                "Hot dog stands"
+            ],
+            "publisher_facet": [
+                "Shoestring Press",
+                "Shoestring Press Pub."
+            ],
+            "subject_facet": [
+                "Frankfurters",
+                "Hot dog stands",
+                "New business enterprises",
+                "Selling",
+                "Vending stands"
+            ],
+            "_version_": 1767907474138988544,
+            "author_facet": [
+                "OL7591893A Perry Belcher"
+            ],
+            "subject_key": [
+                "frankfurters",
+                "hot_dog_stands",
+                "new_business_enterprises",
+                "selling",
+                "vending_stands"
+            ]
+        },
+        {
+            "key": "/works/OL14849986W",
+            "type": "work",
+            "seed": [
+                "/books/OL4736184M",
+                "/works/OL14849986W",
+                "/subjects/skis_and_skiing",
+                "/subjects/wit_and_humor",
+                "/subjects/juvenile_humor",
+                "/subjects/skis_and_skiing_juvenile_literature",
+                "/authors/OL4452558A"
+            ],
+            "title": "Downhill, hotdogging, and cross-country--if the snow isn't sticky",
+            "title_suggest": "Downhill, hotdogging, and cross-country--if the snow isn't sticky",
+            "title_sort": "Downhill, hotdogging, and cross-country--if the snow isn't sticky",
+            "edition_count": 1,
+            "edition_key": [
+                "OL4736184M"
+            ],
+            "publish_date": [
+                "1979"
+            ],
+            "publish_year": [
+                1979
+            ],
+            "first_publish_year": 1979,
+            "number_of_pages_median": 31,
+            "lccn": [
+                "78026256"
+            ],
+            "publish_place": [
+                "Milwaukee"
+            ],
+            "oclc": [
+                "4493934"
+            ],
+            "contributor": [
+                "Wood, Willis.",
+                "Kluetmeier, Heinz."
+            ],
+            "lcc": [
+                "GV-0854.30000000.P38"
+            ],
+            "ddc": [
+                "796.930207"
+            ],
+            "isbn": [
+                "0817201874",
+                "9780817201876"
+            ],
+            "last_modified_i": 1666119524,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "downhillhotdoggi0000paul"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL4736184M",
+            "lending_identifier_s": "downhillhotdoggi0000paul",
+            "printdisabled_s": "OL4736184M",
+            "cover_edition_key": "OL4736184M",
+            "cover_i": 12912340,
+            "publisher": [
+                "Raintree Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4452558A"
+            ],
+            "author_name": [
+                "Gary Paulsen"
+            ],
+            "author_alternative_name": [
+                "Gary Paulson",
+                "Gary James Paulsen"
+            ],
+            "subject": [
+                "Skis and skiing",
+                "Wit and humor",
+                "Juvenile humor",
+                "Skis and skiing, juvenile literature"
+            ],
+            "id_goodreads": [
+                "717836"
+            ],
+            "id_librarything": [
+                "8223836"
+            ],
+            "ia_box_id": [
+                "IA40686021"
+            ],
+            "publisher_facet": [
+                "Raintree Publishers"
+            ],
+            "subject_facet": [
+                "Juvenile humor",
+                "Skis and skiing",
+                "Skis and skiing, juvenile literature",
+                "Wit and humor"
+            ],
+            "_version_": 1767897779957399553,
+            "lcc_sort": "GV-0854.30000000.P38",
+            "author_facet": [
+                "OL4452558A Gary Paulsen"
+            ],
+            "subject_key": [
+                "juvenile_humor",
+                "skis_and_skiing",
+                "skis_and_skiing_juvenile_literature",
+                "wit_and_humor"
+            ],
+            "ddc_sort": "796.930207"
+        },
+        {
+            "key": "/works/OL35311693W",
+            "type": "work",
+            "seed": [
+                "/books/OL47724679M",
+                "/works/OL35311693W",
+                "/authors/OL12773423A"
+            ],
+            "title": "Gone to the Dogs- In Search of the Best Ballpark Hotdog",
+            "title_suggest": "Gone to the Dogs- In Search of the Best Ballpark Hotdog",
+            "title_sort": "Gone to the Dogs- In Search of the Best Ballpark Hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL47724679M"
+            ],
+            "publish_date": [
+                "2015-04-05"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "isbn": [
+                "9781457536236",
+                "1457536234"
+            ],
+            "last_modified_i": 1683173951,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Dog Ear Publishing"
+            ],
+            "author_key": [
+                "OL12773423A"
+            ],
+            "author_name": [
+                "Tom Lohr"
+            ],
+            "publisher_facet": [
+                "Dog Ear Publishing"
+            ],
+            "_version_": 1767933641685467136,
+            "author_facet": [
+                "OL12773423A Tom Lohr"
+            ]
+        },
+        {
+            "key": "/works/OL27195627W",
+            "type": "work",
+            "seed": [
+                "/books/OL36913417M",
+                "/works/OL27195627W",
+                "/authors/OL9669660A"
+            ],
+            "title": "Touch and You'll Be Force Fed Cold Hotdogs until You Vomit",
+            "title_suggest": "Touch and You'll Be Force Fed Cold Hotdogs until You Vomit",
+            "title_sort": "Touch and You'll Be Force Fed Cold Hotdogs until You Vomit",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36913417M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798542024523"
+            ],
+            "last_modified_i": 1643416144,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9669660A"
+            ],
+            "author_name": [
+                "Caleb Ortega"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920393881911297,
+            "author_facet": [
+                "OL9669660A Caleb Ortega"
+            ]
+        },
+        {
+            "key": "/works/OL27567871W",
+            "type": "work",
+            "seed": [
+                "/books/OL37594149M",
+                "/works/OL27567871W",
+                "/authors/OL1234467A"
+            ],
+            "title": "Don't Look for Love Look for Mac and Cheese with Hotdogs , Funny Mac and Cheese with Hotdogs Blank Recipes Book Gift : Lined Blank Journal Gift, 110 Pages, 6x9 : Funny Mac and Cheese with Hotdogs Blank Recipes Book Gift",
+            "title_suggest": "Don't Look for Love Look for Mac and Cheese with Hotdogs , Funny Mac and Cheese with Hotdogs Blank Recipes Book Gift : Lined Blank Journal Gift, 110 Pages, 6x9 : Funny Mac and Cheese with Hotdogs Blank Recipes Book Gift",
+            "title_sort": "Don't Look for Love Look for Mac and Cheese with Hotdogs , Funny Mac and Cheese with Hotdogs Blank Recipes Book Gift : Lined Blank Journal Gift, 110 Pages, 6x9 : Funny Mac and Cheese with Hotdogs Blank Recipes Book Gift",
+            "edition_count": 1,
+            "edition_key": [
+                "OL37594149M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798451504239"
+            ],
+            "last_modified_i": 1646272336,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1234467A"
+            ],
+            "author_name": [
+                "Sarah Roberts"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921154546204673,
+            "author_facet": [
+                "OL1234467A Sarah Roberts"
+            ]
+        },
+        {
+            "key": "/works/OL4813828W",
+            "type": "work",
+            "seed": [
+                "/books/OL2230270M",
+                "/works/OL4813828W",
+                "/subjects/fantasy",
+                "/subjects/juvenile_fiction",
+                "/subjects/children's_fiction",
+                "/subjects/fantasy_fiction",
+                "/authors/OL1014482A"
+            ],
+            "title": "The legend of the flying hotdog",
+            "title_suggest": "The legend of the flying hotdog",
+            "title_sort": "The legend of the flying hotdog",
+            "edition_count": 1,
+            "edition_key": [
+                "OL2230270M"
+            ],
+            "publish_date": [
+                "1989"
+            ],
+            "publish_year": [
+                1989
+            ],
+            "first_publish_year": 1989,
+            "number_of_pages_median": 26,
+            "lccn": [
+                "89083963"
+            ],
+            "publish_place": [
+                "San Diego, CA"
+            ],
+            "oclc": [
+                "20818543"
+            ],
+            "contributor": [
+                "Lane, Daniel, 1959- ill."
+            ],
+            "isbn": [
+                "9780881381313",
+                "0881381314"
+            ],
+            "last_modified_i": 1670650253,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Green Tiger Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1014482A"
+            ],
+            "author_name": [
+                "Celeste White"
+            ],
+            "subject": [
+                "Fantasy",
+                "Juvenile fiction",
+                "Children's fiction",
+                "Fantasy fiction"
+            ],
+            "id_goodreads": [
+                "2815522"
+            ],
+            "id_librarything": [
+                "7891914"
+            ],
+            "publisher_facet": [
+                "Green Tiger Press"
+            ],
+            "subject_facet": [
+                "Children's fiction",
+                "Fantasy",
+                "Fantasy fiction",
+                "Juvenile fiction"
+            ],
+            "_version_": 1767936298361815040,
+            "author_facet": [
+                "OL1014482A Celeste White"
+            ],
+            "subject_key": [
+                "children's_fiction",
+                "fantasy",
+                "fantasy_fiction",
+                "juvenile_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL8489518M",
+            "type": "work",
+            "seed": [
+                "/books/OL8489518M",
+                "/works/OL8489518M",
+                "/subjects/music_/_lullabies",
+                "/subjects/genres_&_styles_-_children's",
+                "/subjects/music/songbooks",
+                "/subjects/music",
+                "/authors/OL2992648A",
+                "/authors/OL2992649A"
+            ],
+            "title": "How Much Is That Hotdog In the Lunchroom...and other funny Songs",
+            "title_suggest": "How Much Is That Hotdog In the Lunchroom...and other funny Songs",
+            "title_sort": "How Much Is That Hotdog In the Lunchroom...and other funny Songs",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8489518M"
+            ],
+            "publish_date": [
+                "October 28, 2005"
+            ],
+            "publish_year": [
+                2005
+            ],
+            "first_publish_year": 2005,
+            "number_of_pages_median": 44,
+            "contributor": [
+                "Marilyn Alvarado  (Illustrator)"
+            ],
+            "isbn": [
+                "1420887602",
+                "9781420887600"
+            ],
+            "last_modified_i": 1686045521,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL8489518M",
+            "cover_i": 1811260,
+            "publisher": [
+                "AuthorHouse"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2992648A",
+                "OL2992649A"
+            ],
+            "author_name": [
+                "Nora Elizalde ",
+                "Norma Neal"
+            ],
+            "subject": [
+                "Music / Lullabies",
+                "Genres & Styles - Children's",
+                "Music/Songbooks",
+                "Music"
+            ],
+            "id_goodreads": [
+                "1336641"
+            ],
+            "publisher_facet": [
+                "AuthorHouse"
+            ],
+            "subject_facet": [
+                "Genres & Styles - Children's",
+                "Music",
+                "Music / Lullabies",
+                "Music/Songbooks"
+            ],
+            "_version_": 1767946870330490880,
+            "author_facet": [
+                "OL2992648A Nora Elizalde ",
+                "OL2992649A Norma Neal"
+            ],
+            "subject_key": [
+                "genres__styles_-_children's",
+                "music",
+                "music__lullabies",
+                "musicsongbooks"
+            ]
+        },
+        {
+            "key": "/works/OL9531456W",
+            "type": "work",
+            "seed": [
+                "/books/OL12299384M",
+                "/works/OL9531456W",
+                "/authors/OL3536467A"
+            ],
+            "title": "Is this Apple Kosher? or May I Have Watermelon with My Hotdog?",
+            "title_suggest": "Is this Apple Kosher? or May I Have Watermelon with My Hotdog?",
+            "title_sort": "Is this Apple Kosher? or May I Have Watermelon with My Hotdog?",
+            "edition_count": 1,
+            "edition_key": [
+                "OL12299384M"
+            ],
+            "publish_date": [
+                "January 1, 1982"
+            ],
+            "publish_year": [
+                1982
+            ],
+            "first_publish_year": 1982,
+            "number_of_pages_median": 48,
+            "oclc": [
+                "166374174"
+            ],
+            "contributor": [
+                "Nina Woldin (Illustrator)",
+                "Barry, W Holtz (Editor)"
+            ],
+            "isbn": [
+                "1929419139",
+                "9781929419135"
+            ],
+            "last_modified_i": 1303993136,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL12299384M",
+            "cover_i": 3051839,
+            "publisher": [
+                "The Melton Research Center"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3536467A"
+            ],
+            "author_name": [
+                "Cheri Ellowitz Silver"
+            ],
+            "id_goodreads": [
+                "2699213"
+            ],
+            "publisher_facet": [
+                "The Melton Research Center"
+            ],
+            "_version_": 1767944692963475456,
+            "author_facet": [
+                "OL3536467A Cheri Ellowitz Silver"
+            ]
+        },
+        {
+            "key": "/works/OL28091984W",
+            "type": "work",
+            "seed": [
+                "/books/OL38448220M",
+                "/works/OL28091984W",
+                "/authors/OL10472279A"
+            ],
+            "title": "Marcell Ozuna If It Involves Baseball Hotdogs Gameday",
+            "title_suggest": "Marcell Ozuna If It Involves Baseball Hotdogs Gameday",
+            "title_sort": "Marcell Ozuna If It Involves Baseball Hotdogs Gameday",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38448220M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798443267890"
+            ],
+            "last_modified_i": 1655617905,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10472279A"
+            ],
+            "author_name": [
+                "Latoya TAYLOR"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767922014379573249,
+            "author_facet": [
+                "OL10472279A Latoya TAYLOR"
+            ]
+        },
+        {
+            "key": "/works/OL25483881W",
+            "type": "work",
+            "seed": [
+                "/books/OL34179802M",
+                "/books/OL44294734M",
+                "/works/OL25483881W",
+                "/authors/OL9630302A"
+            ],
+            "title": "Fenster and the Amazing Hotdog Tree",
+            "title_suggest": "Fenster and the Amazing Hotdog Tree",
+            "title_sort": "Fenster and the Amazing Hotdog Tree",
+            "edition_count": 2,
+            "edition_key": [
+                "OL34179802M",
+                "OL44294734M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "number_of_pages_median": 32,
+            "isbn": [
+                "1949116778",
+                "9781949116779",
+                "1949116786",
+                "9781949116786"
+            ],
+            "last_modified_i": 1671315854,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Woodhall Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9630302A"
+            ],
+            "author_name": [
+                "Kathi Fox Havener"
+            ],
+            "publisher_facet": [
+                "Woodhall Press"
+            ],
+            "_version_": 1767917504468877312,
+            "author_facet": [
+                "OL9630302A Kathi Fox Havener"
+            ]
+        },
+        {
+            "key": "/works/OL25830258W",
+            "type": "work",
+            "seed": [
+                "/books/OL34831328M",
+                "/works/OL25830258W",
+                "/subjects/fiction_historical_general",
+                "/subjects/detroit_(mich.)_fiction",
+                "/authors/OL9770244A"
+            ],
+            "title": "Those Were the Days",
+            "title_suggest": "Those Were the Days",
+            "title_sort": "Those Were the Days",
+            "edition_count": 1,
+            "edition_key": [
+                "OL34831328M"
+            ],
+            "publish_date": [
+                "2008"
+            ],
+            "publish_year": [
+                2008
+            ],
+            "first_publish_year": 2008,
+            "isbn": [
+                "193391615X",
+                "9781933916156"
+            ],
+            "last_modified_i": 1633696308,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Nelson Publishing & Marketing"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9770244A"
+            ],
+            "author_name": [
+                "Gary Diehl"
+            ],
+            "subject": [
+                "Fiction, historical, general",
+                "Detroit (mich.), fiction"
+            ],
+            "publisher_facet": [
+                "Nelson Publishing & Marketing"
+            ],
+            "subject_facet": [
+                "Detroit (mich.), fiction",
+                "Fiction, historical, general"
+            ],
+            "_version_": 1767918080684457985,
+            "author_facet": [
+                "OL9770244A Gary Diehl"
+            ],
+            "subject_key": [
+                "detroit_(mich.)_fiction",
+                "fiction_historical_general"
+            ]
+        }
+    ],
+    "num_found": 159,
+    "q": "hotdog",
+    "offset": null
+}

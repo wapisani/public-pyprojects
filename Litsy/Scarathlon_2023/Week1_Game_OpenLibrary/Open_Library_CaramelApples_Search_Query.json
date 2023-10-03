@@ -1,0 +1,1060 @@
+{
+    "numFound": 14,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL29882998W",
+            "type": "work",
+            "seed": [
+                "/books/OL41088921M",
+                "/works/OL29882998W",
+                "/authors/OL11027159A"
+            ],
+            "title": "Caramel Apples",
+            "title_suggest": "Caramel Apples",
+            "title_sort": "Caramel Apples",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41088921M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1792880944",
+                "9781792880940"
+            ],
+            "last_modified_i": 1669188254,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11027159A"
+            ],
+            "author_name": [
+                "Gia G"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924955453849600,
+            "author_facet": [
+                "OL11027159A Gia G"
+            ]
+        },
+        {
+            "key": "/works/OL12531145M",
+            "type": "work",
+            "seed": [
+                "/books/OL12531145M",
+                "/works/OL12531145M",
+                "/subjects/stationery_/_gift_wrap"
+            ],
+            "title": "Love Caramel Apples",
+            "title_suggest": "Love Caramel Apples",
+            "title_sort": "Love Caramel Apples",
+            "edition_count": 1,
+            "edition_key": [
+                "OL12531145M"
+            ],
+            "publish_date": [
+                "October 1996"
+            ],
+            "publish_year": [
+                1996
+            ],
+            "first_publish_year": 1996,
+            "isbn": [
+                "9784902430622",
+                "4902430622"
+            ],
+            "last_modified_i": 1686044369,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Ton Communications"
+            ],
+            "language": [
+                "eng"
+            ],
+            "subject": [
+                "Stationery / Gift Wrap"
+            ],
+            "publisher_facet": [
+                "Ton Communications"
+            ],
+            "subject_facet": [
+                "Stationery / Gift Wrap"
+            ],
+            "_version_": 1767945661773250561,
+            "subject_key": [
+                "stationery__gift_wrap"
+            ]
+        },
+        {
+            "key": "/works/OL30282681W",
+            "type": "work",
+            "seed": [
+                "/books/OL41630957M",
+                "/works/OL30282681W",
+                "/authors/OL8281945A"
+            ],
+            "title": "Apple Caramel Mayhem",
+            "title_suggest": "Apple Caramel Mayhem",
+            "title_sort": "Apple Caramel Mayhem",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41630957M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781698218144",
+                "1698218141"
+            ],
+            "last_modified_i": 1669504696,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8281945A"
+            ],
+            "author_name": [
+                "Leena Clover"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925625330335745,
+            "author_facet": [
+                "OL8281945A Leena Clover"
+            ]
+        },
+        {
+            "key": "/works/OL34000149W",
+            "type": "work",
+            "seed": [
+                "/books/OL45994224M",
+                "/works/OL34000149W",
+                "/authors/OL2722455A"
+            ],
+            "title": "Divine Moments & Caramel Apples",
+            "title_suggest": "Divine Moments & Caramel Apples",
+            "title_sort": "Divine Moments & Caramel Apples",
+            "edition_count": 1,
+            "edition_key": [
+                "OL45994224M"
+            ],
+            "publish_date": [
+                "2011-06-25"
+            ],
+            "publish_year": [
+                2011
+            ],
+            "first_publish_year": 2011,
+            "isbn": [
+                "1456449508",
+                "9781456449506"
+            ],
+            "last_modified_i": 1673795821,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL2722455A"
+            ],
+            "author_name": [
+                "Scott Marmorstein"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "_version_": 1767931432337932291,
+            "author_facet": [
+                "OL2722455A Scott Marmorstein"
+            ]
+        },
+        {
+            "key": "/works/OL29550230W",
+            "type": "work",
+            "seed": [
+                "/books/OL40664572M",
+                "/works/OL29550230W",
+                "/authors/OL10923611A"
+            ],
+            "title": "Harvest Moon",
+            "title_suggest": "Harvest Moon",
+            "title_sort": "Harvest Moon",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40664572M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "9781728770499",
+                "1728770491"
+            ],
+            "last_modified_i": 1668943945,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10923611A"
+            ],
+            "author_name": [
+                "Diana Meyer"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924503567925248,
+            "author_facet": [
+                "OL10923611A Diana Meyer"
+            ]
+        },
+        {
+            "key": "/works/OL27561916W",
+            "type": "work",
+            "seed": [
+                "/books/OL37586663M",
+                "/works/OL27561916W",
+                "/authors/OL1234467A"
+            ],
+            "title": "Don't Look for Love Look for Caramel Apple , Funny Caramel Apple Blank Recipes Book Gift : Lined Blank Journal Gift, 110 Pages, 6x9 : Funny Caramel Apple Blank Recipes Book Gift",
+            "title_suggest": "Don't Look for Love Look for Caramel Apple , Funny Caramel Apple Blank Recipes Book Gift : Lined Blank Journal Gift, 110 Pages, 6x9 : Funny Caramel Apple Blank Recipes Book Gift",
+            "title_sort": "Don't Look for Love Look for Caramel Apple , Funny Caramel Apple Blank Recipes Book Gift : Lined Blank Journal Gift, 110 Pages, 6x9 : Funny Caramel Apple Blank Recipes Book Gift",
+            "edition_count": 1,
+            "edition_key": [
+                "OL37586663M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798452050124"
+            ],
+            "last_modified_i": 1646267590,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1234467A"
+            ],
+            "author_name": [
+                "Sarah Roberts"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921028961402880,
+            "author_facet": [
+                "OL1234467A Sarah Roberts"
+            ]
+        },
+        {
+            "key": "/works/OL28162953W",
+            "type": "work",
+            "seed": [
+                "/books/OL38556310M",
+                "/books/OL48243130M",
+                "/works/OL28162953W",
+                "/subjects/family",
+                "/subjects/biography",
+                "/authors/OL10494388A",
+                "/authors/OL10494389A"
+            ],
+            "title": "She Gave Me Caramel Apples",
+            "title_suggest": "She Gave Me Caramel Apples",
+            "title_sort": "She Gave Me Caramel Apples",
+            "edition_count": 2,
+            "edition_key": [
+                "OL38556310M",
+                "OL48243130M"
+            ],
+            "publish_date": [
+                "2023",
+                "2022"
+            ],
+            "publish_year": [
+                2023,
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9781634895712",
+                "1634895711",
+                "1634896351",
+                "9781634896351"
+            ],
+            "last_modified_i": 1686998931,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Wise Ink"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10494388A",
+                "OL10494389A"
+            ],
+            "author_name": [
+                "Sue Vrooman",
+                "Bradley Steckelberg"
+            ],
+            "subject": [
+                "Family",
+                "Biography"
+            ],
+            "publisher_facet": [
+                "Wise Ink"
+            ],
+            "subject_facet": [
+                "Biography",
+                "Family"
+            ],
+            "_version_": 1769205742091370496,
+            "author_facet": [
+                "OL10494388A Sue Vrooman",
+                "OL10494389A Bradley Steckelberg"
+            ],
+            "subject_key": [
+                "biography",
+                "family"
+            ]
+        },
+        {
+            "key": "/works/OL36299952W",
+            "type": "work",
+            "seed": [
+                "/books/OL49049307M",
+                "/works/OL36299952W",
+                "/subjects/children's_fiction",
+                "/subjects/family",
+                "/authors/OL13063820A"
+            ],
+            "title": "Popcorn",
+            "title_suggest": "Popcorn",
+            "title_sort": "Popcorn",
+            "edition_count": 1,
+            "edition_key": [
+                "OL49049307M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9781734301229",
+                "1734301228"
+            ],
+            "last_modified_i": 1689657596,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Newton Apple Books LLC"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13063820A"
+            ],
+            "author_name": [
+                "April R. Newton"
+            ],
+            "subject": [
+                "Children's fiction",
+                "Family"
+            ],
+            "publisher_facet": [
+                "Newton Apple Books LLC"
+            ],
+            "subject_facet": [
+                "Children's fiction",
+                "Family"
+            ],
+            "_version_": 1771734410526195712,
+            "author_facet": [
+                "OL13063820A April R. Newton"
+            ],
+            "subject_key": [
+                "children's_fiction",
+                "family"
+            ]
+        },
+        {
+            "key": "/works/OL30187003W",
+            "type": "work",
+            "seed": [
+                "/books/OL41492861M",
+                "/works/OL30187003W",
+                "/authors/OL2993476A"
+            ],
+            "title": "Hello! 123 Cinnamon Roll Recipes",
+            "title_suggest": "Hello! 123 Cinnamon Roll Recipes",
+            "title_sort": "Hello! 123 Cinnamon Roll Recipes",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41492861M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "170050584X",
+                "9781700505842"
+            ],
+            "last_modified_i": 1669427589,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2993476A"
+            ],
+            "author_name": [
+                "Bread"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925343649267712,
+            "author_facet": [
+                "OL2993476A Bread"
+            ]
+        },
+        {
+            "key": "/works/OL6049060W",
+            "type": "work",
+            "seed": [
+                "/books/OL8956807M",
+                "/works/OL6049060W",
+                "/subjects/desserts",
+                "/subjects/pastry",
+                "/subjects/cake",
+                "/subjects/pies",
+                "/authors/OL1523030A"
+            ],
+            "title": "150 Dessert Cakes, Pies, Tarts & Bakes",
+            "title_suggest": "150 Dessert Cakes, Pies, Tarts & Bakes",
+            "title_sort": "150 Dessert Cakes, Pies, Tarts & Bakes",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8956807M"
+            ],
+            "publish_date": [
+                "July 25, 2007"
+            ],
+            "publish_year": [
+                2007
+            ],
+            "first_publish_year": 2007,
+            "number_of_pages_median": 96,
+            "lcc": [
+                "TX-0773.00000000.A1525 2007"
+            ],
+            "isbn": [
+                "184476382X",
+                "9781844763825"
+            ],
+            "last_modified_i": 1670636054,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "150dessertspastr0000kaya"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL8956807M",
+            "lending_identifier_s": "150dessertspastr0000kaya",
+            "printdisabled_s": "OL8956807M",
+            "readinglog_count": 2,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 1,
+            "cover_edition_key": "OL8956807M",
+            "cover_i": 2031788,
+            "publisher": [
+                "Southwater"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1523030A"
+            ],
+            "author_name": [
+                "Ann Kay"
+            ],
+            "subject": [
+                "Desserts",
+                "Pastry",
+                "Cake",
+                "Pies"
+            ],
+            "id_amazon": [
+                ""
+            ],
+            "id_goodreads": [
+                "119743"
+            ],
+            "ia_box_id": [
+                "IA1984907"
+            ],
+            "publisher_facet": [
+                "Southwater"
+            ],
+            "subject_facet": [
+                "Cake",
+                "Desserts",
+                "Pastry",
+                "Pies"
+            ],
+            "_version_": 1767938532150607873,
+            "lcc_sort": "TX-0773.00000000.A1525 2007",
+            "author_facet": [
+                "OL1523030A Ann Kay"
+            ],
+            "subject_key": [
+                "cake",
+                "desserts",
+                "pastry",
+                "pies"
+            ]
+        },
+        {
+            "key": "/works/OL28105960W",
+            "type": "work",
+            "seed": [
+                "/books/OL38485172M",
+                "/books/OL38555102M",
+                "/books/OL38502145M",
+                "/books/OL38468602M",
+                "/works/OL28105960W",
+                "/authors/OL10480430A"
+            ],
+            "title": "Password Book",
+            "title_suggest": "Password Book",
+            "title_sort": "Password Book",
+            "edition_count": 4,
+            "edition_key": [
+                "OL38485172M",
+                "OL38555102M",
+                "OL38502145M",
+                "OL38468602M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798781118915",
+                "9798781122622",
+                "9798781138777",
+                "9798781136957"
+            ],
+            "last_modified_i": 1655683874,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10480430A"
+            ],
+            "author_name": [
+                "William David Fox-Lear"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921908139950080,
+            "author_facet": [
+                "OL10480430A William David Fox-Lear"
+            ]
+        },
+        {
+            "key": "/works/OL33369645W",
+            "type": "work",
+            "seed": [
+                "/books/OL45275368M",
+                "/works/OL33369645W",
+                "/subjects/confectionery",
+                "/subjects/early_works_to_1800",
+                "/subjects/ice_cream_ices",
+                "/subjects/wine_and_wine_making",
+                "/authors/OL12090840A"
+            ],
+            "title": "The court and country confectioner, or, the house-keeper's guide",
+            "title_suggest": "The court and country confectioner, or, the house-keeper's guide",
+            "title_sort": "The court and country confectioner, or, the house-keeper's guide",
+            "edition_count": 1,
+            "edition_key": [
+                "OL45275368M"
+            ],
+            "publish_date": [
+                "1770"
+            ],
+            "publish_year": [
+                1770
+            ],
+            "first_publish_year": 1770,
+            "number_of_pages_median": 271,
+            "publish_place": [
+                "London",
+                "York"
+            ],
+            "oclc": [
+                "20655496",
+                "727478947"
+            ],
+            "contributor": [
+                "Sontheimer Foundation"
+            ],
+            "last_modified_i": 1672686768,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "G. Riley, and A. Cooke, ...J. Bell...J. Wheble",
+                "C. Etherington"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL12090840A"
+            ],
+            "author_name": [
+                "Borella Mr"
+            ],
+            "subject": [
+                "Confectionery",
+                "Early works to 1800",
+                "Ice cream, ices",
+                "Wine and wine making"
+            ],
+            "publisher_facet": [
+                "C. Etherington",
+                "G. Riley, and A. Cooke, ...J. Bell...J. Wheble"
+            ],
+            "subject_facet": [
+                "Confectionery",
+                "Early works to 1800",
+                "Ice cream, ices",
+                "Wine and wine making"
+            ],
+            "_version_": 1767930538929160193,
+            "author_facet": [
+                "OL12090840A Borella Mr"
+            ],
+            "subject_key": [
+                "confectionery",
+                "early_works_to_1800",
+                "ice_cream_ices",
+                "wine_and_wine_making"
+            ]
+        },
+        {
+            "key": "/works/OL20334987W",
+            "type": "work",
+            "seed": [
+                "/books/OL27542943M",
+                "/works/OL20334987W",
+                "/subjects/k-2",
+                "/subjects/5-7",
+                "/subjects/children",
+                "/subjects/children's",
+                "/subjects/juvenile",
+                "/subjects/fiction",
+                "/subjects/stories",
+                "/subjects/tales",
+                "/subjects/amusement",
+                "/subjects/park",
+                "/subjects/bumper",
+                "/subjects/cars",
+                "/subjects/high-sky-swings",
+                "/subjects/carousel",
+                "/subjects/ferris_wheel",
+                "/subjects/pizza",
+                "/subjects/candy_floss",
+                "/subjects/caramel_apples",
+                "/subjects/toy",
+                "/subjects/giraffe",
+                "/subjects/teddy_bear",
+                "/subjects/elephant",
+                "/authors/OL7708260A"
+            ],
+            "title": "Felix at the amusement park #08-3012518",
+            "title_suggest": "Felix at the amusement park #08-3012518",
+            "title_sort": "Felix at the amusement park #08-3012518",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27542943M"
+            ],
+            "publish_date": [
+                "Unknown"
+            ],
+            "number_of_pages_median": 8,
+            "publish_place": [
+                "Unknown"
+            ],
+            "last_modified_i": 1571904180,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL27542943M",
+            "cover_i": 8998545,
+            "publisher": [
+                "ROFACT International, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7708260A"
+            ],
+            "author_name": [
+                "KIDZ Collection"
+            ],
+            "subject": [
+                "K-2",
+                "5-7",
+                "Children",
+                "Children's",
+                "Juvenile",
+                "fiction",
+                "stories",
+                "tales",
+                "amusement",
+                "park",
+                "bumper",
+                "cars",
+                "high-sky-swings",
+                "carousel",
+                "ferris wheel",
+                "pizza",
+                "candy floss",
+                "caramel apples",
+                "toy",
+                "giraffe",
+                "teddy bear",
+                "elephant"
+            ],
+            "publisher_facet": [
+                "ROFACT International, Inc."
+            ],
+            "subject_facet": [
+                "5-7",
+                "Children",
+                "Children's",
+                "Juvenile",
+                "K-2",
+                "amusement",
+                "bumper",
+                "candy floss",
+                "caramel apples",
+                "carousel",
+                "cars",
+                "elephant",
+                "ferris wheel",
+                "fiction",
+                "giraffe",
+                "high-sky-swings",
+                "park",
+                "pizza",
+                "stories",
+                "tales",
+                "teddy bear",
+                "toy"
+            ],
+            "_version_": 1767908452029431808,
+            "author_facet": [
+                "OL7708260A KIDZ Collection"
+            ],
+            "subject_key": [
+                "5-7",
+                "amusement",
+                "bumper",
+                "candy_floss",
+                "caramel_apples",
+                "carousel",
+                "cars",
+                "children",
+                "children's",
+                "elephant",
+                "ferris_wheel",
+                "fiction",
+                "giraffe",
+                "high-sky-swings",
+                "juvenile",
+                "k-2",
+                "park",
+                "pizza",
+                "stories",
+                "tales",
+                "teddy_bear",
+                "toy"
+            ]
+        },
+        {
+            "key": "/works/OL20277941W",
+            "type": "work",
+            "seed": [
+                "/books/OL27477654M",
+                "/works/OL20277941W",
+                "/subjects/candies",
+                "/subjects/taffy_kisses",
+                "/subjects/popcorn_balls",
+                "/subjects/peanut_butter",
+                "/subjects/mounds",
+                "/subjects/tarts",
+                "/subjects/rice_krispie",
+                "/subjects/pops",
+                "/subjects/treats",
+                "/subjects/indian_corn",
+                "/subjects/caramel_apples",
+                "/subjects/divinity",
+                "/subjects/nougat",
+                "/subjects/choclolate",
+                "/subjects/balls",
+                "/subjects/fudge",
+                "/subjects/fondant",
+                "/subjects/squares",
+                "/subjects/etc_.....",
+                "/subjects/time:1964-1975",
+                "/authors/OL1668262A"
+            ],
+            "title": "250 Candy Recipes 1975 Kitchen Companion",
+            "title_suggest": "250 Candy Recipes 1975 Kitchen Companion",
+            "title_sort": "250 Candy Recipes 1975 Kitchen Companion",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27477654M"
+            ],
+            "publish_date": [
+                "1975"
+            ],
+            "publish_year": [
+                1975
+            ],
+            "first_publish_year": 1975,
+            "number_of_pages_median": 48,
+            "publish_place": [
+                "New York, USA",
+                "Toronto, Canada"
+            ],
+            "oclc": [
+                "1571271414"
+            ],
+            "last_modified_i": 1571271721,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL27477654M",
+            "cover_i": 8935864,
+            "publisher": [
+                "Delair Publishing Company Inc., Simultaneously in Canada by George J. McLeod Ltd.,"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1668262A"
+            ],
+            "author_name": [
+                "Culinary Arts Institute."
+            ],
+            "author_alternative_name": [
+                "Culinary Arts Institute"
+            ],
+            "subject": [
+                "Candies",
+                "Taffy Kisses",
+                "Popcorn Balls",
+                "Peanut Butter",
+                "Mounds",
+                "Tarts",
+                "Rice Krispie",
+                "Pops",
+                "Treats",
+                "Indian Corn",
+                "Caramel Apples",
+                "Divinity",
+                "Nougat",
+                "Choclolate",
+                "Balls",
+                "Fudge",
+                "Fondant",
+                "Squares",
+                "etc ....."
+            ],
+            "time": [
+                "1964-1975"
+            ],
+            "id_amazon": [
+                "1571271414"
+            ],
+            "publisher_facet": [
+                "Delair Publishing Company Inc., Simultaneously in Canada by George J. McLeod Ltd.,"
+            ],
+            "time_facet": [
+                "1964-1975"
+            ],
+            "subject_facet": [
+                "Balls",
+                "Candies",
+                "Caramel Apples",
+                "Choclolate",
+                "Divinity",
+                "Fondant",
+                "Fudge",
+                "Indian Corn",
+                "Mounds",
+                "Nougat",
+                "Peanut Butter",
+                "Popcorn Balls",
+                "Pops",
+                "Rice Krispie",
+                "Squares",
+                "Taffy Kisses",
+                "Tarts",
+                "Treats",
+                "etc ....."
+            ],
+            "_version_": 1767908321352744961,
+            "author_facet": [
+                "OL1668262A Culinary Arts Institute."
+            ],
+            "subject_key": [
+                "balls",
+                "candies",
+                "caramel_apples",
+                "choclolate",
+                "divinity",
+                "etc_.....",
+                "fondant",
+                "fudge",
+                "indian_corn",
+                "mounds",
+                "nougat",
+                "peanut_butter",
+                "popcorn_balls",
+                "pops",
+                "rice_krispie",
+                "squares",
+                "taffy_kisses",
+                "tarts",
+                "treats"
+            ],
+            "time_key": [
+                "1964-1975"
+            ]
+        }
+    ],
+    "num_found": 14,
+    "q": "caramel apples",
+    "offset": null
+}

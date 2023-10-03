@@ -1,0 +1,2725 @@
+{
+    "numFound": 23,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL26943593W",
+            "type": "work",
+            "seed": [
+                "/books/OL36528298M",
+                "/books/OL36575972M",
+                "/works/OL26943593W",
+                "/subjects/children's_fiction",
+                "/authors/OL9615205A"
+            ],
+            "title": "Corn Maze",
+            "title_suggest": "Corn Maze",
+            "title_sort": "Corn Maze",
+            "edition_count": 2,
+            "edition_key": [
+                "OL36528298M",
+                "OL36575972M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9781684770717",
+                "9781684770366",
+                "1684770718",
+                "168477036X"
+            ],
+            "last_modified_i": 1641018917,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Just Right Reader, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9615205A"
+            ],
+            "author_name": [
+                "Just Right Reader"
+            ],
+            "subject": [
+                "Children's fiction"
+            ],
+            "publisher_facet": [
+                "Just Right Reader, Inc."
+            ],
+            "subject_facet": [
+                "Children's fiction"
+            ],
+            "_version_": 1767920161794293760,
+            "author_facet": [
+                "OL9615205A Just Right Reader"
+            ],
+            "subject_key": [
+                "children's_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL34062627W",
+            "type": "work",
+            "seed": [
+                "/books/OL46127093M",
+                "/works/OL34062627W",
+                "/subjects/crime",
+                "/subjects/fiction_science_fiction_general",
+                "/authors/OL9643581A"
+            ],
+            "title": "Corn Maze",
+            "title_suggest": "Corn Maze",
+            "title_sort": "Corn Maze",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46127093M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "1737584751",
+                "9781737584759"
+            ],
+            "last_modified_i": 1673950360,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Olesia Parker"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9643581A"
+            ],
+            "author_name": [
+                "Olesia Parker"
+            ],
+            "subject": [
+                "Crime",
+                "Fiction, science fiction, general"
+            ],
+            "publisher_facet": [
+                "Olesia Parker"
+            ],
+            "subject_facet": [
+                "Crime",
+                "Fiction, science fiction, general"
+            ],
+            "_version_": 1767931502776025088,
+            "author_facet": [
+                "OL9643581A Olesia Parker"
+            ],
+            "subject_key": [
+                "crime",
+                "fiction_science_fiction_general"
+            ]
+        },
+        {
+            "key": "/works/OL15129W",
+            "type": "work",
+            "seed": [
+                "/books/OL10943961M",
+                "/books/OL24745554M",
+                "/books/OL7946733M",
+                "/books/OL7946734M",
+                "/books/OL9884044M",
+                "/books/OL35893899M",
+                "/books/OL35766857M",
+                "/books/OL35768572M",
+                "/books/OL35803614M",
+                "/books/OL35768555M",
+                "/books/OL35792335M",
+                "/books/OL35800193M",
+                "/books/OL27478935M",
+                "/works/OL15129W",
+                "/subjects/farms",
+                "/subjects/brothers_and_sisters",
+                "/subjects/juvenile_fiction",
+                "/subjects/mystery_and_detective_stories",
+                "/subjects/orphans",
+                "/subjects/fiction",
+                "/subjects/maze_gardens",
+                "/subjects/vandalism",
+                "/subjects/children's_fiction",
+                "/subjects/iowa_fiction",
+                "/subjects/series:boxcarchildren",
+                "/subjects/collectionid:boxcar4",
+                "/subjects/place:iowa",
+                "/authors/OL23048A",
+                "/authors/OL2631921A"
+            ],
+            "title": "The Clue in the Corn Maze",
+            "title_suggest": "The Clue in the Corn Maze",
+            "title_sort": "The Clue in the Corn Maze",
+            "edition_count": 13,
+            "edition_key": [
+                "OL10943961M",
+                "OL24745554M",
+                "OL7946733M",
+                "OL7946734M",
+                "OL9884044M",
+                "OL35893899M",
+                "OL35766857M",
+                "OL35768572M",
+                "OL35803614M",
+                "OL35768555M",
+                "OL35792335M",
+                "OL35800193M",
+                "OL27478935M"
+            ],
+            "publish_date": [
+                "Oct 22, 2013",
+                "2007",
+                "2011",
+                "December 8, 2004",
+                "2004",
+                "October 2004",
+                "October 31, 2004"
+            ],
+            "publish_year": [
+                2004,
+                2011,
+                2007,
+                2013
+            ],
+            "first_publish_year": 2004,
+            "number_of_pages_median": 126,
+            "lccn": [
+                "2005277162"
+            ],
+            "publish_place": [
+                "Morton Grove, IL"
+            ],
+            "oclc": [
+                "56585138",
+                "149263026"
+            ],
+            "contributor": [
+                "Robert Papp (Illustrator)"
+            ],
+            "lcc": [
+                "PZ-0007.00000000.W244Cl 2004",
+                "PZ-0007.00000000.W244 Cl 2004"
+            ],
+            "ddc": [
+                "[Fic]"
+            ],
+            "isbn": [
+                "1453235647",
+                "1453235639",
+                "9781613754245",
+                "9781417690282",
+                "9780807555569",
+                "9781453228913",
+                "9781306596138",
+                "0807555568",
+                "060632853X",
+                "9781299968226",
+                "1299968228",
+                "0756975824",
+                "9781453235645",
+                "9780756975821",
+                "1306596130",
+                "9781453235638",
+                "9780606328531",
+                "1453240810",
+                "9781453240816",
+                "1613754248",
+                "1453228918",
+                "9780807555576",
+                "1417690283",
+                "0807555576"
+            ],
+            "last_modified_i": 1679669841,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "clueincornmaze00warn"
+            ],
+            "ia_collection": [
+                "americana",
+                "china",
+                "cnusd-ol",
+                "delawarecountydistrictlibrary",
+                "delawarecountydistrictlibrary-ol",
+                "denverpubliclibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "library_of_atlantis",
+                "openlibrary-d-ol",
+                "printdisabled"
+            ],
+            "ia_collection_s": "americana;china;cnusd-ol;delawarecountydistrictlibrary;delawarecountydistrictlibrary-ol;denverpubliclibrary-ol;inlibrary;internetarchivebooks;library_of_atlantis;openlibrary-d-ol;printdisabled",
+            "lending_edition_s": "OL7946733M",
+            "lending_identifier_s": "clueincornmaze00warn",
+            "printdisabled_s": "OL7946733M",
+            "ratings_count_1": 1,
+            "ratings_count_2": 0,
+            "ratings_count_3": 0,
+            "ratings_count_4": 0,
+            "ratings_count_5": 0,
+            "ratings_average": 1.0,
+            "ratings_sortable": 1.736997,
+            "ratings_count": 1,
+            "readinglog_count": 6,
+            "want_to_read_count": 4,
+            "currently_reading_count": 0,
+            "already_read_count": 2,
+            "cover_edition_key": "OL7946734M",
+            "cover_i": 1527407,
+            "first_sentence": [
+                "\"Isn't it amazing?\" ten-year-old Violet Alden said as she gazed out the back seat window of the Aldens' rented van."
+            ],
+            "publisher": [
+                "A. Whitman & Co.",
+                "Albert Whitman & Company",
+                "Tandem Library",
+                "Whitman & Company, Albert",
+                "Oasis Audio",
+                "Turtleback Books Distributed by Demco Media"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL23048A",
+                "OL2631921A"
+            ],
+            "author_name": [
+                "Gertrude Chandler Warner",
+                "Robert Papp"
+            ],
+            "author_alternative_name": [
+                "gertrude chandler warner",
+                "GERTRUDE CHANDLER WARNER",
+                "Gertrude Warner",
+                "Gertrude C. Warner",
+                "Gertrude Handler Warner",
+                "Gertrude Chandler 1890-1979 Warner",
+                "Gertrud Chandler Warner",
+                "The Boxcar The Boxcar Children"
+            ],
+            "place": [
+                "Iowa"
+            ],
+            "subject": [
+                "Farms",
+                "Brothers and sisters",
+                "Juvenile fiction",
+                "Mystery and detective stories",
+                "Orphans",
+                "Fiction",
+                "Maze gardens",
+                "Vandalism",
+                "Children's fiction",
+                "Iowa, fiction",
+                "series:BoxcarChildren",
+                "collectionID:Boxcar4"
+            ],
+            "id_amazon": [
+                "1613754248"
+            ],
+            "id_goodreads": [
+                "363310",
+                "6393753"
+            ],
+            "id_librarything": [
+                "5549541"
+            ],
+            "ia_box_id": [
+                "IA132617"
+            ],
+            "publisher_facet": [
+                "A. Whitman & Co.",
+                "Albert Whitman & Company",
+                "Oasis Audio",
+                "Tandem Library",
+                "Turtleback Books Distributed by Demco Media",
+                "Whitman & Company, Albert"
+            ],
+            "place_key": [
+                "iowa"
+            ],
+            "subject_facet": [
+                "Brothers and sisters",
+                "Children's fiction",
+                "Farms",
+                "Fiction",
+                "Iowa, fiction",
+                "Juvenile fiction",
+                "Maze gardens",
+                "Mystery and detective stories",
+                "Orphans",
+                "Vandalism",
+                "collectionID:Boxcar4",
+                "series:BoxcarChildren"
+            ],
+            "_version_": 1767898129704681473,
+            "place_facet": [
+                "Iowa"
+            ],
+            "lcc_sort": "PZ-0007.00000000.W244 Cl 2004",
+            "author_facet": [
+                "OL23048A Gertrude Chandler Warner",
+                "OL2631921A Robert Papp"
+            ],
+            "subject_key": [
+                "brothers_and_sisters",
+                "children's_fiction",
+                "collectionidboxcar4",
+                "farms",
+                "fiction",
+                "iowa_fiction",
+                "juvenile_fiction",
+                "maze_gardens",
+                "mystery_and_detective_stories",
+                "orphans",
+                "seriesboxcarchildren",
+                "vandalism"
+            ],
+            "ddc_sort": "[Fic]"
+        },
+        {
+            "key": "/works/OL35920306W",
+            "type": "work",
+            "seed": [
+                "/books/OL48486862M",
+                "/works/OL35920306W",
+                "/authors/OL10095532A"
+            ],
+            "title": "Peyton's Corn Maze Prayer",
+            "title_suggest": "Peyton's Corn Maze Prayer",
+            "title_sort": "Peyton's Corn Maze Prayer",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48486862M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798746595546"
+            ],
+            "last_modified_i": 1687049774,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10095532A"
+            ],
+            "author_name": [
+                "Amy DeWitt"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1769216267179261953,
+            "author_facet": [
+                "OL10095532A Amy DeWitt"
+            ]
+        },
+        {
+            "key": "/works/OL20141433W",
+            "type": "work",
+            "seed": [
+                "/books/OL27321259M",
+                "/books/OL29850807M",
+                "/works/OL20141433W",
+                "/subjects/american_literature",
+                "/authors/OL35473A"
+            ],
+            "title": "Murder in the Corn Maze",
+            "title_suggest": "Murder in the Corn Maze",
+            "title_sort": "Murder in the Corn Maze",
+            "edition_count": 2,
+            "edition_key": [
+                "OL27321259M",
+                "OL29850807M"
+            ],
+            "publish_date": [
+                "2019",
+                "2020"
+            ],
+            "publish_year": [
+                2019,
+                2020
+            ],
+            "first_publish_year": 2019,
+            "number_of_pages_median": 292,
+            "lcc": [
+                "PS-3563.00000000.C3758"
+            ],
+            "isbn": [
+                "9781496716309",
+                "1496716302",
+                "1496716299",
+                "9781496716293"
+            ],
+            "last_modified_i": 1673721750,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL27321259M",
+            "cover_i": 8789315,
+            "publisher": [
+                "Kensington Publishing Corporation",
+                "Kensington Publishing Corp."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL35473A"
+            ],
+            "author_name": [
+                "G. A. McKevett"
+            ],
+            "subject": [
+                "American literature"
+            ],
+            "publisher_facet": [
+                "Kensington Publishing Corp.",
+                "Kensington Publishing Corporation"
+            ],
+            "subject_facet": [
+                "American literature"
+            ],
+            "_version_": 1767907970059862016,
+            "lcc_sort": "PS-3563.00000000.C3758",
+            "author_facet": [
+                "OL35473A G. A. McKevett"
+            ],
+            "subject_key": [
+                "american_literature"
+            ]
+        },
+        {
+            "key": "/works/OL25365399W",
+            "type": "work",
+            "seed": [
+                "/books/OL34005122M",
+                "/books/OL33988548M",
+                "/works/OL25365399W",
+                "/subjects/children's_fiction",
+                "/subjects/adventure_and_adventurers_fiction",
+                "/subjects/readers",
+                "/authors/OL6605215A",
+                "/authors/OL8036878A"
+            ],
+            "title": "Lost in the Corn Maze",
+            "title_sort": "Lost in the Corn Maze",
+            "title_suggest": "Lost in the Corn Maze",
+            "edition_count": 2,
+            "edition_key": [
+                "OL34005122M",
+                "OL33988548M"
+            ],
+            "publish_date": [
+                "2013"
+            ],
+            "publish_year": [
+                2013
+            ],
+            "first_publish_year": 2013,
+            "number_of_pages_median": 24,
+            "isbn": [
+                "1621692159",
+                "9781621693970",
+                "9781621692157",
+                "162169397X"
+            ],
+            "last_modified_i": 1696039182,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "lostincornmaze0000prec"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL33988548M",
+            "lending_identifier_s": "lostincornmaze0000prec",
+            "printdisabled_s": "OL33988548M",
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Rourke Educational Media"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6605215A",
+                "OL8036878A"
+            ],
+            "author_name": [
+                "Precious McKenzie",
+                "Marie Allen"
+            ],
+            "subject": [
+                "Children's fiction",
+                "Adventure and adventurers, fiction",
+                "Readers"
+            ],
+            "ia_box_id": [
+                "IA40874810"
+            ],
+            "publisher_facet": [
+                "Rourke Educational Media"
+            ],
+            "subject_facet": [
+                "Adventure and adventurers, fiction",
+                "Children's fiction",
+                "Readers"
+            ],
+            "_version_": 1778425984173735937,
+            "author_facet": [
+                "OL6605215A Precious McKenzie",
+                "OL8036878A Marie Allen"
+            ],
+            "subject_key": [
+                "adventure_and_adventurers_fiction",
+                "children's_fiction",
+                "readers"
+            ]
+        },
+        {
+            "key": "/works/OL23273554W",
+            "type": "work",
+            "seed": [
+                "/books/OL31116518M",
+                "/works/OL23273554W",
+                "/subjects/readers_(primary)",
+                "/subjects/reading",
+                "/subjects/phonetic_method",
+                "/subjects/children's_fiction",
+                "/subjects/adventure_and_adventurers_fiction",
+                "/subjects/readers",
+                "/authors/OL6791052A"
+            ],
+            "title": "Lost in the corn maze",
+            "title_suggest": "Lost in the corn maze",
+            "title_sort": "Lost in the corn maze",
+            "edition_count": 1,
+            "edition_key": [
+                "OL31116518M"
+            ],
+            "publish_date": [
+                "2013"
+            ],
+            "publish_year": [
+                2013
+            ],
+            "first_publish_year": 2013,
+            "number_of_pages_median": 24,
+            "lccn": [
+                "2012952753"
+            ],
+            "publish_place": [
+                "Vero Beach, FL"
+            ],
+            "oclc": [
+                "837575428"
+            ],
+            "contributor": [
+                "Allen, Marie, ill"
+            ],
+            "lcc": [
+                "PZ-0007.00000000.M1986323Lo 2013",
+                "PZ-0007.00000000.M1986323 Lo 2013"
+            ],
+            "ddc": [
+                "[E]"
+            ],
+            "isbn": [
+                "9781621692577",
+                "1621692574"
+            ],
+            "last_modified_i": 1670470297,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "lostincornmaze0000mcke"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL31116518M",
+            "lending_identifier_s": "lostincornmaze0000mcke",
+            "printdisabled_s": "OL31116518M",
+            "cover_edition_key": "OL31116518M",
+            "cover_i": 12510296,
+            "publisher": [
+                "Rourke Educational Media"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6791052A"
+            ],
+            "author_name": [
+                "Precious McKenzie"
+            ],
+            "author_alternative_name": [
+                "McKenzie, Precious 1975-",
+                "Precious McKenzie 197"
+            ],
+            "subject": [
+                "Readers (Primary)",
+                "Reading",
+                "Phonetic method",
+                "Children's fiction",
+                "Adventure and adventurers, fiction",
+                "Readers"
+            ],
+            "ia_box_id": [
+                "IA40315724"
+            ],
+            "publisher_facet": [
+                "Rourke Educational Media"
+            ],
+            "subject_facet": [
+                "Adventure and adventurers, fiction",
+                "Children's fiction",
+                "Phonetic method",
+                "Readers",
+                "Readers (Primary)",
+                "Reading"
+            ],
+            "_version_": 1767913670790086659,
+            "lcc_sort": "PZ-0007.00000000.M1986323 Lo 2013",
+            "author_facet": [
+                "OL6791052A Precious McKenzie"
+            ],
+            "subject_key": [
+                "adventure_and_adventurers_fiction",
+                "children's_fiction",
+                "phonetic_method",
+                "readers",
+                "readers_(primary)",
+                "reading"
+            ],
+            "ddc_sort": "[E]"
+        },
+        {
+            "key": "/works/OL33928303W",
+            "type": "work",
+            "seed": [
+                "/books/OL45916037M",
+                "/works/OL33928303W",
+                "/authors/OL12279142A"
+            ],
+            "title": "The Corn Maze (Volume 1)",
+            "title_suggest": "The Corn Maze (Volume 1)",
+            "title_sort": "The Corn Maze (Volume 1)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL45916037M"
+            ],
+            "publish_date": [
+                "2014-03-04"
+            ],
+            "publish_year": [
+                2014
+            ],
+            "first_publish_year": 2014,
+            "isbn": [
+                "1496150066",
+                "9781496150066"
+            ],
+            "last_modified_i": 1673766787,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL12279142A"
+            ],
+            "author_name": [
+                "Mrs. Kaye Giuliani"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "_version_": 1767931366225215489,
+            "author_facet": [
+                "OL12279142A Mrs. Kaye Giuliani"
+            ]
+        },
+        {
+            "key": "/works/OL25399903W",
+            "type": "work",
+            "seed": [
+                "/books/OL34047406M",
+                "/works/OL25399903W",
+                "/authors/OL8328639A"
+            ],
+            "title": "Lost in the Corn Maze /C/",
+            "title_suggest": "Lost in the Corn Maze /C/",
+            "title_sort": "Lost in the Corn Maze /C/",
+            "edition_count": 1,
+            "edition_key": [
+                "OL34047406M"
+            ],
+            "publish_date": [
+                "2013"
+            ],
+            "publish_year": [
+                2013
+            ],
+            "first_publish_year": 2013,
+            "number_of_pages_median": 24,
+            "isbn": [
+                "1634300181",
+                "9781634300186"
+            ],
+            "last_modified_i": 1632950755,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Rourke Educational Media"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8328639A"
+            ],
+            "author_name": [
+                "Precious Mckenzie"
+            ],
+            "publisher_facet": [
+                "Rourke Educational Media"
+            ],
+            "_version_": 1767917325785235457,
+            "author_facet": [
+                "OL8328639A Precious Mckenzie"
+            ]
+        },
+        {
+            "key": "/works/OL24825343W",
+            "type": "work",
+            "seed": [
+                "/books/OL32991473M",
+                "/works/OL24825343W",
+                "/authors/OL9169086A"
+            ],
+            "title": "The Princess, The Cow, and The Corn Maze",
+            "title_suggest": "The Princess, The Cow, and The Corn Maze",
+            "title_sort": "The Princess, The Cow, and The Corn Maze",
+            "edition_count": 1,
+            "edition_key": [
+                "OL32991473M"
+            ],
+            "publish_date": [
+                "Jul 09, 2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "number_of_pages_median": 60,
+            "isbn": [
+                "9780996442138",
+                "0996442138"
+            ],
+            "last_modified_i": 1628956852,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL32991473M",
+            "cover_i": 11627665,
+            "publisher": [
+                "Hocks Out Press"
+            ],
+            "author_key": [
+                "OL9169086A"
+            ],
+            "author_name": [
+                "Amber L. Spradlin"
+            ],
+            "publisher_facet": [
+                "Hocks Out Press"
+            ],
+            "_version_": 1767916335248965632,
+            "author_facet": [
+                "OL9169086A Amber L. Spradlin"
+            ]
+        },
+        {
+            "key": "/works/OL33852109W",
+            "type": "work",
+            "seed": [
+                "/books/OL45832749M",
+                "/works/OL33852109W",
+                "/authors/OL12252992A"
+            ],
+            "title": "The Corn Maze Murders (River Corners Mysteries) (Volume 3)",
+            "title_suggest": "The Corn Maze Murders (River Corners Mysteries) (Volume 3)",
+            "title_sort": "The Corn Maze Murders (River Corners Mysteries) (Volume 3)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL45832749M"
+            ],
+            "publish_date": [
+                "2015-09-26"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "isbn": [
+                "9781517290092",
+                "1517290090"
+            ],
+            "last_modified_i": 1673737073,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL12252992A"
+            ],
+            "author_name": [
+                "Sara Penhallow"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "_version_": 1767931139518889985,
+            "author_facet": [
+                "OL12252992A Sara Penhallow"
+            ]
+        },
+        {
+            "key": "/works/OL30288106W",
+            "type": "work",
+            "seed": [
+                "/books/OL41676619M",
+                "/books/OL41740465M",
+                "/books/OL41817637M",
+                "/books/OL41650696M",
+                "/books/OL41674492M",
+                "/books/OL41715844M",
+                "/books/OL41741272M",
+                "/books/OL41741267M",
+                "/books/OL41701043M",
+                "/books/OL41715842M",
+                "/books/OL41765953M",
+                "/books/OL41741359M",
+                "/books/OL41829279M",
+                "/books/OL41646425M",
+                "/books/OL41715843M",
+                "/books/OL41715740M",
+                "/books/OL41726661M",
+                "/books/OL41741016M",
+                "/books/OL41715435M",
+                "/books/OL41637977M",
+                "/books/OL41828058M",
+                "/books/OL41752212M",
+                "/books/OL41649783M",
+                "/books/OL41740437M",
+                "/books/OL41767149M",
+                "/books/OL41649816M",
+                "/books/OL41749337M",
+                "/books/OL41638504M",
+                "/books/OL41690245M",
+                "/books/OL41715483M",
+                "/books/OL41767243M",
+                "/books/OL41664493M",
+                "/books/OL41637647M",
+                "/books/OL41715478M",
+                "/books/OL41803758M",
+                "/books/OL41689397M",
+                "/books/OL41700998M",
+                "/books/OL41792894M",
+                "/books/OL41817348M",
+                "/books/OL41765954M",
+                "/books/OL41714867M",
+                "/books/OL41748893M",
+                "/books/OL41740082M",
+                "/books/OL41792038M",
+                "/books/OL41818186M",
+                "/books/OL41664456M",
+                "/books/OL41825661M",
+                "/books/OL41792802M",
+                "/books/OL41648514M",
+                "/books/OL41740462M",
+                "/books/OL41663560M",
+                "/books/OL41829031M",
+                "/books/OL41726416M",
+                "/books/OL41792583M",
+                "/books/OL41689417M",
+                "/books/OL41750968M",
+                "/books/OL41748529M",
+                "/books/OL41740464M",
+                "/books/OL41727582M",
+                "/books/OL41766251M",
+                "/books/OL41800029M",
+                "/books/OL41766843M",
+                "/books/OL41651130M",
+                "/books/OL41726663M",
+                "/books/OL41777938M",
+                "/books/OL41689942M",
+                "/books/OL41817324M",
+                "/books/OL41638859M",
+                "/books/OL41741266M",
+                "/books/OL41752223M",
+                "/books/OL41792042M",
+                "/books/OL41714512M",
+                "/books/OL41740453M",
+                "/books/OL41726653M",
+                "/books/OL41774857M",
+                "/books/OL41714844M",
+                "/books/OL41753074M",
+                "/books/OL41726652M",
+                "/books/OL41791740M",
+                "/books/OL41829303M",
+                "/books/OL41674494M",
+                "/books/OL41676616M",
+                "/books/OL41722930M",
+                "/books/OL41663561M",
+                "/books/OL41741014M",
+                "/books/OL41649785M",
+                "/books/OL41765916M",
+                "/books/OL41727581M",
+                "/books/OL41766250M",
+                "/books/OL41777940M",
+                "/books/OL41637983M",
+                "/books/OL41818170M",
+                "/books/OL41803759M",
+                "/books/OL41818489M",
+                "/books/OL41740439M",
+                "/books/OL41699794M",
+                "/books/OL41765947M",
+                "/books/OL41701046M",
+                "/books/OL41689106M",
+                "/books/OL41803522M",
+                "/books/OL41714538M",
+                "/books/OL41829298M",
+                "/books/OL41792805M",
+                "/books/OL41766871M",
+                "/books/OL41791731M",
+                "/books/OL41637674M",
+                "/books/OL41829332M",
+                "/books/OL41826007M",
+                "/books/OL41741269M",
+                "/books/OL41675455M",
+                "/books/OL41817645M",
+                "/books/OL41689972M",
+                "/books/OL41690240M",
+                "/books/OL41675460M",
+                "/books/OL41825655M",
+                "/books/OL41803806M",
+                "/books/OL41689105M",
+                "/books/OL41774856M",
+                "/books/OL41791711M",
+                "/books/OL41741015M",
+                "/books/OL41792542M",
+                "/books/OL41638503M",
+                "/books/OL41791714M",
+                "/books/OL41675674M",
+                "/books/OL41740459M",
+                "/books/OL41804680M",
+                "/books/OL41818184M",
+                "/books/OL41766851M",
+                "/books/OL41779144M",
+                "/books/OL41817641M",
+                "/books/OL41748896M",
+                "/books/OL41740113M",
+                "/books/OL41663923M",
+                "/books/OL41649795M",
+                "/books/OL41664732M",
+                "/works/OL30288106W",
+                "/authors/OL8367002A"
+            ],
+            "title": "101 Mazes for Kids 2",
+            "title_suggest": "101 Mazes for Kids 2",
+            "title_sort": "101 Mazes for Kids 2",
+            "edition_count": 135,
+            "edition_key": [
+                "OL41676619M",
+                "OL41740465M",
+                "OL41817637M",
+                "OL41650696M",
+                "OL41674492M",
+                "OL41715844M",
+                "OL41741272M",
+                "OL41741267M",
+                "OL41701043M",
+                "OL41715842M",
+                "OL41765953M",
+                "OL41741359M",
+                "OL41829279M",
+                "OL41646425M",
+                "OL41715843M",
+                "OL41715740M",
+                "OL41726661M",
+                "OL41741016M",
+                "OL41715435M",
+                "OL41637977M",
+                "OL41828058M",
+                "OL41752212M",
+                "OL41649783M",
+                "OL41740437M",
+                "OL41767149M",
+                "OL41649816M",
+                "OL41749337M",
+                "OL41638504M",
+                "OL41690245M",
+                "OL41715483M",
+                "OL41767243M",
+                "OL41664493M",
+                "OL41637647M",
+                "OL41715478M",
+                "OL41803758M",
+                "OL41689397M",
+                "OL41700998M",
+                "OL41792894M",
+                "OL41817348M",
+                "OL41765954M",
+                "OL41714867M",
+                "OL41748893M",
+                "OL41740082M",
+                "OL41792038M",
+                "OL41818186M",
+                "OL41664456M",
+                "OL41825661M",
+                "OL41792802M",
+                "OL41648514M",
+                "OL41740462M",
+                "OL41663560M",
+                "OL41829031M",
+                "OL41726416M",
+                "OL41792583M",
+                "OL41689417M",
+                "OL41750968M",
+                "OL41748529M",
+                "OL41740464M",
+                "OL41727582M",
+                "OL41766251M",
+                "OL41800029M",
+                "OL41766843M",
+                "OL41651130M",
+                "OL41726663M",
+                "OL41777938M",
+                "OL41689942M",
+                "OL41817324M",
+                "OL41638859M",
+                "OL41741266M",
+                "OL41752223M",
+                "OL41792042M",
+                "OL41714512M",
+                "OL41740453M",
+                "OL41726653M",
+                "OL41774857M",
+                "OL41714844M",
+                "OL41753074M",
+                "OL41726652M",
+                "OL41791740M",
+                "OL41829303M",
+                "OL41674494M",
+                "OL41676616M",
+                "OL41722930M",
+                "OL41663561M",
+                "OL41741014M",
+                "OL41649785M",
+                "OL41765916M",
+                "OL41727581M",
+                "OL41766250M",
+                "OL41777940M",
+                "OL41637983M",
+                "OL41818170M",
+                "OL41803759M",
+                "OL41818489M",
+                "OL41740439M",
+                "OL41699794M",
+                "OL41765947M",
+                "OL41701046M",
+                "OL41689106M",
+                "OL41803522M",
+                "OL41714538M",
+                "OL41829298M",
+                "OL41792805M",
+                "OL41766871M",
+                "OL41791731M",
+                "OL41637674M",
+                "OL41829332M",
+                "OL41826007M",
+                "OL41741269M",
+                "OL41675455M",
+                "OL41817645M",
+                "OL41689972M",
+                "OL41690240M",
+                "OL41675460M",
+                "OL41825655M",
+                "OL41803806M",
+                "OL41689105M",
+                "OL41774856M",
+                "OL41791711M",
+                "OL41741015M",
+                "OL41792542M",
+                "OL41638503M",
+                "OL41791714M",
+                "OL41675674M",
+                "OL41740459M",
+                "OL41804680M",
+                "OL41818184M",
+                "OL41766851M",
+                "OL41779144M",
+                "OL41817641M",
+                "OL41748896M",
+                "OL41740113M",
+                "OL41663923M",
+                "OL41649795M",
+                "OL41664732M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "number_of_pages_median": 129,
+            "isbn": [
+                "9781672939447",
+                "1708532838",
+                "9781671750074",
+                "1707653224",
+                "9781672155793",
+                "9781702859523",
+                "1702861783",
+                "9781707647408",
+                "1672560195",
+                "9781707646685",
+                "9781672565974",
+                "1672818621",
+                "9781671754577",
+                "9781672147446",
+                "1707901686",
+                "1708532293",
+                "9781703509007",
+                "1708793097",
+                "170792323X",
+                "9781671766181",
+                "9781671771222",
+                "170658475X",
+                "1672566444",
+                "9781707890989",
+                "1703500326",
+                "1702857999",
+                "9781707922185",
+                "9781672142618",
+                "1672108772",
+                "1707654182",
+                "9781672939904",
+                "9781707922956",
+                "9781704140636",
+                "9781671749795",
+                "9781672819497",
+                "9781706584759",
+                "1671771109",
+                "1672143047",
+                "1672818745",
+                "9781671750012",
+                "9781672586603",
+                "9781707923236",
+                "9781672108775",
+                "9781707891221",
+                "1672584221",
+                "1672818389",
+                "1671766245",
+                "1672939585",
+                "9781672818919",
+                "9781702857994",
+                "9781672104678",
+                "1671766180",
+                "1672155525",
+                "1672101654",
+                "9781707891870",
+                "9781671751279",
+                "1672940109",
+                "9781706576129",
+                "1672143837",
+                "1672818915",
+                "9781707894666",
+                "9781672101882",
+                "9781672938471",
+                "1703506073",
+                "170286104X",
+                "9781672586719",
+                "1672939445",
+                "1672558611",
+                "1708533591",
+                "9781672108935",
+                "9781672560191",
+                "9781672147651",
+                "1672566819",
+                "9781672101653",
+                "9781671771192",
+                "1706575556",
+                "1672109132",
+                "1706576129",
+                "1672818834",
+                "1672586518",
+                "9781707901685",
+                "9781703500325",
+                "9781672584456",
+                "1672584310",
+                "1671767772",
+                "1702864138",
+                "9781707905614",
+                "9781672566186",
+                "9781672818384",
+                "1672137543",
+                "9781672818506",
+                "1707890773",
+                "1707902291",
+                "9781671766242",
+                "1672939321",
+                "170349914X",
+                "1707901376",
+                "9781708531058",
+                "1708534245",
+                "9781671767607",
+                "170789552X",
+                "1707921067",
+                "9781672566810",
+                "1707921768",
+                "1707891567",
+                "1707894922",
+                "1707647402",
+                "1672821436",
+                "1672821525",
+                "1707922187",
+                "9781672586511",
+                "9781671767775",
+                "1671771192",
+                "9781672155526",
+                "1672939712",
+                "1707922950",
+                "1672108578",
+                "9781672566070",
+                "1707895147",
+                "1707891877",
+                "9781703506075",
+                "9781672818742",
+                "167215541X",
+                "9781672143042",
+                "9781702861786",
+                "9781706575559",
+                "9781671771109",
+                "9781672105026",
+                "9781672821520",
+                "1706580401",
+                "9781707653225",
+                "170853105X",
+                "1671771222",
+                "1707902666",
+                "1671767608",
+                "1703509005",
+                "9781672559003",
+                "9781671771277",
+                "9781707891566",
+                "9781672584227",
+                "9781702864138",
+                "1707648417",
+                "9781707654185",
+                "1708531599",
+                "9781671755017",
+                "1672101506",
+                "170351484X",
+                "9781672558617",
+                "1672565634",
+                "9781672104388",
+                "9781708793098",
+                "1708533176",
+                "1671754638",
+                "1672939909",
+                "167214261X",
+                "9781672566254",
+                "1704140633",
+                "1706576951",
+                "1702859525",
+                "1672560454",
+                "1707890382",
+                "1672586607",
+                "9781672143837",
+                "1672565898",
+                "9781707890774",
+                "9781672156097",
+                "9781672137546",
+                "1672586712",
+                "1672155797",
+                "1708532544",
+                "170790300X",
+                "1672143330",
+                "1672147441",
+                "9781672821438",
+                "9781672109130",
+                "1672820561",
+                "9781672108577",
+                "9781671754638",
+                "9781671767638",
+                "9781707895144",
+                "1707905614",
+                "167210467X",
+                "1671750012",
+                "9781707901371",
+                "1706579136",
+                "1672560616",
+                "9781672584319",
+                "9781672560450",
+                "1672559006",
+                "1707891222",
+                "1671755014",
+                "9781672818834",
+                "1671751272",
+                "9781706580409",
+                "9781703499148",
+                "9781672820561",
+                "9781671767867",
+                "9781671771147",
+                "1672147654",
+                "1672104386",
+                "9781672821629",
+                "1707646686",
+                "1672156092",
+                "9781672565639",
+                "9781707652730",
+                "9781707895526",
+                "9781672939324",
+                "9781672101509",
+                "9781708532291",
+                "9781707894925",
+                "9781708532543",
+                "9781672939584",
+                "1707890986",
+                "9781708531591",
+                "167175090X",
+                "1671771273",
+                "9781706579137",
+                "9781672559379",
+                "167256607X",
+                "9781672143332",
+                "9781707649228",
+                "1671750071",
+                "9781671750906",
+                "9781703514841",
+                "1672566258",
+                "9781708534240",
+                "9781707648412",
+                "1672818508",
+                "9781672818629",
+                "1672108934",
+                "9781707902668",
+                "9781708533595",
+                "9781708533175",
+                "1672938473",
+                "1707652732",
+                "9781672940108",
+                "1672566185",
+                "1672101883",
+                "1671749790",
+                "9781708532833",
+                "1671767632",
+                "9781702861045",
+                "9781672566445",
+                "1707649227",
+                "9781707902293",
+                "1707894663",
+                "9781707921065",
+                "1672584450",
+                "1672105021",
+                "9781671750982",
+                "1671754573",
+                "9781672939713",
+                "9781672560610",
+                "1672821622",
+                "9781707903009",
+                "1671767861",
+                "1672565979",
+                "167281927X",
+                "9781703501872",
+                "1672819490",
+                "170350187X",
+                "1671750985",
+                "1672559375",
+                "9781672819275",
+                "9781706576952",
+                "9781707890385",
+                "9781672565899",
+                "9781707921768",
+                "1671771141",
+                "9781672155410"
+            ],
+            "last_modified_i": 1680481498,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 0,
+            "currently_reading_count": 1,
+            "already_read_count": 0,
+            "cover_edition_key": "OL41637674M",
+            "cover_i": 13806956,
+            "publisher": [
+                "Independently Published",
+                "Independently published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8367002A"
+            ],
+            "author_name": [
+                "Journals Ink"
+            ],
+            "publisher_facet": [
+                "Independently Published",
+                "Independently published"
+            ],
+            "_version_": 1767925587163217921,
+            "author_facet": [
+                "OL8367002A Journals Ink"
+            ]
+        },
+        {
+            "key": "/works/OL9759805W",
+            "type": "work",
+            "seed": [
+                "/books/OL11802237M",
+                "/works/OL9759805W",
+                "/subjects/horror_tales",
+                "/subjects/farms",
+                "/subjects/juvenile_fiction",
+                "/subjects/detective_and_mystery_stories",
+                "/authors/OL3749325A"
+            ],
+            "title": "Kornstalkers",
+            "title_suggest": "Kornstalkers",
+            "title_sort": "Kornstalkers",
+            "edition_count": 1,
+            "edition_key": [
+                "OL11802237M"
+            ],
+            "publish_date": [
+                "2005"
+            ],
+            "publish_year": [
+                2005
+            ],
+            "first_publish_year": 2005,
+            "number_of_pages_median": 119,
+            "oclc": [
+                "62277241"
+            ],
+            "isbn": [
+                "0974177431",
+                "9780974177434"
+            ],
+            "last_modified_i": 1670620189,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "kornstalkers0000walt"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL11802237M",
+            "lending_identifier_s": "kornstalkers0000walt",
+            "printdisabled_s": "OL11802237M",
+            "cover_edition_key": "OL11802237M",
+            "cover_i": 5160618,
+            "publisher": [
+                "D.W. Publishing"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3749325A"
+            ],
+            "author_name": [
+                "Dan Waltz"
+            ],
+            "subject": [
+                "Horror tales",
+                "Farms",
+                "Juvenile fiction",
+                "Detective and mystery stories"
+            ],
+            "id_goodreads": [
+                "2210712"
+            ],
+            "ia_box_id": [
+                "IA40018521"
+            ],
+            "publisher_facet": [
+                "D.W. Publishing"
+            ],
+            "subject_facet": [
+                "Detective and mystery stories",
+                "Farms",
+                "Horror tales",
+                "Juvenile fiction"
+            ],
+            "_version_": 1767944824345853954,
+            "author_facet": [
+                "OL3749325A Dan Waltz"
+            ],
+            "subject_key": [
+                "detective_and_mystery_stories",
+                "farms",
+                "horror_tales",
+                "juvenile_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL20758548W",
+            "type": "work",
+            "seed": [
+                "/books/OL28090248M",
+                "/books/OL35974466M",
+                "/books/OL35994490M",
+                "/books/OL34757312M",
+                "/works/OL20758548W",
+                "/subjects/children's_fiction",
+                "/authors/OL1934049A"
+            ],
+            "title": "What We Found in the Corn Maze and How It Saved a Dragon",
+            "title_suggest": "What We Found in the Corn Maze and How It Saved a Dragon",
+            "title_sort": "What We Found in the Corn Maze and How It Saved a Dragon",
+            "edition_count": 4,
+            "edition_key": [
+                "OL28090248M",
+                "OL35974466M",
+                "OL35994490M",
+                "OL34757312M"
+            ],
+            "publish_date": [
+                "2021",
+                "2020"
+            ],
+            "publish_year": [
+                2021,
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 352,
+            "lcc": [
+                "PZ-0007.00000000.C5458Bc 2020"
+            ],
+            "isbn": [
+                "0316492310",
+                "9780316492324",
+                "0316492345",
+                "9780316492317",
+                "0316492337",
+                "9780316492348",
+                "9780316492331",
+                "0316492329"
+            ],
+            "last_modified_i": 1677530045,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Little, Brown Books for Young Readers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1934049A"
+            ],
+            "author_name": [
+                "Henry Clark"
+            ],
+            "subject": [
+                "Children's fiction"
+            ],
+            "publisher_facet": [
+                "Little, Brown Books for Young Readers"
+            ],
+            "subject_facet": [
+                "Children's fiction"
+            ],
+            "_version_": 1767909286317391872,
+            "lcc_sort": "PZ-0007.00000000.C5458Bc 2020",
+            "author_facet": [
+                "OL1934049A Henry Clark"
+            ],
+            "subject_key": [
+                "children's_fiction"
+            ]
+        },
+        {
+            "key": "/works/OL29936184W",
+            "type": "work",
+            "seed": [
+                "/books/OL41158979M",
+                "/works/OL29936184W",
+                "/authors/OL10867993A",
+                "/authors/OL7227787A"
+            ],
+            "title": "Mr Booger Goes to a Festival Mr Booger Goes to the Corn Maze",
+            "title_suggest": "Mr Booger Goes to a Festival Mr Booger Goes to the Corn Maze",
+            "title_sort": "Mr Booger Goes to a Festival Mr Booger Goes to the Corn Maze",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41158979M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781099996160",
+                "1099996163"
+            ],
+            "last_modified_i": 1669229221,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10867993A",
+                "OL7227787A"
+            ],
+            "author_name": [
+                "Astrid Idema",
+                "Erwin Brunsveld"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925042781356032,
+            "author_facet": [
+                "OL10867993A Astrid Idema",
+                "OL7227787A Erwin Brunsveld"
+            ]
+        },
+        {
+            "key": "/works/OL29792027W",
+            "type": "work",
+            "seed": [
+                "/books/OL40972543M",
+                "/works/OL29792027W",
+                "/authors/OL5686385A"
+            ],
+            "title": "Uni Corn Activity Book for Kids Ages 5-8",
+            "title_suggest": "Uni Corn Activity Book for Kids Ages 5-8",
+            "title_sort": "Uni Corn Activity Book for Kids Ages 5-8",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40972543M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1073794393",
+                "9781073794393"
+            ],
+            "last_modified_i": 1669120023,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL5686385A"
+            ],
+            "author_name": [
+                "Jack Bell"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924849509924865,
+            "author_facet": [
+                "OL5686385A Jack Bell"
+            ]
+        },
+        {
+            "key": "/works/OL20279321W",
+            "type": "work",
+            "seed": [
+                "/books/OL27479117M",
+                "/works/OL20279321W",
+                "/authors/OL23048A"
+            ],
+            "title": "The Boxcar Children Collection Volume 34",
+            "title_suggest": "The Boxcar Children Collection Volume 34",
+            "title_sort": "The Boxcar Children Collection Volume 34",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27479117M"
+            ],
+            "publish_date": [
+                "Oct 22, 2013"
+            ],
+            "publish_year": [
+                2013
+            ],
+            "first_publish_year": 2013,
+            "isbn": [
+                "1613754647",
+                "9781613754641"
+            ],
+            "last_modified_i": 1578308320,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL27479117M",
+            "cover_i": 8937244,
+            "publisher": [
+                "Oasis Audio"
+            ],
+            "author_key": [
+                "OL23048A"
+            ],
+            "author_name": [
+                "Gertrude Chandler Warner"
+            ],
+            "author_alternative_name": [
+                "Gertrude Chandler 1890-1979 Warner",
+                "Gertrude Handler Warner",
+                "Gertrude Warner",
+                "gertrude chandler warner",
+                "Gertrud Chandler Warner",
+                "GERTRUDE CHANDLER WARNER",
+                "Gertrude C. Warner",
+                "The Boxcar The Boxcar Children"
+            ],
+            "id_amazon": [
+                "1613754647"
+            ],
+            "publisher_facet": [
+                "Oasis Audio"
+            ],
+            "_version_": 1767908349168320514,
+            "author_facet": [
+                "OL23048A Gertrude Chandler Warner"
+            ]
+        },
+        {
+            "key": "/works/OL30294898W",
+            "type": "work",
+            "seed": [
+                "/books/OL41749947M",
+                "/books/OL41800877M",
+                "/books/OL41723326M",
+                "/books/OL41800451M",
+                "/books/OL41725424M",
+                "/books/OL41672001M",
+                "/books/OL41698813M",
+                "/books/OL41828056M",
+                "/books/OL41722931M",
+                "/books/OL41724363M",
+                "/books/OL41828059M",
+                "/books/OL41674497M",
+                "/books/OL41775922M",
+                "/books/OL41698220M",
+                "/books/OL41827023M",
+                "/books/OL41748894M",
+                "/books/OL41825650M",
+                "/books/OL41646891M",
+                "/books/OL41826011M",
+                "/books/OL41671998M",
+                "/books/OL41802578M",
+                "/books/OL41828054M",
+                "/books/OL41714845M",
+                "/books/OL41749949M",
+                "/books/OL41674488M",
+                "/books/OL41748897M",
+                "/works/OL30294898W",
+                "/authors/OL8367002A"
+            ],
+            "title": "101 Mazes for Kids 3",
+            "title_suggest": "101 Mazes for Kids 3",
+            "title_sort": "101 Mazes for Kids 3",
+            "edition_count": 26,
+            "edition_key": [
+                "OL41749947M",
+                "OL41800877M",
+                "OL41723326M",
+                "OL41800451M",
+                "OL41725424M",
+                "OL41672001M",
+                "OL41698813M",
+                "OL41828056M",
+                "OL41722931M",
+                "OL41724363M",
+                "OL41828059M",
+                "OL41674497M",
+                "OL41775922M",
+                "OL41698220M",
+                "OL41827023M",
+                "OL41748894M",
+                "OL41825650M",
+                "OL41646891M",
+                "OL41826011M",
+                "OL41671998M",
+                "OL41802578M",
+                "OL41828054M",
+                "OL41714845M",
+                "OL41749949M",
+                "OL41674488M",
+                "OL41748897M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781704812175",
+                "9781672108621",
+                "1704150612",
+                "1702861813",
+                "1704811473",
+                "9781702858458",
+                "1702858022",
+                "9781702861069",
+                "1706575572",
+                "1706580479",
+                "1704815592",
+                "9781704814797",
+                "9781704146447",
+                "1704813522",
+                "9781703501933",
+                "1706586299",
+                "9781706575573",
+                "1706585624",
+                "1703503562",
+                "9781706586296",
+                "9781703509052",
+                "1704816246",
+                "9781702861816",
+                "9781704150611",
+                "9781703506174",
+                "170657701X",
+                "1704140676",
+                "9781704813523",
+                "9781706585626",
+                "9781706579212",
+                "9781706577010",
+                "1703506170",
+                "1703501934",
+                "1704146445",
+                "1702861066",
+                "1672108624",
+                "9781704815596",
+                "9781704140674",
+                "9781703503562",
+                "1706579217",
+                "1706584792",
+                "9781703500363",
+                "9781706584797",
+                "1704814790",
+                "1703500369",
+                "9781706580478",
+                "1703509056",
+                "9781704811475",
+                "9781704816241",
+                "9781702858021",
+                "1704812178",
+                "1702858456"
+            ],
+            "last_modified_i": 1669613997,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8367002A"
+            ],
+            "author_name": [
+                "Journals Ink"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925778469617664,
+            "author_facet": [
+                "OL8367002A Journals Ink"
+            ]
+        },
+        {
+            "key": "/works/OL28053616W",
+            "type": "work",
+            "seed": [
+                "/books/OL38395910M",
+                "/books/OL38399717M",
+                "/books/OL38398899M",
+                "/books/OL38394548M",
+                "/books/OL38395866M",
+                "/books/OL38393100M",
+                "/books/OL38394515M",
+                "/books/OL38396227M",
+                "/books/OL38397393M",
+                "/books/OL38395911M",
+                "/books/OL38397423M",
+                "/books/OL38394551M",
+                "/books/OL38399718M",
+                "/books/OL38397383M",
+                "/books/OL38395946M",
+                "/books/OL38425438M",
+                "/books/OL38399484M",
+                "/books/OL38399500M",
+                "/books/OL38425665M",
+                "/books/OL38398971M",
+                "/works/OL28053616W",
+                "/authors/OL8385515A"
+            ],
+            "title": "101 Mazes for Kids",
+            "title_suggest": "101 Mazes for Kids",
+            "title_sort": "101 Mazes for Kids",
+            "edition_count": 20,
+            "edition_key": [
+                "OL38395910M",
+                "OL38399717M",
+                "OL38398899M",
+                "OL38394548M",
+                "OL38395866M",
+                "OL38393100M",
+                "OL38394515M",
+                "OL38396227M",
+                "OL38397393M",
+                "OL38395911M",
+                "OL38397423M",
+                "OL38394551M",
+                "OL38399718M",
+                "OL38397383M",
+                "OL38395946M",
+                "OL38425438M",
+                "OL38399484M",
+                "OL38399500M",
+                "OL38425665M",
+                "OL38398971M"
+            ],
+            "publish_date": [
+                "2019",
+                "2020"
+            ],
+            "publish_year": [
+                2019,
+                2020
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781708792831",
+                "9781657421417",
+                "9781706576068",
+                "9781708791391",
+                "1702859460",
+                "1672819016",
+                "9781708531935",
+                "9798604577707",
+                "9781674615905",
+                "9781672142977",
+                "1706576064",
+                "9781702859462",
+                "1708531939",
+                "9781672558761",
+                "1672937140",
+                "9781672819015",
+                "170879168X",
+                "9781672143196",
+                "1704814693",
+                "167255876X",
+                "9781708791681",
+                "9798629339786",
+                "9781704814698",
+                "9798605069768",
+                "9781702861748",
+                "1674615906",
+                "1708532498",
+                "9781672937146",
+                "9781708532499",
+                "1672142970",
+                "1702861740",
+                "9798625227698",
+                "1657421414",
+                "1708791396",
+                "1672143195",
+                "170879283X"
+            ],
+            "last_modified_i": 1655604318,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8385515A"
+            ],
+            "author_name": [
+                "Journals Ink."
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921953374470145,
+            "author_facet": [
+                "OL8385515A Journals Ink."
+            ]
+        },
+        {
+            "key": "/works/OL28050656W",
+            "type": "work",
+            "seed": [
+                "/books/OL38391594M",
+                "/books/OL38397407M",
+                "/books/OL38388603M",
+                "/books/OL38398932M",
+                "/books/OL38397404M",
+                "/works/OL28050656W",
+                "/authors/OL8385515A"
+            ],
+            "title": "101 Mazes for Kids 4",
+            "title_suggest": "101 Mazes for Kids 4",
+            "title_sort": "101 Mazes for Kids 4",
+            "edition_count": 5,
+            "edition_key": [
+                "OL38391594M",
+                "OL38397407M",
+                "OL38388603M",
+                "OL38398932M",
+                "OL38397404M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1703503651",
+                "1706578199",
+                "9781706578192",
+                "1704811511",
+                "9781704813554",
+                "170286183X",
+                "9781702861830",
+                "9781704811512",
+                "9781703503654",
+                "1704813557"
+            ],
+            "last_modified_i": 1655587699,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8385515A"
+            ],
+            "author_name": [
+                "Journals Ink."
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921851493777408,
+            "author_facet": [
+                "OL8385515A Journals Ink."
+            ]
+        },
+        {
+            "key": "/works/OL6738198W",
+            "type": "work",
+            "seed": [
+                "/books/OL4616881M",
+                "/works/OL6738198W",
+                "/subjects/corn",
+                "/subjects/machinery",
+                "/subjects/tropics",
+                "/authors/OL1826000A"
+            ],
+            "title": "Grain-maize, mechanised production in the tropical and subtropical regions",
+            "title_suggest": "Grain-maize, mechanised production in the tropical and subtropical regions",
+            "title_sort": "Grain-maize, mechanised production in the tropical and subtropical regions",
+            "edition_count": 1,
+            "edition_key": [
+                "OL4616881M"
+            ],
+            "publish_date": [
+                "1972"
+            ],
+            "publish_year": [
+                1972
+            ],
+            "first_publish_year": 1972,
+            "number_of_pages_median": 196,
+            "lccn": [
+                "77398029"
+            ],
+            "publish_place": [
+                "Leipzig"
+            ],
+            "lcc": [
+                "SB-0191.00000000.M2 G5713"
+            ],
+            "ddc": [
+                "633.150913"
+            ],
+            "last_modified_i": 1602632984,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Edition Leipzig"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1826000A"
+            ],
+            "author_name": [
+                "Peter Glanze"
+            ],
+            "subject": [
+                "Corn",
+                "Machinery",
+                "Tropics"
+            ],
+            "publisher_facet": [
+                "Edition Leipzig"
+            ],
+            "subject_facet": [
+                "Corn",
+                "Machinery",
+                "Tropics"
+            ],
+            "_version_": 1767939745068875776,
+            "lcc_sort": "SB-0191.00000000.M2 G5713",
+            "author_facet": [
+                "OL1826000A Peter Glanze"
+            ],
+            "subject_key": [
+                "corn",
+                "machinery",
+                "tropics"
+            ],
+            "ddc_sort": "633.150913"
+        },
+        {
+            "key": "/works/OL30759701W",
+            "type": "work",
+            "seed": [
+                "/books/OL48452160M",
+                "/books/OL48441544M",
+                "/books/OL48441434M",
+                "/books/OL48441220M",
+                "/books/OL48430564M",
+                "/books/OL48420673M",
+                "/books/OL48420633M",
+                "/books/OL48419872M",
+                "/books/OL48410117M",
+                "/books/OL48410079M",
+                "/books/OL48388907M",
+                "/books/OL48388675M",
+                "/books/OL48378062M",
+                "/books/OL48377947M",
+                "/books/OL48377302M",
+                "/books/OL46806762M",
+                "/books/OL46689285M",
+                "/books/OL42301121M",
+                "/books/OL42269536M",
+                "/books/OL42269519M",
+                "/works/OL30759701W",
+                "/authors/OL11259071A"
+            ],
+            "title": "Unicorn Coloring Book",
+            "title_suggest": "Unicorn Coloring Book",
+            "title_sort": "Unicorn Coloring Book",
+            "edition_count": 20,
+            "edition_key": [
+                "OL48452160M",
+                "OL48441544M",
+                "OL48441434M",
+                "OL48441220M",
+                "OL48430564M",
+                "OL48420673M",
+                "OL48420633M",
+                "OL48419872M",
+                "OL48410117M",
+                "OL48410079M",
+                "OL48388907M",
+                "OL48388675M",
+                "OL48378062M",
+                "OL48377947M",
+                "OL48377302M",
+                "OL46806762M",
+                "OL46689285M",
+                "OL42301121M",
+                "OL42269536M",
+                "OL42269519M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798503701692",
+                "9798503682021",
+                "9798503701951",
+                "9798503701708",
+                "9798503701838",
+                "9798503701784",
+                "9798503681819",
+                "9798503684155",
+                "9798503701913",
+                "9798503701869",
+                "9798503684025",
+                "9798503683981",
+                "9798503684056",
+                "9798503683929",
+                "9798503684100",
+                "9798503684070",
+                "9798503701944",
+                "9798503683950",
+                "9798503701722",
+                "9798503701753"
+            ],
+            "last_modified_i": 1687042581,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11259071A"
+            ],
+            "author_name": [
+                "Sobedmp Publishing"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1769215282362974209,
+            "author_facet": [
+                "OL11259071A Sobedmp Publishing"
+            ]
+        },
+        {
+            "key": "/works/OL8963464W",
+            "type": "work",
+            "seed": [
+                "/books/OL8825034M",
+                "/books/OL8825033M",
+                "/books/OL9662540M",
+                "/books/OL8825057M",
+                "/books/OL8825091M",
+                "/books/OL8825056M",
+                "/books/OL8825063M",
+                "/books/OL8825039M",
+                "/books/OL8825053M",
+                "/books/OL12322438M",
+                "/books/OL8825129M",
+                "/books/OL9709597M",
+                "/books/OL21577409M",
+                "/books/OL19471450M",
+                "/books/OL18841259M",
+                "/books/OL8825132M",
+                "/books/OL8825182M",
+                "/works/OL8963464W",
+                "/subjects/semiconductor_industry",
+                "/subjects/industrial_management",
+                "/subjects/economic_aspects",
+                "/subjects/corporations",
+                "/subjects/chief_executive_officers",
+                "/subjects/business_consultants",
+                "/subjects/consultants",
+                "/subjects/advertising",
+                "/subjects/marketing",
+                "/subjects/brand_name_products",
+                "/subjects/business_names",
+                "/subjects/semiconductor_industry",
+                "/subjects/technological_innovations",
+                "/subjects/investment_analysis",
+                "/subjects/stocks",
+                "/subjects/investment_advisors",
+                "/authors/OL3109342A"
+            ],
+            "title": "Inside the Minds",
+            "title_sort": "Inside the Minds",
+            "title_suggest": "Inside the Minds",
+            "edition_count": 17,
+            "edition_key": [
+                "OL8825034M",
+                "OL8825033M",
+                "OL9662540M",
+                "OL8825057M",
+                "OL8825091M",
+                "OL8825056M",
+                "OL8825063M",
+                "OL8825039M",
+                "OL8825053M",
+                "OL12322438M",
+                "OL8825129M",
+                "OL9709597M",
+                "OL21577409M",
+                "OL19471450M",
+                "OL18841259M",
+                "OL8825132M",
+                "OL8825182M"
+            ],
+            "publish_date": [
+                "2004",
+                "May 2002",
+                "August 1, 2003",
+                "March 2004",
+                "August 2000",
+                "November 2001",
+                "February 2002",
+                "November 2000",
+                "May 2004",
+                "January 2003",
+                "September 2001",
+                "March 2002",
+                "October 1, 2002"
+            ],
+            "publish_year": [
+                2004,
+                2001,
+                2000,
+                2002,
+                2003
+            ],
+            "first_publish_year": 2000,
+            "number_of_pages_median": 240,
+            "lccn": [
+                "2001119341",
+                "2007281517"
+            ],
+            "publish_place": [
+                "[Boston, Mass.?]"
+            ],
+            "oclc": [
+                "49864628",
+                "56620978",
+                "49209872",
+                "45279049",
+                "54949239",
+                "440992364",
+                "49220087",
+                "51777902",
+                "48656575"
+            ],
+            "contributor": [
+                "Aspatore, Inc."
+            ],
+            "lcc": [
+                "HG-0179.00000000.I4868 2004"
+            ],
+            "ddc": [
+                "332.02400246584"
+            ],
+            "isbn": [
+                "1587622327",
+                "9781587620546",
+                "1587620081",
+                "1587622211",
+                "9781587620225",
+                "1587620553",
+                "1587621142",
+                "1587620588",
+                "9781587620591",
+                "9781587620010",
+                "1587620545",
+                "1587620227",
+                "9781587624087",
+                "9781587620669",
+                "1587620650",
+                "1587624087",
+                "9781587620584",
+                "1587620596",
+                "1587622165",
+                "1587620669",
+                "9781587622168",
+                "9781587620089",
+                "9781587622212",
+                "9781587620553",
+                "9781587621147",
+                "9781587620652",
+                "1587620014",
+                "9781587622328"
+            ],
+            "last_modified_i": 1696029832,
+            "ebook_count_i": 2,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "insidemindschief0000unse",
+                "insidemindsleadi0000unse_j7n1",
+                "insidemindsleadi00rone",
+                "insidemindssemin00staf",
+                "insidemindsautom00staf"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL8825034M",
+            "lending_identifier_s": "insidemindschief0000unse",
+            "printdisabled_s": "OL8825034M;OL8825053M",
+            "readinglog_count": 6,
+            "want_to_read_count": 6,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL8825039M",
+            "cover_i": 855303,
+            "first_sentence": [
+                "I am personally well-suited to telecommunications.",
+                "Architecture combines art, technology, emotion, business, practical knowledge and understanding of people's reactions to internal and external built spaces.",
+                "I've been in professional services for 24 years.",
+                "My personal approach to investing follows the classical lines of realizing when an asset is selling for a price lower than its fair value.",
+                "The practice of corporate law is extremely diverse, involving intellectual, technical legal, business, judgmental, practical, relationship and personal skills.",
+                "The business world's myopic infatuation with the \"New Economy\" has cooled.",
+                "I joined S3 about three and a half years ago.",
+                "On my first trip to Japan in the 1980s, I heard a phrase I never truly understood until many years later: \"Semiconductors are the rice of life.\"",
+                "A corporate debtor's bankruptcy attorney provides a constructive service in trying to reorganize a company, thus preserving jobs and a portion of the marketplace.",
+                "I have a passion for the automotive industry.",
+                "One of the reasons I enjoy deals more than anything else I do is that there is so much room for adding ideas and finding workable paths through a maze of problems toward desired results.",
+                "From a personal point of view, the exciting aspect of our business is the sheer diversity of industries and companies that we get to work with.",
+                "I think it's because the venture business is sitting in the center of the hurricane of change.",
+                "The key to building a business is to begin with a well-articulated strategic vision."
+            ],
+            "publisher": [
+                "Ebrandedbooks.com",
+                "Aspatore Books"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3109342A"
+            ],
+            "author_name": [
+                "Inside the Minds"
+            ],
+            "subject": [
+                "Semiconductor Industry",
+                "Industrial management",
+                "Economic aspects",
+                "Corporations",
+                "Chief executive officers",
+                "Business consultants",
+                "Consultants",
+                "Advertising",
+                "Marketing",
+                "Brand name products",
+                "Business names",
+                "Semiconductor industry",
+                "Technological innovations",
+                "Investment analysis",
+                "Stocks",
+                "Investment advisors"
+            ],
+            "id_goodreads": [
+                "44902",
+                "793966",
+                "2549384",
+                "5957122",
+                "151325",
+                "541787",
+                "486519",
+                "532895",
+                "1106661",
+                "2596701",
+                "261630",
+                "747172"
+            ],
+            "id_librarything": [
+                "8322055",
+                "5619091",
+                "5223294",
+                "7819155",
+                "7790153",
+                "4917608",
+                "6257607",
+                "1255029"
+            ],
+            "ia_box_id": [
+                "IA40724421",
+                "IA40900313"
+            ],
+            "publisher_facet": [
+                "Aspatore Books",
+                "Ebrandedbooks.com"
+            ],
+            "subject_facet": [
+                "Advertising",
+                "Brand name products",
+                "Business consultants",
+                "Business names",
+                "Chief executive officers",
+                "Consultants",
+                "Corporations",
+                "Economic aspects",
+                "Industrial management",
+                "Investment advisors",
+                "Investment analysis",
+                "Marketing",
+                "Semiconductor Industry",
+                "Semiconductor industry",
+                "Stocks",
+                "Technological innovations"
+            ],
+            "_version_": 1778416179784712197,
+            "lcc_sort": "HG-0179.00000000.I4868 2004",
+            "author_facet": [
+                "OL3109342A Inside the Minds"
+            ],
+            "subject_key": [
+                "advertising",
+                "brand_name_products",
+                "business_consultants",
+                "business_names",
+                "chief_executive_officers",
+                "consultants",
+                "corporations",
+                "economic_aspects",
+                "industrial_management",
+                "investment_advisors",
+                "investment_analysis",
+                "marketing",
+                "semiconductor_industry",
+                "stocks",
+                "technological_innovations"
+            ],
+            "ddc_sort": "332.02400246584"
+        }
+    ],
+    "num_found": 23,
+    "q": "corn maze",
+    "offset": null
+}

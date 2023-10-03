@@ -1,0 +1,1931 @@
+{
+    "numFound": 24,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL7785561W",
+            "type": "work",
+            "seed": [
+                "/books/OL6737987M",
+                "/works/OL7785561W",
+                "/authors/OL2451255A"
+            ],
+            "title": "Succotash",
+            "title_suggest": "Succotash",
+            "title_sort": "Succotash",
+            "edition_count": 1,
+            "edition_key": [
+                "OL6737987M"
+            ],
+            "publish_date": [
+                "1929"
+            ],
+            "publish_year": [
+                1929
+            ],
+            "first_publish_year": 1929,
+            "number_of_pages_median": 107,
+            "lccn": [
+                "30002342"
+            ],
+            "publish_place": [
+                "[Detroit]"
+            ],
+            "oclc": [
+                "18319339"
+            ],
+            "lcc": [
+                "PS-3507.00000000.R75 S8 1929"
+            ],
+            "last_modified_i": 1600080457,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2451255A"
+            ],
+            "author_name": [
+                "Harry Lewis Driggs"
+            ],
+            "_version_": 1767941663158697985,
+            "lcc_sort": "PS-3507.00000000.R75 S8 1929",
+            "author_facet": [
+                "OL2451255A Harry Lewis Driggs"
+            ]
+        },
+        {
+            "key": "/works/OL4325972W",
+            "type": "work",
+            "seed": [
+                "/books/OL1749563M",
+                "/works/OL4325972W",
+                "/subjects/biography",
+                "/subjects/ranch_life",
+                "/subjects/ranchers",
+                "/subjects/person:frank_w._whipple_(1921-)",
+                "/subjects/place:south_dakota",
+                "/authors/OL842774A"
+            ],
+            "title": "Succotash",
+            "title_suggest": "Succotash",
+            "title_sort": "Succotash",
+            "edition_count": 1,
+            "edition_key": [
+                "OL1749563M"
+            ],
+            "publish_date": [
+                "1992"
+            ],
+            "publish_year": [
+                1992
+            ],
+            "first_publish_year": 1992,
+            "number_of_pages_median": 242,
+            "lccn": [
+                "92071571"
+            ],
+            "publish_place": [
+                "Wilmot, S.D"
+            ],
+            "oclc": [
+                "26628705"
+            ],
+            "lcc": [
+                "F--0656.00000000.W45 1992"
+            ],
+            "isbn": [
+                "096331100X",
+                "9780963311009"
+            ],
+            "last_modified_i": 1605447560,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "F.W. Whipple"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL842774A"
+            ],
+            "author_name": [
+                "Frank W. Whipple"
+            ],
+            "person": [
+                "Frank W. Whipple (1921-)"
+            ],
+            "place": [
+                "South Dakota"
+            ],
+            "subject": [
+                "Biography",
+                "Ranch life",
+                "Ranchers"
+            ],
+            "publisher_facet": [
+                "F.W. Whipple"
+            ],
+            "person_key": [
+                "frank_w._whipple_(1921-)"
+            ],
+            "place_key": [
+                "south_dakota"
+            ],
+            "person_facet": [
+                "Frank W. Whipple (1921-)"
+            ],
+            "subject_facet": [
+                "Biography",
+                "Ranch life",
+                "Ranchers"
+            ],
+            "_version_": 1767935583725813760,
+            "place_facet": [
+                "South Dakota"
+            ],
+            "lcc_sort": "F--0656.00000000.W45 1992",
+            "author_facet": [
+                "OL842774A Frank W. Whipple"
+            ],
+            "subject_key": [
+                "biography",
+                "ranch_life",
+                "ranchers"
+            ]
+        },
+        {
+            "key": "/works/OL31311991W",
+            "type": "work",
+            "seed": [
+                "/books/OL42962894M",
+                "/works/OL31311991W",
+                "/authors/OL1431563A"
+            ],
+            "title": "Succotash Dreams",
+            "title_suggest": "Succotash Dreams",
+            "title_sort": "Succotash Dreams",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42962894M"
+            ],
+            "publish_date": [
+                "2013-05-24"
+            ],
+            "publish_year": [
+                2013
+            ],
+            "first_publish_year": 2013,
+            "isbn": [
+                "9781484874837",
+                "1484874838"
+            ],
+            "last_modified_i": 1684267992,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL1431563A"
+            ],
+            "author_name": [
+                "Karen Miller-Kovach"
+            ],
+            "author_alternative_name": [
+                "Karen, MS, RD Miller-Kovach",
+                "Karen Miller-Kovach Weight Watchers"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "_version_": 1767927132770533378,
+            "author_facet": [
+                "OL1431563A Karen Miller-Kovach"
+            ]
+        },
+        {
+            "key": "/works/OL13481510M",
+            "type": "work",
+            "seed": [
+                "/books/OL13481510M",
+                "/works/OL13481510M",
+                "/subjects/succotash."
+            ],
+            "title": "Labeling of succotash",
+            "title_suggest": "Labeling of succotash",
+            "title_sort": "Labeling of succotash",
+            "edition_count": 1,
+            "edition_key": [
+                "OL13481510M"
+            ],
+            "publish_date": [
+                "1907"
+            ],
+            "publish_year": [
+                1907
+            ],
+            "first_publish_year": 1907,
+            "publish_place": [
+                "Washington, D.C"
+            ],
+            "last_modified_i": 1686044527,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Sine nomine"
+            ],
+            "subject": [
+                "Succotash."
+            ],
+            "publisher_facet": [
+                "Sine nomine"
+            ],
+            "subject_facet": [
+                "Succotash."
+            ],
+            "_version_": 1767945826486714368,
+            "subject_key": [
+                "succotash."
+            ]
+        },
+        {
+            "key": "/works/OL24918502W",
+            "type": "work",
+            "seed": [
+                "/books/OL33122474M",
+                "/works/OL24918502W",
+                "/subjects/frozen_vegetables",
+                "/subjects/standards",
+                "/subjects/grading",
+                "/subjects/place:united_states",
+                "/authors/OL4521205A"
+            ],
+            "title": "United States standards for grades of frozen succotash",
+            "title_suggest": "United States standards for grades of frozen succotash",
+            "title_sort": "United States standards for grades of frozen succotash",
+            "edition_count": 1,
+            "edition_key": [
+                "OL33122474M"
+            ],
+            "publish_date": [
+                "1959"
+            ],
+            "publish_year": [
+                1959
+            ],
+            "first_publish_year": 1959,
+            "publish_place": [
+                "Washington, D.C"
+            ],
+            "oclc": [
+                "40291931"
+            ],
+            "last_modified_i": 1630100594,
+            "ebook_count_i": 1,
+            "ebook_access": "public",
+            "has_fulltext": true,
+            "public_scan_b": true,
+            "ia": [
+                "CAT10858131"
+            ],
+            "ia_collection": [
+                "americana",
+                "fedlink",
+                "usdanationalagriculturallibrary"
+            ],
+            "ia_collection_s": "americana;fedlink;usdanationalagriculturallibrary",
+            "lending_edition_s": "OL33122474M",
+            "lending_identifier_s": "CAT10858131",
+            "cover_edition_key": "OL33122474M",
+            "cover_i": 11826469,
+            "publisher": [
+                "U.S. Dept. of Agriculture, Agricultural Marketing Service"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4521205A"
+            ],
+            "author_name": [
+                "United States. Agricultural Marketing Service"
+            ],
+            "place": [
+                "United States"
+            ],
+            "subject": [
+                "Frozen vegetables",
+                "Standards",
+                "Grading"
+            ],
+            "publisher_facet": [
+                "U.S. Dept. of Agriculture, Agricultural Marketing Service"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Frozen vegetables",
+                "Grading",
+                "Standards"
+            ],
+            "_version_": 1767916586207805441,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL4521205A United States. Agricultural Marketing Service"
+            ],
+            "subject_key": [
+                "frozen_vegetables",
+                "grading",
+                "standards"
+            ]
+        },
+        {
+            "key": "/works/OL24918594W",
+            "type": "work",
+            "seed": [
+                "/books/OL33122571M",
+                "/works/OL24918594W",
+                "/subjects/canned_vegetables",
+                "/subjects/standards",
+                "/subjects/grading",
+                "/subjects/place:united_states",
+                "/authors/OL7240690A"
+            ],
+            "title": "United States standards for grades of canned succotash",
+            "title_suggest": "United States standards for grades of canned succotash",
+            "title_sort": "United States standards for grades of canned succotash",
+            "edition_count": 1,
+            "edition_key": [
+                "OL33122571M"
+            ],
+            "publish_date": [
+                "1967"
+            ],
+            "publish_year": [
+                1967
+            ],
+            "first_publish_year": 1967,
+            "publish_place": [
+                "Washington, D.C"
+            ],
+            "oclc": [
+                "41286066"
+            ],
+            "last_modified_i": 1630101230,
+            "ebook_count_i": 1,
+            "ebook_access": "public",
+            "has_fulltext": true,
+            "public_scan_b": true,
+            "ia": [
+                "CAT10870658"
+            ],
+            "ia_collection": [
+                "americana",
+                "fedlink",
+                "usdanationalagriculturallibrary"
+            ],
+            "ia_collection_s": "americana;fedlink;usdanationalagriculturallibrary",
+            "lending_edition_s": "OL33122571M",
+            "lending_identifier_s": "CAT10870658",
+            "cover_edition_key": "OL33122571M",
+            "cover_i": 11826578,
+            "publisher": [
+                "U.S. Dept. of Agriculture, Agricultural Marketing Service, Fruit and Vegetable Division, Processed Products Standardization and Inspection Branch"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7240690A"
+            ],
+            "author_name": [
+                "United States. Agricultural Marketing Service. Fruit and Vegetable Division. Processed Products Standardization and Inspection Branch"
+            ],
+            "place": [
+                "United States"
+            ],
+            "subject": [
+                "Canned vegetables",
+                "Standards",
+                "Grading"
+            ],
+            "publisher_facet": [
+                "U.S. Dept. of Agriculture, Agricultural Marketing Service, Fruit and Vegetable Division, Processed Products Standardization and Inspection Branch"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Canned vegetables",
+                "Grading",
+                "Standards"
+            ],
+            "_version_": 1767916587167252481,
+            "place_facet": [
+                "United States"
+            ],
+            "author_facet": [
+                "OL7240690A United States. Agricultural Marketing Service. Fruit and Vegetable Division. Processed Products Standardization and Inspection Branch"
+            ],
+            "subject_key": [
+                "canned_vegetables",
+                "grading",
+                "standards"
+            ]
+        },
+        {
+            "key": "/works/OL3561763W",
+            "type": "work",
+            "seed": [
+                "/books/OL6778337M",
+                "/works/OL3561763W",
+                "/subjects/fiction",
+                "/subjects/elephants",
+                "/subjects/wizards",
+                "/subjects/birds",
+                "/subjects/babar_(fictitious_character)",
+                "/subjects/juvenile_fiction",
+                "/subjects/babar_(fictional_character)",
+                "/subjects/pictorial_works",
+                "/subjects/children's_fiction",
+                "/subjects/babar_(fictitious_character)_fiction",
+                "/subjects/elephants_fiction",
+                "/subjects/birds_fiction",
+                "/subjects/wizards_fiction",
+                "/authors/OL600007A"
+            ],
+            "title": "Babar and the succotash bird",
+            "title_suggest": "Babar and the succotash bird",
+            "title_sort": "Babar and the succotash bird",
+            "edition_count": 1,
+            "edition_key": [
+                "OL6778337M"
+            ],
+            "publish_date": [
+                "2000"
+            ],
+            "publish_year": [
+                2000
+            ],
+            "first_publish_year": 2000,
+            "lccn": [
+                "00021031"
+            ],
+            "publish_place": [
+                "New York"
+            ],
+            "oclc": [
+                "43555190"
+            ],
+            "lcc": [
+                "PZ-0007.00000000.B82843Baaj 2000",
+                "PZ-0007.00000000.B82843 Baaj 2000"
+            ],
+            "ddc": [
+                "[E]"
+            ],
+            "isbn": [
+                "9780810957008",
+                "0810957000"
+            ],
+            "last_modified_i": 1602125195,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "babarsuccotashbi0000brun"
+            ],
+            "ia_collection": [
+                "bpljordan-ol",
+                "brynmawr-ol",
+                "cnusd-ol",
+                "delawarecountydistrictlibrary-ol",
+                "goffstownlibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "bpljordan-ol;brynmawr-ol;cnusd-ol;delawarecountydistrictlibrary-ol;goffstownlibrary-ol;inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL6778337M",
+            "lending_identifier_s": "babarsuccotashbi0000brun",
+            "printdisabled_s": "OL6778337M",
+            "cover_edition_key": "OL6778337M",
+            "cover_i": 597156,
+            "publisher": [
+                "Harry N. Abrams"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL600007A"
+            ],
+            "author_name": [
+                "Laurent de Brunhoff"
+            ],
+            "author_alternative_name": [
+                "Laurent Brunhoff"
+            ],
+            "subject": [
+                "Fiction",
+                "Elephants",
+                "Wizards",
+                "Birds",
+                "Babar (Fictitious character)",
+                "Juvenile fiction",
+                "Babar (Fictional character)",
+                "Pictorial works",
+                "Children's fiction",
+                "Babar (fictitious character), fiction",
+                "Elephants, fiction",
+                "Birds, fiction",
+                "Wizards, fiction"
+            ],
+            "id_goodreads": [
+                "640434"
+            ],
+            "id_librarything": [
+                "739694"
+            ],
+            "ia_box_id": [
+                "IA1744622"
+            ],
+            "publisher_facet": [
+                "Harry N. Abrams"
+            ],
+            "subject_facet": [
+                "Babar (Fictional character)",
+                "Babar (Fictitious character)",
+                "Babar (fictitious character), fiction",
+                "Birds",
+                "Birds, fiction",
+                "Children's fiction",
+                "Elephants",
+                "Elephants, fiction",
+                "Fiction",
+                "Juvenile fiction",
+                "Pictorial works",
+                "Wizards",
+                "Wizards, fiction"
+            ],
+            "_version_": 1767934032150003712,
+            "lcc_sort": "PZ-0007.00000000.B82843 Baaj 2000",
+            "author_facet": [
+                "OL600007A Laurent de Brunhoff"
+            ],
+            "subject_key": [
+                "babar_(fictional_character)",
+                "babar_(fictitious_character)",
+                "babar_(fictitious_character)_fiction",
+                "birds",
+                "birds_fiction",
+                "children's_fiction",
+                "elephants",
+                "elephants_fiction",
+                "fiction",
+                "juvenile_fiction",
+                "pictorial_works",
+                "wizards",
+                "wizards_fiction"
+            ],
+            "ddc_sort": "[E]"
+        },
+        {
+            "key": "/works/OL16599305W",
+            "type": "work",
+            "seed": [
+                "/books/OL25282679M",
+                "/works/OL16599305W",
+                "/subjects/nutrition",
+                "/subjects/taste_buds",
+                "/subjects/senses_and_sensation",
+                "/subjects/health_&_fitness_/_nutrition",
+                "/subjects/health_&_fitness_/_general",
+                "/subjects/food_preferences",
+                "/subjects/popular_works",
+                "/subjects/nutrition_psychological_aspects",
+                "/authors/OL7112144A"
+            ],
+            "title": "Suffering succotash",
+            "title_suggest": "Suffering succotash",
+            "title_sort": "Suffering succotash",
+            "edition_count": 1,
+            "edition_key": [
+                "OL25282679M"
+            ],
+            "publish_date": [
+                "2012"
+            ],
+            "publish_year": [
+                2012
+            ],
+            "first_publish_year": 2012,
+            "lccn": [
+                "2012008772"
+            ],
+            "publish_place": [
+                "New York, N.Y"
+            ],
+            "lcc": [
+                "QP-0431.00000000.L83 2012"
+            ],
+            "ddc": [
+                "612.80846"
+            ],
+            "isbn": [
+                "9780399537509",
+                "0399537503"
+            ],
+            "last_modified_i": 1670162721,
+            "ebook_count_i": 1,
+            "ebook_access": "printdisabled",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "sufferingsuccota0000luci"
+            ],
+            "ia_collection": [
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "internetarchivebooks;printdisabled",
+            "printdisabled_s": "OL25282679M",
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL25282679M",
+            "cover_i": 9614362,
+            "publisher": [
+                "Perigee Trade"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7112144A"
+            ],
+            "author_name": [
+                "Stephanie V. W. Lucianovic"
+            ],
+            "subject": [
+                "Nutrition",
+                "Taste buds",
+                "Senses and sensation",
+                "HEALTH & FITNESS / Nutrition",
+                "HEALTH & FITNESS / General",
+                "Food preferences",
+                "Popular works",
+                "Nutrition, psychological aspects"
+            ],
+            "ia_box_id": [
+                "IA1732016"
+            ],
+            "publisher_facet": [
+                "Perigee Trade"
+            ],
+            "subject_facet": [
+                "Food preferences",
+                "HEALTH & FITNESS / General",
+                "HEALTH & FITNESS / Nutrition",
+                "Nutrition",
+                "Nutrition, psychological aspects",
+                "Popular works",
+                "Senses and sensation",
+                "Taste buds"
+            ],
+            "_version_": 1767900844799295489,
+            "lcc_sort": "QP-0431.00000000.L83 2012",
+            "author_facet": [
+                "OL7112144A Stephanie V. W. Lucianovic"
+            ],
+            "subject_key": [
+                "food_preferences",
+                "health__fitness__general",
+                "health__fitness__nutrition",
+                "nutrition",
+                "nutrition_psychological_aspects",
+                "popular_works",
+                "senses_and_sensation",
+                "taste_buds"
+            ],
+            "ddc_sort": "612.80846"
+        },
+        {
+            "key": "/works/OL30050429W",
+            "type": "work",
+            "seed": [
+                "/books/OL41307452M",
+                "/books/OL41471801M",
+                "/books/OL41335885M",
+                "/works/OL30050429W",
+                "/authors/OL11065810A",
+                "/authors/OL11065811A"
+            ],
+            "title": "Adventures of Succotash and Sookey, the Ostrich",
+            "title_suggest": "Adventures of Succotash and Sookey, the Ostrich",
+            "title_sort": "Adventures of Succotash and Sookey, the Ostrich",
+            "edition_count": 3,
+            "edition_key": [
+                "OL41307452M",
+                "OL41471801M",
+                "OL41335885M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1086835190",
+                "9781083025906",
+                "9781086835199",
+                "9781088527047",
+                "1083025902",
+                "1088527043"
+            ],
+            "last_modified_i": 1669415850,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11065810A",
+                "OL11065811A"
+            ],
+            "author_name": [
+                "Alma Milby",
+                "Candy St James"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925269707882497,
+            "author_facet": [
+                "OL11065810A Alma Milby",
+                "OL11065811A Candy St James"
+            ]
+        },
+        {
+            "key": "/works/OL11586333W",
+            "type": "work",
+            "seed": [
+                "/books/OL15468143M",
+                "/books/OL18166517M",
+                "/works/OL11586333W",
+                "/subjects/history",
+                "/subjects/united_states_french_and_indian_war_1755-1763",
+                "/subjects/place:fort_duquesne_(pa.)",
+                "/subjects/place:united_states",
+                "/subjects/time:french_and_indian_war_1755-1763",
+                "/authors/OL4887585A"
+            ],
+            "title": "Suc-co-tash",
+            "title_suggest": "Suc-co-tash",
+            "title_sort": "Suc-co-tash",
+            "edition_count": 2,
+            "edition_key": [
+                "OL15468143M",
+                "OL18166517M"
+            ],
+            "publish_date": [
+                "1858"
+            ],
+            "publish_year": [
+                1858
+            ],
+            "first_publish_year": 1858,
+            "number_of_pages_median": 24,
+            "publish_place": [
+                "Pittsburgh"
+            ],
+            "last_modified_i": 1345069755,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 0,
+            "ratings_count_4": 0,
+            "ratings_count_5": 1,
+            "ratings_average": 5.0,
+            "ratings_sortable": 2.4036636,
+            "ratings_count": 1,
+            "readinglog_count": 1,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 1,
+            "publisher": [
+                "W.S. Haven"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4887585A"
+            ],
+            "author_name": [
+                "W. H Denny"
+            ],
+            "place": [
+                "Fort Duquesne (Pa.)",
+                "United States"
+            ],
+            "subject": [
+                "History",
+                "United States French and Indian War, 1755-1763"
+            ],
+            "time": [
+                "French and Indian War, 1755-1763"
+            ],
+            "publisher_facet": [
+                "W.S. Haven"
+            ],
+            "place_key": [
+                "fort_duquesne_(pa.)",
+                "united_states"
+            ],
+            "time_facet": [
+                "French and Indian War, 1755-1763"
+            ],
+            "subject_facet": [
+                "History",
+                "United States French and Indian War, 1755-1763"
+            ],
+            "_version_": 1767892830985912320,
+            "place_facet": [
+                "Fort Duquesne (Pa.)",
+                "United States"
+            ],
+            "author_facet": [
+                "OL4887585A W. H Denny"
+            ],
+            "subject_key": [
+                "history",
+                "united_states_french_and_indian_war_1755-1763"
+            ],
+            "time_key": [
+                "french_and_indian_war_1755-1763"
+            ]
+        },
+        {
+            "key": "/works/OL15532539W",
+            "type": "work",
+            "seed": [
+                "/books/OL24489783M",
+                "/works/OL15532539W",
+                "/subjects/history",
+                "/subjects/place:fort_duquesne_(pa.)",
+                "/subjects/place:pittsburgh_(pa.)",
+                "/authors/OL6863463A"
+            ],
+            "title": "Suc-co-tash",
+            "title_suggest": "Suc-co-tash",
+            "title_sort": "Suc-co-tash",
+            "edition_count": 1,
+            "edition_key": [
+                "OL24489783M"
+            ],
+            "publish_date": [
+                "1858"
+            ],
+            "publish_year": [
+                1858
+            ],
+            "first_publish_year": 1858,
+            "number_of_pages_median": 24,
+            "lccn": [
+                "16008887"
+            ],
+            "publish_place": [
+                "Pittsburgh"
+            ],
+            "lcc": [
+                "F--0159.00000000.P6 D4"
+            ],
+            "last_modified_i": 1597316371,
+            "ebook_count_i": 1,
+            "ebook_access": "public",
+            "has_fulltext": true,
+            "public_scan_b": true,
+            "ia": [
+                "succotashwritten01denn"
+            ],
+            "ia_collection": [
+                "americana",
+                "library_of_congress"
+            ],
+            "ia_collection_s": "americana;library_of_congress",
+            "lending_edition_s": "OL24489783M",
+            "lending_identifier_s": "succotashwritten01denn",
+            "cover_edition_key": "OL24489783M",
+            "cover_i": 7219519,
+            "publisher": [
+                "W. S. Haven"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6863463A"
+            ],
+            "author_name": [
+                "William H. Denny"
+            ],
+            "place": [
+                "Fort Duquesne (Pa.)",
+                "Pittsburgh (Pa.)"
+            ],
+            "subject": [
+                "History"
+            ],
+            "publisher_facet": [
+                "W. S. Haven"
+            ],
+            "place_key": [
+                "fort_duquesne_(pa.)",
+                "pittsburgh_(pa.)"
+            ],
+            "subject_facet": [
+                "History"
+            ],
+            "_version_": 1767899061024718849,
+            "place_facet": [
+                "Fort Duquesne (Pa.)",
+                "Pittsburgh (Pa.)"
+            ],
+            "lcc_sort": "F--0159.00000000.P6 D4",
+            "author_facet": [
+                "OL6863463A William H. Denny"
+            ],
+            "subject_key": [
+                "history"
+            ]
+        },
+        {
+            "key": "/works/OL16783499W",
+            "type": "work",
+            "seed": [
+                "/books/OL24166559M",
+                "/works/OL16783499W",
+                "/subjects/history"
+            ],
+            "title": "Suc-co-tash",
+            "title_suggest": "Suc-co-tash",
+            "title_sort": "Suc-co-tash",
+            "edition_count": 1,
+            "edition_key": [
+                "OL24166559M"
+            ],
+            "publish_date": [
+                "1858"
+            ],
+            "publish_year": [
+                1858
+            ],
+            "first_publish_year": 1858,
+            "number_of_pages_median": 24,
+            "publish_place": [
+                "Pittsburgh"
+            ],
+            "oclc": [
+                "20538387"
+            ],
+            "lcc": [
+                "F--0159.00000000.P6 D3"
+            ],
+            "last_modified_i": 1344537513,
+            "ebook_count_i": 1,
+            "ebook_access": "public",
+            "has_fulltext": true,
+            "public_scan_b": true,
+            "ia": [
+                "succotashwritten00denn"
+            ],
+            "ia_collection": [
+                "americana",
+                "university_pittsburgh"
+            ],
+            "ia_collection_s": "americana;university_pittsburgh",
+            "lending_edition_s": "OL24166559M",
+            "lending_identifier_s": "succotashwritten00denn",
+            "cover_edition_key": "OL24166559M",
+            "cover_i": 6344634,
+            "publisher": [
+                "W.S. Haven"
+            ],
+            "language": [
+                "eng"
+            ],
+            "subject": [
+                "History"
+            ],
+            "publisher_facet": [
+                "W.S. Haven"
+            ],
+            "subject_facet": [
+                "History"
+            ],
+            "_version_": 1767901241250152449,
+            "lcc_sort": "F--0159.00000000.P6 D3",
+            "subject_key": [
+                "history"
+            ]
+        },
+        {
+            "key": "/works/OL18542569W",
+            "type": "work",
+            "seed": [
+                "/books/OL23770029M",
+                "/works/OL18542569W"
+            ],
+            "title": "Sufferin succotash! or soggy seaweed breeds pneumonia",
+            "title_suggest": "Sufferin succotash! or soggy seaweed breeds pneumonia",
+            "title_sort": "Sufferin succotash! or soggy seaweed breeds pneumonia",
+            "edition_count": 1,
+            "edition_key": [
+                "OL23770029M"
+            ],
+            "publish_date": [
+                "1975"
+            ],
+            "publish_year": [
+                1975
+            ],
+            "first_publish_year": 1975,
+            "number_of_pages_median": 44,
+            "publish_place": [
+                "[Charlottetown]"
+            ],
+            "last_modified_i": 1549604776,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Hot Stuff Press"
+            ],
+            "publisher_facet": [
+                "Hot Stuff Press"
+            ],
+            "_version_": 1767904816778969089
+        },
+        {
+            "key": "/works/OL28386596W",
+            "type": "work",
+            "seed": [
+                "/books/OL38870283M",
+                "/books/OL38873200M",
+                "/works/OL28386596W",
+                "/subjects/indians_of_north_america_social_life_and_customs",
+                "/subjects/indians_of_north_america_juvenile_literature",
+                "/subjects/cooking",
+                "/subjects/cooking_juvenile_literature",
+                "/authors/OL10130605A"
+            ],
+            "title": "Native American Food",
+            "title_suggest": "Native American Food",
+            "title_sort": "Native American Food",
+            "edition_count": 2,
+            "edition_key": [
+                "OL38870283M",
+                "OL38873200M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "lcc": [
+                "E--0098.00000000.F7S56 2018"
+            ],
+            "isbn": [
+                "9781538208762",
+                "1538208792",
+                "9781538208793",
+                "1538208768"
+            ],
+            "last_modified_i": 1658240088,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Stevens Publishing LLLP, Gareth"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10130605A"
+            ],
+            "author_name": [
+                "Melissa Ra\u00e9 Shofner"
+            ],
+            "subject": [
+                "Indians of north america, social life and customs",
+                "Indians of north america, juvenile literature",
+                "Cooking",
+                "Cooking, juvenile literature"
+            ],
+            "publisher_facet": [
+                "Stevens Publishing LLLP, Gareth"
+            ],
+            "subject_facet": [
+                "Cooking",
+                "Cooking, juvenile literature",
+                "Indians of north america, juvenile literature",
+                "Indians of north america, social life and customs"
+            ],
+            "_version_": 1767922532311105537,
+            "lcc_sort": "E--0098.00000000.F7S56 2018",
+            "author_facet": [
+                "OL10130605A Melissa Ra\u00e9 Shofner"
+            ],
+            "subject_key": [
+                "cooking",
+                "cooking_juvenile_literature",
+                "indians_of_north_america_juvenile_literature",
+                "indians_of_north_america_social_life_and_customs"
+            ]
+        },
+        {
+            "key": "/works/OL28391255W",
+            "type": "work",
+            "seed": [
+                "/books/OL38880693M",
+                "/works/OL28391255W",
+                "/subjects/indians_of_north_america_social_life_and_customs",
+                "/subjects/indians_of_north_america_juvenile_literature",
+                "/subjects/cooking",
+                "/subjects/cooking_juvenile_literature",
+                "/authors/OL10528389A"
+            ],
+            "title": "NATIVE AMERICAN FOOD",
+            "title_suggest": "NATIVE AMERICAN FOOD",
+            "title_sort": "NATIVE AMERICAN FOOD",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38880693M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "lcc": [
+                "E--0098.00000000.F7S56 2018"
+            ],
+            "isbn": [
+                "9781538208786",
+                "1538208784"
+            ],
+            "last_modified_i": 1668448559,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Stevens Publishing LLLP, Gareth"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10528389A"
+            ],
+            "author_name": [
+                "Melissa Ra\u00e9 Snofner"
+            ],
+            "subject": [
+                "Indians of north america, social life and customs",
+                "Indians of north america, juvenile literature",
+                "Cooking",
+                "Cooking, juvenile literature"
+            ],
+            "publisher_facet": [
+                "Stevens Publishing LLLP, Gareth"
+            ],
+            "subject_facet": [
+                "Cooking",
+                "Cooking, juvenile literature",
+                "Indians of north america, juvenile literature",
+                "Indians of north america, social life and customs"
+            ],
+            "_version_": 1767922461416882176,
+            "lcc_sort": "E--0098.00000000.F7S56 2018",
+            "author_facet": [
+                "OL10528389A Melissa Ra\u00e9 Snofner"
+            ],
+            "subject_key": [
+                "cooking",
+                "cooking_juvenile_literature",
+                "indians_of_north_america_juvenile_literature",
+                "indians_of_north_america_social_life_and_customs"
+            ]
+        },
+        {
+            "key": "/works/OL10346016M",
+            "type": "work",
+            "seed": [
+                "/books/OL10346016M",
+                "/works/OL10346016M",
+                "/subjects/business_&_economics_/_general"
+            ],
+            "title": "The 2006-2011 World Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations",
+            "title_suggest": "The 2006-2011 World Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations",
+            "title_sort": "The 2006-2011 World Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations",
+            "edition_count": 1,
+            "edition_key": [
+                "OL10346016M"
+            ],
+            "publish_date": [
+                "April 14, 2005"
+            ],
+            "publish_year": [
+                2005
+            ],
+            "first_publish_year": 2005,
+            "number_of_pages_median": 200,
+            "isbn": [
+                "0497015978",
+                "9780497015978"
+            ],
+            "last_modified_i": 1686044121,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL10346016M",
+            "cover_i": 2428202,
+            "publisher": [
+                "Icon Group International, Inc."
+            ],
+            "subject": [
+                "Business & Economics / General"
+            ],
+            "publisher_facet": [
+                "Icon Group International, Inc."
+            ],
+            "subject_facet": [
+                "Business & Economics / General"
+            ],
+            "_version_": 1767945401827065858,
+            "subject_key": [
+                "business__economics__general"
+            ]
+        },
+        {
+            "key": "/works/OL3322313W",
+            "type": "work",
+            "seed": [
+                "/books/OL10370794M",
+                "/works/OL3322313W",
+                "/authors/OL539875A"
+            ],
+            "title": "The 2007-2012 World Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations",
+            "title_suggest": "The 2007-2012 World Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations",
+            "title_sort": "The 2007-2012 World Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations",
+            "edition_count": 1,
+            "edition_key": [
+                "OL10370794M"
+            ],
+            "publish_date": [
+                "May 18, 2006"
+            ],
+            "publish_year": [
+                2006
+            ],
+            "first_publish_year": 2006,
+            "number_of_pages_median": 199,
+            "isbn": [
+                "9780497263980",
+                "049726398X"
+            ],
+            "last_modified_i": 1272443518,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL10370794M",
+            "cover_i": 2435493,
+            "publisher": [
+                "ICON Group International, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL539875A"
+            ],
+            "author_name": [
+                "Philip M. Parker"
+            ],
+            "author_alternative_name": [
+                "ICON_Group_Ltd.",
+                "ICON Group International, Inc.",
+                "philip M. Parker",
+                "Philip Parker"
+            ],
+            "publisher_facet": [
+                "ICON Group International, Inc."
+            ],
+            "_version_": 1767930186510106625,
+            "author_facet": [
+                "OL539875A Philip M. Parker"
+            ]
+        },
+        {
+            "key": "/works/OL3308426W",
+            "type": "work",
+            "seed": [
+                "/books/OL10398778M",
+                "/works/OL3308426W",
+                "/authors/OL539875A"
+            ],
+            "title": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in Japan",
+            "title_suggest": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in Japan",
+            "title_sort": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in Japan",
+            "edition_count": 1,
+            "edition_key": [
+                "OL10398778M"
+            ],
+            "publish_date": [
+                "September 28, 2006"
+            ],
+            "publish_year": [
+                2006
+            ],
+            "first_publish_year": 2006,
+            "number_of_pages_median": 173,
+            "isbn": [
+                "9780497436940",
+                "0497436949"
+            ],
+            "last_modified_i": 1272443483,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL10398778M",
+            "cover_i": 2450562,
+            "publisher": [
+                "ICON Group International, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL539875A"
+            ],
+            "author_name": [
+                "Philip M. Parker"
+            ],
+            "author_alternative_name": [
+                "ICON_Group_Ltd.",
+                "ICON Group International, Inc.",
+                "Philip Parker",
+                "philip M. Parker"
+            ],
+            "id_goodreads": [
+                "6419630"
+            ],
+            "publisher_facet": [
+                "ICON Group International, Inc."
+            ],
+            "_version_": 1767929856102760450,
+            "author_facet": [
+                "OL539875A Philip M. Parker"
+            ]
+        },
+        {
+            "key": "/works/OL3308425W",
+            "type": "work",
+            "seed": [
+                "/books/OL10402451M",
+                "/works/OL3308425W",
+                "/authors/OL539875A"
+            ],
+            "title": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in India",
+            "title_suggest": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in India",
+            "title_sort": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in India",
+            "edition_count": 1,
+            "edition_key": [
+                "OL10402451M"
+            ],
+            "publish_date": [
+                "September 28, 2006"
+            ],
+            "publish_year": [
+                2006
+            ],
+            "first_publish_year": 2006,
+            "number_of_pages_median": 323,
+            "isbn": [
+                "9780497476793",
+                "0497476797"
+            ],
+            "last_modified_i": 1272443483,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL10402451M",
+            "cover_i": 2454236,
+            "publisher": [
+                "ICON Group International, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL539875A"
+            ],
+            "author_name": [
+                "Philip M. Parker"
+            ],
+            "author_alternative_name": [
+                "ICON_Group_Ltd.",
+                "ICON Group International, Inc.",
+                "Philip Parker",
+                "philip M. Parker"
+            ],
+            "id_goodreads": [
+                "6419631"
+            ],
+            "publisher_facet": [
+                "ICON Group International, Inc."
+            ],
+            "_version_": 1767929856547356672,
+            "author_facet": [
+                "OL539875A Philip M. Parker"
+            ]
+        },
+        {
+            "key": "/works/OL3308424W",
+            "type": "work",
+            "seed": [
+                "/books/OL10380896M",
+                "/works/OL3308424W",
+                "/authors/OL539875A"
+            ],
+            "title": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in Greater China",
+            "title_suggest": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in Greater China",
+            "title_sort": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in Greater China",
+            "edition_count": 1,
+            "edition_key": [
+                "OL10380896M"
+            ],
+            "publish_date": [
+                "September 28, 2006"
+            ],
+            "publish_year": [
+                2006
+            ],
+            "first_publish_year": 2006,
+            "number_of_pages_median": 144,
+            "isbn": [
+                "9780497380960",
+                "049738096X"
+            ],
+            "last_modified_i": 1272443483,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL10380896M",
+            "cover_i": 2445595,
+            "publisher": [
+                "ICON Group International, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL539875A"
+            ],
+            "author_name": [
+                "Philip M. Parker"
+            ],
+            "author_alternative_name": [
+                "ICON_Group_Ltd.",
+                "ICON Group International, Inc.",
+                "Philip Parker",
+                "philip M. Parker"
+            ],
+            "publisher_facet": [
+                "ICON Group International, Inc."
+            ],
+            "_version_": 1767929856095420416,
+            "author_facet": [
+                "OL539875A Philip M. Parker"
+            ]
+        },
+        {
+            "key": "/works/OL3308427W",
+            "type": "work",
+            "seed": [
+                "/books/OL10407788M",
+                "/works/OL3308427W",
+                "/authors/OL539875A"
+            ],
+            "title": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in the United States",
+            "title_suggest": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in the United States",
+            "title_sort": "The 2007-2012 Outlook for Frozen Succotash, Peas and Carrots, Mixed Vegetables, Vegetables with Pasta, and Other Vegetable Combinations in the United States",
+            "edition_count": 1,
+            "edition_key": [
+                "OL10407788M"
+            ],
+            "publish_date": [
+                "September 28, 2006"
+            ],
+            "publish_year": [
+                2006
+            ],
+            "first_publish_year": 2006,
+            "number_of_pages_median": 708,
+            "isbn": [
+                "9780497537807",
+                "049753780X"
+            ],
+            "last_modified_i": 1272443483,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL10407788M",
+            "cover_i": 2459573,
+            "publisher": [
+                "ICON Group International, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL539875A"
+            ],
+            "author_name": [
+                "Philip M. Parker"
+            ],
+            "author_alternative_name": [
+                "ICON_Group_Ltd.",
+                "ICON Group International, Inc.",
+                "Philip Parker",
+                "philip M. Parker"
+            ],
+            "id_goodreads": [
+                "6419632"
+            ],
+            "publisher_facet": [
+                "ICON Group International, Inc."
+            ],
+            "_version_": 1767929856399507456,
+            "author_facet": [
+                "OL539875A Philip M. Parker"
+            ]
+        },
+        {
+            "key": "/works/OL4323178W",
+            "type": "work",
+            "seed": [
+                "/books/OL12143094M",
+                "/works/OL4323178W",
+                "/subjects/art",
+                "/subjects/handbooks_manuals",
+                "/subjects/marketing",
+                "/authors/OL841752A"
+            ],
+            "title": "How To Find Art Buyers",
+            "title_suggest": "How To Find Art Buyers",
+            "title_sort": "How To Find Art Buyers",
+            "edition_count": 1,
+            "edition_key": [
+                "OL12143094M"
+            ],
+            "publish_date": [
+                "May 1, 1994"
+            ],
+            "publish_year": [
+                1994
+            ],
+            "first_publish_year": 1994,
+            "number_of_pages_median": 150,
+            "oclc": [
+                "82032954"
+            ],
+            "lcc": [
+                "N--8600.00000000.P732 1994"
+            ],
+            "isbn": [
+                "9781881427162",
+                "1881427161"
+            ],
+            "last_modified_i": 1673721036,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "howtofindartbuye0000prat"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL12143094M",
+            "lending_identifier_s": "howtofindartbuye0000prat",
+            "printdisabled_s": "OL12143094M",
+            "cover_edition_key": "OL12143094M",
+            "cover_i": 12706244,
+            "publisher": [
+                "Succotash Press"
+            ],
+            "author_key": [
+                "OL841752A"
+            ],
+            "author_name": [
+                "Nina Pratt"
+            ],
+            "subject": [
+                "Art",
+                "Handbooks, manuals",
+                "Marketing"
+            ],
+            "id_goodreads": [
+                "5918340"
+            ],
+            "ia_box_id": [
+                "IA40420501"
+            ],
+            "publisher_facet": [
+                "Succotash Press"
+            ],
+            "subject_facet": [
+                "Art",
+                "Handbooks, manuals",
+                "Marketing"
+            ],
+            "_version_": 1767935506835832833,
+            "lcc_sort": "N--8600.00000000.P732 1994",
+            "author_facet": [
+                "OL841752A Nina Pratt"
+            ],
+            "subject_key": [
+                "art",
+                "handbooks_manuals",
+                "marketing"
+            ]
+        },
+        {
+            "key": "/works/OL4323179W",
+            "type": "work",
+            "seed": [
+                "/books/OL1746817M",
+                "/works/OL4323179W",
+                "/subjects/art",
+                "/subjects/marketing",
+                "/subjects/place:united_states",
+                "/authors/OL841752A"
+            ],
+            "title": "How to sell art",
+            "title_suggest": "How to sell art",
+            "title_sort": "How to sell art",
+            "edition_count": 1,
+            "edition_key": [
+                "OL1746817M"
+            ],
+            "publish_date": [
+                "1992"
+            ],
+            "publish_year": [
+                1992
+            ],
+            "first_publish_year": 1992,
+            "number_of_pages_median": 166,
+            "lccn": [
+                "92060878"
+            ],
+            "publish_place": [
+                "New York"
+            ],
+            "oclc": [
+                "28018218"
+            ],
+            "lcc": [
+                "N--8600.00000000.P7 1992"
+            ],
+            "ddc": [
+                "706.88"
+            ],
+            "isbn": [
+                "9781881427148",
+                "1881427145"
+            ],
+            "last_modified_i": 1605446312,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL1746817M",
+            "cover_i": 927765,
+            "publisher": [
+                "Succotash Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL841752A"
+            ],
+            "author_name": [
+                "Nina Pratt"
+            ],
+            "place": [
+                "United States"
+            ],
+            "subject": [
+                "Art",
+                "Marketing"
+            ],
+            "id_goodreads": [
+                "3815050"
+            ],
+            "id_librarything": [
+                "1405050"
+            ],
+            "publisher_facet": [
+                "Succotash Press"
+            ],
+            "place_key": [
+                "united_states"
+            ],
+            "subject_facet": [
+                "Art",
+                "Marketing"
+            ],
+            "_version_": 1767935506913427457,
+            "place_facet": [
+                "United States"
+            ],
+            "lcc_sort": "N--8600.00000000.P7 1992",
+            "author_facet": [
+                "OL841752A Nina Pratt"
+            ],
+            "subject_key": [
+                "art",
+                "marketing"
+            ],
+            "ddc_sort": "706.88"
+        },
+        {
+            "key": "/works/OL9752174W",
+            "type": "work",
+            "seed": [
+                "/books/OL11786105M",
+                "/works/OL9752174W",
+                "/subjects/appalachians_(people)",
+                "/subjects/fiction",
+                "/subjects/mountain_life",
+                "/subjects/trailer_camps",
+                "/subjects/american_satire",
+                "/subjects/american_humorous_stories",
+                "/subjects/social_life_and_customs",
+                "/subjects/manners_and_customs",
+                "/authors/OL3742662A"
+            ],
+            "title": "The Trailer Trash Chronicles",
+            "title_suggest": "The Trailer Trash Chronicles",
+            "title_sort": "The Trailer Trash Chronicles",
+            "edition_count": 1,
+            "edition_key": [
+                "OL11786105M"
+            ],
+            "publish_date": [
+                "July 15, 2003"
+            ],
+            "publish_year": [
+                2003
+            ],
+            "first_publish_year": 2003,
+            "number_of_pages_median": 337,
+            "lccn": [
+                "2002110677"
+            ],
+            "oclc": [
+                "53405592"
+            ],
+            "isbn": [
+                "9780972311205",
+                "0972311203"
+            ],
+            "last_modified_i": 1673741332,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "trailertrashchro0000jame"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL11786105M",
+            "lending_identifier_s": "trailertrashchro0000jame",
+            "printdisabled_s": "OL11786105M",
+            "cover_edition_key": "OL11786105M",
+            "cover_i": 2716982,
+            "publisher": [
+                "Succotash Publishing"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3742662A"
+            ],
+            "author_name": [
+                "Leigh Adrien James"
+            ],
+            "subject": [
+                "Appalachians (People)",
+                "Fiction",
+                "Mountain life",
+                "Trailer camps",
+                "American Satire",
+                "American Humorous stories",
+                "Social life and customs",
+                "Manners and customs"
+            ],
+            "id_goodreads": [
+                "1227344"
+            ],
+            "ia_box_id": [
+                "IA40124116"
+            ],
+            "publisher_facet": [
+                "Succotash Publishing"
+            ],
+            "subject_facet": [
+                "American Humorous stories",
+                "American Satire",
+                "Appalachians (People)",
+                "Fiction",
+                "Manners and customs",
+                "Mountain life",
+                "Social life and customs",
+                "Trailer camps"
+            ],
+            "_version_": 1767944842446372865,
+            "author_facet": [
+                "OL3742662A Leigh Adrien James"
+            ],
+            "subject_key": [
+                "american_humorous_stories",
+                "american_satire",
+                "appalachians_(people)",
+                "fiction",
+                "manners_and_customs",
+                "mountain_life",
+                "social_life_and_customs",
+                "trailer_camps"
+            ]
+        }
+    ],
+    "num_found": 24,
+    "q": "succotash",
+    "offset": null
+}

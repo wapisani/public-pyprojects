@@ -1,0 +1,6363 @@
+{
+    "numFound": 403,
+    "start": 0,
+    "numFoundExact": true,
+    "docs": [
+        {
+            "key": "/works/OL13388135W",
+            "type": "work",
+            "seed": [
+                "/books/OL21457121M",
+                "/works/OL13388135W",
+                "/authors/OL6278548A"
+            ],
+            "title": "Cider apple production",
+            "title_suggest": "Cider apple production",
+            "title_sort": "Cider apple production",
+            "edition_count": 1,
+            "edition_key": [
+                "OL21457121M"
+            ],
+            "publish_date": [
+                "1954"
+            ],
+            "publish_year": [
+                1954
+            ],
+            "first_publish_year": 1954,
+            "number_of_pages_median": 64,
+            "ddc": [
+                "634.11"
+            ],
+            "last_modified_i": 1264618728,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "H.M.S.O"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6278548A"
+            ],
+            "author_name": [
+                "Bertie Thomas Percival Barker"
+            ],
+            "publisher_facet": [
+                "H.M.S.O"
+            ],
+            "_version_": 1767896495099478017,
+            "author_facet": [
+                "OL6278548A Bertie Thomas Percival Barker"
+            ],
+            "ddc_sort": "634.11"
+        },
+        {
+            "key": "/works/OL36232213W",
+            "type": "work",
+            "seed": [
+                "/books/OL48961753M",
+                "/works/OL36232213W",
+                "/authors/OL13041800A"
+            ],
+            "title": "Apple Cider Vinegar : Benefits of Drinking Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar : Benefits of Drinking Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar : Benefits of Drinking Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48961753M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798730016453"
+            ],
+            "last_modified_i": 1689637797,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13041800A"
+            ],
+            "author_name": [
+                "Waylon Stoutamyer"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1771713645490733056,
+            "author_facet": [
+                "OL13041800A Waylon Stoutamyer"
+            ]
+        },
+        {
+            "key": "/works/OL5729100W",
+            "type": "work",
+            "seed": [
+                "/books/OL3951220M",
+                "/books/OL29608686M",
+                "/works/OL5729100W",
+                "/subjects/fiction",
+                "/subjects/farm_life",
+                "/subjects/harvesting",
+                "/subjects/apples",
+                "/subjects/children's_fiction",
+                "/subjects/food_fiction",
+                "/subjects/farm_life_fiction",
+                "/authors/OL1392967A"
+            ],
+            "title": "Apple cider making days",
+            "title_suggest": "Apple cider making days",
+            "title_sort": "Apple cider making days",
+            "edition_count": 2,
+            "edition_key": [
+                "OL3951220M",
+                "OL29608686M"
+            ],
+            "publish_date": [
+                "2002",
+                "2011"
+            ],
+            "publish_year": [
+                2002,
+                2011
+            ],
+            "first_publish_year": 2002,
+            "number_of_pages_median": 32,
+            "lccn": [
+                "2001044920"
+            ],
+            "publish_place": [
+                "Brookfield, Conn"
+            ],
+            "oclc": [
+                "48092146"
+            ],
+            "contributor": [
+                "Friar, Joanne H., ill."
+            ],
+            "lcc": [
+                "PZ-0007.00000000.P977 Ap 2002",
+                "PZ-0007.00000000.P977Ap 2002"
+            ],
+            "ddc": [
+                "[E]"
+            ],
+            "isbn": [
+                "9780761323648",
+                "9780761389279",
+                "076138927X",
+                "0761323643"
+            ],
+            "last_modified_i": 1673722909,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "applecidermaking0000purm"
+            ],
+            "ia_collection": [
+                "bpljordan-ol",
+                "cnusd-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "openlibrary-d-ol",
+                "printdisabled",
+                "uni-ol"
+            ],
+            "ia_collection_s": "bpljordan-ol;cnusd-ol;inlibrary;internetarchivebooks;openlibrary-d-ol;printdisabled;uni-ol",
+            "lending_edition_s": "OL3951220M",
+            "lending_identifier_s": "applecidermaking0000purm",
+            "printdisabled_s": "OL3951220M",
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL3951220M",
+            "cover_i": 1424234,
+            "publisher": [
+                "Lerner Publishing Group",
+                "Millbrook Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1392967A"
+            ],
+            "author_name": [
+                "Ann Purmell"
+            ],
+            "subject": [
+                "Fiction",
+                "Farm life",
+                "Harvesting",
+                "Apples",
+                "Children's fiction",
+                "Food, fiction",
+                "Farm life, fiction"
+            ],
+            "id_goodreads": [
+                "2510359"
+            ],
+            "id_librarything": [
+                "5042940"
+            ],
+            "ia_box_id": [
+                "IA40267623"
+            ],
+            "publisher_facet": [
+                "Lerner Publishing Group",
+                "Millbrook Press"
+            ],
+            "subject_facet": [
+                "Apples",
+                "Children's fiction",
+                "Farm life",
+                "Farm life, fiction",
+                "Fiction",
+                "Food, fiction",
+                "Harvesting"
+            ],
+            "_version_": 1767938190203682818,
+            "lcc_sort": "PZ-0007.00000000.P977 Ap 2002",
+            "author_facet": [
+                "OL1392967A Ann Purmell"
+            ],
+            "subject_key": [
+                "apples",
+                "children's_fiction",
+                "farm_life",
+                "farm_life_fiction",
+                "fiction",
+                "food_fiction",
+                "harvesting"
+            ],
+            "ddc_sort": "[E]"
+        },
+        {
+            "key": "/works/OL11593296W",
+            "type": "work",
+            "seed": [
+                "/books/OL17582430M",
+                "/works/OL11593296W",
+                "/authors/OL4892258A"
+            ],
+            "title": "Cider apples",
+            "title_suggest": "Cider apples",
+            "title_sort": "Cider apples",
+            "edition_count": 1,
+            "edition_key": [
+                "OL17582430M"
+            ],
+            "publish_date": [
+                "1996"
+            ],
+            "publish_year": [
+                1996
+            ],
+            "first_publish_year": 1996,
+            "number_of_pages_median": 24,
+            "publish_place": [
+                "London"
+            ],
+            "ddc": [
+                "823.914"
+            ],
+            "isbn": [
+                "0862646227",
+                "9780862646226"
+            ],
+            "last_modified_i": 1282118379,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Andersen"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4892258A"
+            ],
+            "author_name": [
+                "Sandy Nightingale"
+            ],
+            "id_goodreads": [
+                "4154798"
+            ],
+            "id_librarything": [
+                "1742968"
+            ],
+            "publisher_facet": [
+                "Andersen"
+            ],
+            "_version_": 1767892839226671104,
+            "author_facet": [
+                "OL4892258A Sandy Nightingale"
+            ],
+            "ddc_sort": "823.914"
+        },
+        {
+            "key": "/works/OL2980864W",
+            "type": "work",
+            "seed": [
+                "/books/OL812103M",
+                "/works/OL2980864W",
+                "/subjects/fiction",
+                "/subjects/magic",
+                "/subjects/fairies",
+                "/subjects/apples",
+                "/subjects/grandmothers",
+                "/subjects/juvenile_fiction",
+                "/authors/OL456239A"
+            ],
+            "title": "Cider apples",
+            "title_suggest": "Cider apples",
+            "title_sort": "Cider apples",
+            "edition_count": 1,
+            "edition_key": [
+                "OL812103M"
+            ],
+            "publish_date": [
+                "1996"
+            ],
+            "publish_year": [
+                1996
+            ],
+            "first_publish_year": 1996,
+            "lccn": [
+                "95049311"
+            ],
+            "publish_place": [
+                "San Diego"
+            ],
+            "oclc": [
+                "33819137"
+            ],
+            "lcc": [
+                "PZ-0007.00000000.N5845 Ci 1996"
+            ],
+            "ddc": [
+                "[E]"
+            ],
+            "isbn": [
+                "0152012443",
+                "9780152012441"
+            ],
+            "last_modified_i": 1605879390,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "ciderapples00nigh"
+            ],
+            "ia_collection": [
+                "americana",
+                "bpljordan-ol",
+                "cnusd-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled",
+                "universityofcoloradoboulder-ol",
+                "universityofoklahoma-ol"
+            ],
+            "ia_collection_s": "americana;bpljordan-ol;cnusd-ol;inlibrary;internetarchivebooks;printdisabled;universityofcoloradoboulder-ol;universityofoklahoma-ol",
+            "lending_edition_s": "OL812103M",
+            "lending_identifier_s": "ciderapples00nigh",
+            "printdisabled_s": "OL812103M",
+            "ratings_count_1": 0,
+            "ratings_count_2": 0,
+            "ratings_count_3": 0,
+            "ratings_count_4": 0,
+            "ratings_count_5": 1,
+            "ratings_average": 5.0,
+            "ratings_sortable": 2.4036636,
+            "ratings_count": 1,
+            "readinglog_count": 2,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 1,
+            "cover_edition_key": "OL812103M",
+            "cover_i": 112930,
+            "publisher": [
+                "Harcourt Brace & Co."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL456239A"
+            ],
+            "author_name": [
+                "Sandy Nightingale"
+            ],
+            "subject": [
+                "Fiction",
+                "Magic",
+                "Fairies",
+                "Apples",
+                "Grandmothers",
+                "Juvenile fiction"
+            ],
+            "id_goodreads": [
+                "1871782"
+            ],
+            "id_librarything": [
+                "1742968"
+            ],
+            "ia_box_id": [
+                "IA138211",
+                "IA1399303"
+            ],
+            "publisher_facet": [
+                "Harcourt Brace & Co."
+            ],
+            "subject_facet": [
+                "Apples",
+                "Fairies",
+                "Fiction",
+                "Grandmothers",
+                "Juvenile fiction",
+                "Magic"
+            ],
+            "_version_": 1767924829933010945,
+            "lcc_sort": "PZ-0007.00000000.N5845 Ci 1996",
+            "author_facet": [
+                "OL456239A Sandy Nightingale"
+            ],
+            "subject_key": [
+                "apples",
+                "fairies",
+                "fiction",
+                "grandmothers",
+                "juvenile_fiction",
+                "magic"
+            ],
+            "ddc_sort": "[E]"
+        },
+        {
+            "key": "/works/OL29950271W",
+            "type": "work",
+            "seed": [
+                "/books/OL41177376M",
+                "/works/OL29950271W",
+                "/authors/OL7504239A"
+            ],
+            "title": "Detox with Apple Cider Vinegar",
+            "title_suggest": "Detox with Apple Cider Vinegar",
+            "title_sort": "Detox with Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41177376M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1795031247",
+                "9781795031240"
+            ],
+            "last_modified_i": 1669240103,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7504239A"
+            ],
+            "author_name": [
+                "Daniel Humphreys"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925188541808640,
+            "author_facet": [
+                "OL7504239A Daniel Humphreys"
+            ]
+        },
+        {
+            "key": "/works/OL29680464W",
+            "type": "work",
+            "seed": [
+                "/books/OL40829594M",
+                "/works/OL29680464W",
+                "/authors/OL7504239A"
+            ],
+            "title": "Detox with Apple Cider Vinegar",
+            "title_suggest": "Detox with Apple Cider Vinegar",
+            "title_sort": "Detox with Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40829594M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "1983376078",
+                "9781983376078"
+            ],
+            "last_modified_i": 1669035471,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7504239A"
+            ],
+            "author_name": [
+                "Daniel Humphreys"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924568293376001,
+            "author_facet": [
+                "OL7504239A Daniel Humphreys"
+            ]
+        },
+        {
+            "key": "/works/OL36234015W",
+            "type": "work",
+            "seed": [
+                "/books/OL48963656M",
+                "/works/OL36234015W",
+                "/authors/OL13042993A"
+            ],
+            "title": "Apple Cider Vinegar Diet : Health Benefit of Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar Diet : Health Benefit of Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar Diet : Health Benefit of Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48963656M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798730011045"
+            ],
+            "last_modified_i": 1689638204,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13042993A"
+            ],
+            "author_name": [
+                "Alonzo Swerdlow"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1771714071759945728,
+            "author_facet": [
+                "OL13042993A Alonzo Swerdlow"
+            ]
+        },
+        {
+            "key": "/works/OL34380823W",
+            "type": "work",
+            "seed": [
+                "/books/OL46639433M",
+                "/works/OL34380823W",
+                "/authors/OL12440999A"
+            ],
+            "title": "Amazing Apple Cider Vinegar",
+            "title_suggest": "Amazing Apple Cider Vinegar",
+            "title_sort": "Amazing Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46639433M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798364324825"
+            ],
+            "last_modified_i": 1676624171,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL12440999A"
+            ],
+            "author_name": [
+                "Glennie Dellasciucca"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767931988265664512,
+            "author_facet": [
+                "OL12440999A Glennie Dellasciucca"
+            ]
+        },
+        {
+            "key": "/works/OL29974256W",
+            "type": "work",
+            "seed": [
+                "/books/OL41209227M",
+                "/works/OL29974256W",
+                "/authors/OL11045966A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41209227M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781077234383",
+                "1077234384"
+            ],
+            "last_modified_i": 1669258084,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11045966A"
+            ],
+            "author_name": [
+                "Larry S. Lambert"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925170512592896,
+            "author_facet": [
+                "OL11045966A Larry S. Lambert"
+            ]
+        },
+        {
+            "key": "/works/OL30284799W",
+            "type": "work",
+            "seed": [
+                "/books/OL41633689M",
+                "/works/OL30284799W",
+                "/authors/OL11116397A"
+            ],
+            "title": "Apple Cider Vinegar Lover",
+            "title_suggest": "Apple Cider Vinegar Lover",
+            "title_sort": "Apple Cider Vinegar Lover",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41633689M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781705437896",
+                "1705437893"
+            ],
+            "last_modified_i": 1669506134,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11116397A"
+            ],
+            "author_name": [
+                "Apple Apple Lover"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925676663373825,
+            "author_facet": [
+                "OL11116397A Apple Apple Lover"
+            ]
+        },
+        {
+            "key": "/works/OL8555648W",
+            "type": "work",
+            "seed": [
+                "/books/OL8114215M",
+                "/books/OL29893599M",
+                "/works/OL8555648W",
+                "/authors/OL2867331A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 2,
+            "edition_key": [
+                "OL8114215M",
+                "OL29893599M"
+            ],
+            "publish_date": [
+                "2020",
+                "March 25, 2006"
+            ],
+            "publish_year": [
+                2006,
+                2020
+            ],
+            "first_publish_year": 2006,
+            "number_of_pages_median": 146,
+            "isbn": [
+                "9780877900450",
+                "0877900795",
+                "0877900450",
+                "9780877900795"
+            ],
+            "last_modified_i": 1670374446,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "applecidervinega00patr_0"
+            ],
+            "ia_collection": [
+                "china",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "china;inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL8114215M",
+            "lending_identifier_s": "applecidervinega00patr_0",
+            "printdisabled_s": "OL8114215M",
+            "readinglog_count": 3,
+            "want_to_read_count": 3,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL8114215M",
+            "cover_i": 672200,
+            "publisher": [
+                "Health Science",
+                "Bragg Health Sciences"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2867331A"
+            ],
+            "author_name": [
+                "Patricia Bragg"
+            ],
+            "id_goodreads": [
+                "292307"
+            ],
+            "id_librarything": [
+                "771911"
+            ],
+            "ia_box_id": [
+                "IA1106413"
+            ],
+            "publisher_facet": [
+                "Bragg Health Sciences",
+                "Health Science"
+            ],
+            "_version_": 1767942921100722176,
+            "author_facet": [
+                "OL2867331A Patricia Bragg"
+            ]
+        },
+        {
+            "key": "/works/OL13248124W",
+            "type": "work",
+            "seed": [
+                "/books/OL20879165M",
+                "/books/OL20879172M",
+                "/works/OL13248124W",
+                "/authors/OL6152982A"
+            ],
+            "title": "Cider apple vinegar",
+            "title_suggest": "Cider apple vinegar",
+            "title_sort": "Cider apple vinegar",
+            "edition_count": 2,
+            "edition_key": [
+                "OL20879165M",
+                "OL20879172M"
+            ],
+            "publish_date": [
+                "1978",
+                "1971"
+            ],
+            "publish_year": [
+                1978,
+                1971
+            ],
+            "first_publish_year": 1971,
+            "publish_place": [
+                "Melbourne",
+                "Wellingborough"
+            ],
+            "oclc": [
+                "221472072",
+                "220096565"
+            ],
+            "isbn": [
+                "0909911924",
+                "9780909911089",
+                "9780909911928",
+                "0909911088"
+            ],
+            "last_modified_i": 1303970445,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Science of Life Books Pty. Ltd",
+                "Thorsons",
+                "Science of Life Books"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6152982A"
+            ],
+            "author_name": [
+                "H. Hawksey"
+            ],
+            "id_goodreads": [
+                "6108693"
+            ],
+            "publisher_facet": [
+                "Science of Life Books",
+                "Science of Life Books Pty. Ltd",
+                "Thorsons"
+            ],
+            "_version_": 1767896082945146882,
+            "author_facet": [
+                "OL6152982A H. Hawksey"
+            ]
+        },
+        {
+            "key": "/works/OL28608859W",
+            "type": "work",
+            "seed": [
+                "/books/OL39226873M",
+                "/works/OL28608859W",
+                "/subjects/alternative_medicine",
+                "/subjects/vinegar",
+                "/authors/OL2867331A",
+                "/authors/OL7322814A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL39226873M"
+            ],
+            "publish_date": [
+                "2000"
+            ],
+            "publish_year": [
+                2000
+            ],
+            "first_publish_year": 2000,
+            "isbn": [
+                "9781854107312",
+                "1854107313"
+            ],
+            "last_modified_i": 1660705722,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Quarto Publishing Group UK"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2867331A",
+                "OL7322814A"
+            ],
+            "author_name": [
+                "Patricia Bragg",
+                "Paul C. Bragg"
+            ],
+            "subject": [
+                "Alternative medicine",
+                "Vinegar"
+            ],
+            "publisher_facet": [
+                "Quarto Publishing Group UK"
+            ],
+            "subject_facet": [
+                "Alternative medicine",
+                "Vinegar"
+            ],
+            "_version_": 1767922739605143552,
+            "author_facet": [
+                "OL2867331A Patricia Bragg",
+                "OL7322814A Paul C. Bragg"
+            ],
+            "subject_key": [
+                "alternative_medicine",
+                "vinegar"
+            ]
+        },
+        {
+            "key": "/works/OL8555664W",
+            "type": "work",
+            "seed": [
+                "/books/OL8114212M",
+                "/works/OL8555664W",
+                "/authors/OL2867334A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8114212M"
+            ],
+            "publish_date": [
+                "April 1997"
+            ],
+            "publish_year": [
+                1997
+            ],
+            "first_publish_year": 1997,
+            "number_of_pages_median": 67,
+            "isbn": [
+                "0877900418",
+                "9780877900412"
+            ],
+            "last_modified_i": 1281387117,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL8114212M",
+            "cover_i": 672197,
+            "publisher": [
+                "Health Science Pubns"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2867334A"
+            ],
+            "author_name": [
+                "Paul C.; Bragg, Patricia Bragg"
+            ],
+            "id_librarything": [
+                "771911"
+            ],
+            "publisher_facet": [
+                "Health Science Pubns"
+            ],
+            "_version_": 1767942921406906368,
+            "author_facet": [
+                "OL2867334A Paul C.; Bragg, Patricia Bragg"
+            ]
+        },
+        {
+            "key": "/works/OL10491486W",
+            "type": "work",
+            "seed": [
+                "/books/OL13701770M",
+                "/works/OL10491486W",
+                "/authors/OL4353560A"
+            ],
+            "title": "The modern cider apple orchard",
+            "title_suggest": "The modern cider apple orchard",
+            "title_sort": "The modern cider apple orchard",
+            "edition_count": 1,
+            "edition_key": [
+                "OL13701770M"
+            ],
+            "publish_date": [
+                "1979"
+            ],
+            "publish_year": [
+                1979
+            ],
+            "first_publish_year": 1979,
+            "publish_place": [
+                "Pinner"
+            ],
+            "contributor": [
+                "Agricultural Development and Advisory Service."
+            ],
+            "ddc": [
+                "634.11"
+            ],
+            "last_modified_i": 1260841708,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Ministry of Agriculture, Fisheries and Food"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4353560A"
+            ],
+            "author_name": [
+                "J C. Davies"
+            ],
+            "publisher_facet": [
+                "Ministry of Agriculture, Fisheries and Food"
+            ],
+            "_version_": 1767890859922030592,
+            "author_facet": [
+                "OL4353560A J C. Davies"
+            ],
+            "ddc_sort": "634.11"
+        },
+        {
+            "key": "/works/OL10563534W",
+            "type": "work",
+            "seed": [
+                "/books/OL14139616M",
+                "/works/OL10563534W",
+                "/authors/OL4387336A"
+            ],
+            "title": "The modern cider apple orchard",
+            "title_suggest": "The modern cider apple orchard",
+            "title_sort": "The modern cider apple orchard",
+            "edition_count": 1,
+            "edition_key": [
+                "OL14139616M"
+            ],
+            "publish_date": [
+                "1979"
+            ],
+            "publish_year": [
+                1979
+            ],
+            "first_publish_year": 1979,
+            "publish_place": [
+                "Pinner"
+            ],
+            "last_modified_i": 1260842463,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Ministry of Agriculture, Fisheries and Food"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4387336A"
+            ],
+            "author_name": [
+                "Agricultural Development and Advisory Service."
+            ],
+            "author_alternative_name": [
+                "Agricultural Development and advisory service.",
+                "Agricultural development and advisory service.",
+                "Agricultural Development and Advisory service.",
+                "AGRICULTURAL DEVELOPMENT AND ADVISORY SERVICE."
+            ],
+            "publisher_facet": [
+                "Ministry of Agriculture, Fisheries and Food"
+            ],
+            "_version_": 1767890861592412161,
+            "author_facet": [
+                "OL4387336A Agricultural Development and Advisory Service."
+            ]
+        },
+        {
+            "key": "/works/OL20325136W",
+            "type": "work",
+            "seed": [
+                "/books/OL27531205M",
+                "/works/OL20325136W",
+                "/authors/OL7704330A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27531205M"
+            ],
+            "publish_date": [
+                "Nov 18, 2014"
+            ],
+            "publish_year": [
+                2014
+            ],
+            "first_publish_year": 2014,
+            "number_of_pages_median": 4,
+            "isbn": [
+                "1632873370",
+                "9781632873378"
+            ],
+            "last_modified_i": 1571732943,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL27531205M",
+            "cover_i": 8987115,
+            "publisher": [
+                "Speedy Title Management LLC"
+            ],
+            "author_key": [
+                "OL7704330A"
+            ],
+            "author_name": [
+                "Anne V. Parsons"
+            ],
+            "id_amazon": [
+                "1632873370"
+            ],
+            "publisher_facet": [
+                "Speedy Title Management LLC"
+            ],
+            "_version_": 1767908380709486592,
+            "author_facet": [
+                "OL7704330A Anne V. Parsons"
+            ]
+        },
+        {
+            "key": "/works/OL36269664W",
+            "type": "work",
+            "seed": [
+                "/books/OL49009317M",
+                "/works/OL36269664W",
+                "/authors/OL13054325A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL49009317M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798475734032"
+            ],
+            "last_modified_i": 1689648690,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13054325A"
+            ],
+            "author_name": [
+                "Michael Caro"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1771725066492444672,
+            "author_facet": [
+                "OL13054325A Michael Caro"
+            ]
+        },
+        {
+            "key": "/works/OL3815816W",
+            "type": "work",
+            "seed": [
+                "/books/OL11615567M",
+                "/works/OL3815816W",
+                "/authors/OL678023A"
+            ],
+            "title": "Apples, Berkshire, Cider",
+            "title_suggest": "Apples, Berkshire, Cider",
+            "title_sort": "Apples, Berkshire, Cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL11615567M"
+            ],
+            "publish_date": [
+                "November 1996"
+            ],
+            "publish_year": [
+                1996
+            ],
+            "first_publish_year": 1996,
+            "number_of_pages_median": 36,
+            "oclc": [
+                "37464707"
+            ],
+            "contributor": [
+                "Peter Hay (Illustrator)",
+                "Pip Hall (Illustrator)"
+            ],
+            "isbn": [
+                "0952370174",
+                "9780952370178"
+            ],
+            "last_modified_i": 1304063897,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Two Rivers Press"
+            ],
+            "author_key": [
+                "OL678023A"
+            ],
+            "author_name": [
+                "Duncan Mackay"
+            ],
+            "id_goodreads": [
+                "4077651"
+            ],
+            "publisher_facet": [
+                "Two Rivers Press"
+            ],
+            "_version_": 1767934601684058112,
+            "author_facet": [
+                "OL678023A Duncan Mackay"
+            ]
+        },
+        {
+            "key": "/works/OL25861605W",
+            "type": "work",
+            "seed": [
+                "/books/OL34884803M",
+                "/works/OL25861605W",
+                "/subjects/fiction_historical_general",
+                "/authors/OL9780275A"
+            ],
+            "title": "Apple Cider Pup",
+            "title_suggest": "Apple Cider Pup",
+            "title_sort": "Apple Cider Pup",
+            "edition_count": 1,
+            "edition_key": [
+                "OL34884803M"
+            ],
+            "publish_date": [
+                "2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "isbn": [
+                "0692500189",
+                "9780692500187"
+            ],
+            "last_modified_i": 1633737226,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Apple Cider Pup"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9780275A"
+            ],
+            "author_name": [
+                "Maranda Zimmerman"
+            ],
+            "subject": [
+                "Fiction, historical, general"
+            ],
+            "publisher_facet": [
+                "Apple Cider Pup"
+            ],
+            "subject_facet": [
+                "Fiction, historical, general"
+            ],
+            "_version_": 1767918208922157056,
+            "author_facet": [
+                "OL9780275A Maranda Zimmerman"
+            ],
+            "subject_key": [
+                "fiction_historical_general"
+            ]
+        },
+        {
+            "key": "/works/OL25451783W",
+            "type": "work",
+            "seed": [
+                "/books/OL34129007M",
+                "/works/OL25451783W",
+                "/authors/OL680596A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL34129007M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 80,
+            "isbn": [
+                "9798673413135"
+            ],
+            "last_modified_i": 1633003177,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL680596A"
+            ],
+            "author_name": [
+                "Emily George"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767917548814204928,
+            "author_facet": [
+                "OL680596A Emily George"
+            ]
+        },
+        {
+            "key": "/works/OL26596476W",
+            "type": "work",
+            "seed": [
+                "/books/OL36012260M",
+                "/works/OL26596476W",
+                "/subjects/pharmacology",
+                "/authors/OL2864928A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36012260M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "1640301801",
+                "9781640301801"
+            ],
+            "last_modified_i": 1670527217,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Publications International, Limited"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2864928A"
+            ],
+            "author_name": [
+                "Publications International"
+            ],
+            "subject": [
+                "Pharmacology"
+            ],
+            "publisher_facet": [
+                "Publications International, Limited"
+            ],
+            "subject_facet": [
+                "Pharmacology"
+            ],
+            "_version_": 1767919390836129792,
+            "author_facet": [
+                "OL2864928A Publications International"
+            ],
+            "subject_key": [
+                "pharmacology"
+            ]
+        },
+        {
+            "key": "/works/OL28048902W",
+            "type": "work",
+            "seed": [
+                "/books/OL38385958M",
+                "/works/OL28048902W",
+                "/subjects/vinegar",
+                "/authors/OL8040476A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38385958M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "lcc": [
+                "RM-0666.00000000.V55.A77 2018"
+            ],
+            "isbn": [
+                "9781640301573",
+                "1640301577"
+            ],
+            "last_modified_i": 1673384635,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Publications International, Limited"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8040476A"
+            ],
+            "author_name": [
+                "Publications International Ltd. Staff"
+            ],
+            "subject": [
+                "Vinegar"
+            ],
+            "publisher_facet": [
+                "Publications International, Limited"
+            ],
+            "subject_facet": [
+                "Vinegar"
+            ],
+            "_version_": 1767921814383624192,
+            "lcc_sort": "RM-0666.00000000.V55.A77 2018",
+            "author_facet": [
+                "OL8040476A Publications International Ltd. Staff"
+            ],
+            "subject_key": [
+                "vinegar"
+            ]
+        },
+        {
+            "key": "/works/OL20796276W",
+            "type": "work",
+            "seed": [
+                "/books/OL28150729M",
+                "/works/OL20796276W",
+                "/authors/OL7796493A"
+            ],
+            "title": "Apple Cider Murder",
+            "title_suggest": "Apple Cider Murder",
+            "title_sort": "Apple Cider Murder",
+            "edition_count": 1,
+            "edition_key": [
+                "OL28150729M"
+            ],
+            "publish_date": [
+                "Apr 15, 2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "number_of_pages_median": 186,
+            "isbn": [
+                "1094688878",
+                "9781094688879"
+            ],
+            "last_modified_i": 1669315575,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL28150729M",
+            "cover_i": 10091423,
+            "publisher": [
+                "Independently published"
+            ],
+            "author_key": [
+                "OL7796493A"
+            ],
+            "author_name": [
+                "Summer Prescott"
+            ],
+            "publisher_facet": [
+                "Independently published"
+            ],
+            "_version_": 1767909395140706304,
+            "author_facet": [
+                "OL7796493A Summer Prescott"
+            ]
+        },
+        {
+            "key": "/works/OL21214967W",
+            "type": "work",
+            "seed": [
+                "/books/OL28729666M",
+                "/works/OL21214967W",
+                "/authors/OL7414809A"
+            ],
+            "title": "Apple Cider Slaying",
+            "title_suggest": "Apple Cider Slaying",
+            "title_sort": "Apple Cider Slaying",
+            "edition_count": 1,
+            "edition_key": [
+                "OL28729666M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "number_of_pages_median": 336,
+            "isbn": [
+                "9781496723475",
+                "1496723473"
+            ],
+            "last_modified_i": 1670623669,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Penguin Random House"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7414809A"
+            ],
+            "author_name": [
+                "Julie Anne Lindsey"
+            ],
+            "publisher_facet": [
+                "Penguin Random House"
+            ],
+            "_version_": 1767910309769510912,
+            "author_facet": [
+                "OL7414809A Julie Anne Lindsey"
+            ]
+        },
+        {
+            "key": "/works/OL9572294W",
+            "type": "work",
+            "seed": [
+                "/books/OL11227251M",
+                "/works/OL9572294W",
+                "/authors/OL3574131A"
+            ],
+            "title": "Making apple cider",
+            "title_suggest": "Making apple cider",
+            "title_sort": "Making apple cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL11227251M"
+            ],
+            "publish_date": [
+                "1975"
+            ],
+            "publish_year": [
+                1975
+            ],
+            "first_publish_year": 1975,
+            "number_of_pages_median": 24,
+            "oclc": [
+                "1845014"
+            ],
+            "isbn": [
+                "9780882660387",
+                "0882660381"
+            ],
+            "last_modified_i": 1304148719,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Garden Way"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3574131A"
+            ],
+            "author_name": [
+                "Judy Raven"
+            ],
+            "publisher_facet": [
+                "Garden Way"
+            ],
+            "_version_": 1767944629404041216,
+            "author_facet": [
+                "OL3574131A Judy Raven"
+            ]
+        },
+        {
+            "key": "/works/OL9878920W",
+            "type": "work",
+            "seed": [
+                "/books/OL12275198M",
+                "/works/OL9878920W",
+                "/authors/OL3861683A"
+            ],
+            "title": "Apple Cider Time",
+            "title_suggest": "Apple Cider Time",
+            "title_sort": "Apple Cider Time",
+            "edition_count": 1,
+            "edition_key": [
+                "OL12275198M"
+            ],
+            "publish_date": [
+                "February 1999"
+            ],
+            "publish_year": [
+                1999
+            ],
+            "first_publish_year": 1999,
+            "isbn": [
+                "1580060714",
+                "9781580060714"
+            ],
+            "last_modified_i": 1272134368,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Sovereign Pubns"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3861683A"
+            ],
+            "author_name": [
+                "Elsie Ann Schmied"
+            ],
+            "id_goodreads": [
+                "4688106"
+            ],
+            "publisher_facet": [
+                "Sovereign Pubns"
+            ],
+            "_version_": 1767945019084242945,
+            "author_facet": [
+                "OL3861683A Elsie Ann Schmied"
+            ]
+        },
+        {
+            "key": "/works/OL27059479W",
+            "type": "work",
+            "seed": [
+                "/books/OL36692008M",
+                "/works/OL27059479W",
+                "/authors/OL7414809A"
+            ],
+            "title": "Apple Cider Slaying",
+            "title_suggest": "Apple Cider Slaying",
+            "title_sort": "Apple Cider Slaying",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36692008M"
+            ],
+            "publish_date": [
+                "Nov 11, 2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 405,
+            "isbn": [
+                "1432880985",
+                "9781432880989"
+            ],
+            "last_modified_i": 1643155609,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL36692008M",
+            "cover_i": 12576535,
+            "publisher": [
+                "Wheeler Publishing Large Print"
+            ],
+            "author_key": [
+                "OL7414809A"
+            ],
+            "author_name": [
+                "Julie Anne Lindsey"
+            ],
+            "publisher_facet": [
+                "Wheeler Publishing Large Print"
+            ],
+            "_version_": 1767920261618728961,
+            "author_facet": [
+                "OL7414809A Julie Anne Lindsey"
+            ]
+        },
+        {
+            "key": "/works/OL29754402W",
+            "type": "work",
+            "seed": [
+                "/books/OL40926297M",
+                "/works/OL29754402W",
+                "/authors/OL10935128A"
+            ],
+            "title": "Hot Apple Cider",
+            "title_suggest": "Hot Apple Cider",
+            "title_sort": "Hot Apple Cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40926297M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "1520236123",
+                "9781520236124"
+            ],
+            "last_modified_i": 1669092810,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10935128A"
+            ],
+            "author_name": [
+                "Rosie Hilton"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924764874113025,
+            "author_facet": [
+                "OL10935128A Rosie Hilton"
+            ]
+        },
+        {
+            "key": "/works/OL29570868W",
+            "type": "work",
+            "seed": [
+                "/books/OL40691820M",
+                "/works/OL29570868W",
+                "/authors/OL2724008A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40691820M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "isbn": [
+                "9781521489857",
+                "1521489858"
+            ],
+            "last_modified_i": 1668958822,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2724008A"
+            ],
+            "author_name": [
+                "Victoria Rose"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924349364338690,
+            "author_facet": [
+                "OL2724008A Victoria Rose"
+            ]
+        },
+        {
+            "key": "/works/OL16962819W",
+            "type": "work",
+            "seed": [
+                "/books/OL8114213M",
+                "/works/OL16962819W",
+                "/subjects/longevity",
+                "/subjects/therapeutic_use",
+                "/subjects/diet_therapy",
+                "/subjects/cider_vinegar"
+            ],
+            "title": "Bragg apple cider vinegar",
+            "title_suggest": "Bragg apple cider vinegar",
+            "title_sort": "Bragg apple cider vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8114213M"
+            ],
+            "publish_date": [
+                "January 1999"
+            ],
+            "publish_year": [
+                1999
+            ],
+            "first_publish_year": 1999,
+            "number_of_pages_median": 128,
+            "isbn": [
+                "9780877900429",
+                "0877900426"
+            ],
+            "last_modified_i": 1406636369,
+            "ebook_count_i": 1,
+            "ebook_access": "printdisabled",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "applecidervinega00brag_289"
+            ],
+            "ia_collection": [
+                "librarygenesis",
+                "printdisabled"
+            ],
+            "ia_collection_s": "librarygenesis;printdisabled",
+            "printdisabled_s": "OL8114213M",
+            "cover_edition_key": "OL8114213M",
+            "cover_i": 672198,
+            "publisher": [
+                "Bragg Live Foods"
+            ],
+            "language": [
+                "eng"
+            ],
+            "subject": [
+                "Longevity",
+                "Therapeutic use",
+                "Diet therapy",
+                "Cider vinegar"
+            ],
+            "id_goodreads": [
+                "2431143"
+            ],
+            "id_librarything": [
+                "771911"
+            ],
+            "publisher_facet": [
+                "Bragg Live Foods"
+            ],
+            "subject_facet": [
+                "Cider vinegar",
+                "Diet therapy",
+                "Longevity",
+                "Therapeutic use"
+            ],
+            "_version_": 1767902368205111297,
+            "subject_key": [
+                "cider_vinegar",
+                "diet_therapy",
+                "longevity",
+                "therapeutic_use"
+            ]
+        },
+        {
+            "key": "/works/OL30016851W",
+            "type": "work",
+            "seed": [
+                "/books/OL41263648M",
+                "/works/OL30016851W",
+                "/authors/OL11057304A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41263648M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1076865690",
+                "9781076865694"
+            ],
+            "last_modified_i": 1669288985,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11057304A"
+            ],
+            "author_name": [
+                "Jennifer M. Lucas"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925092609687553,
+            "author_facet": [
+                "OL11057304A Jennifer M. Lucas"
+            ]
+        },
+        {
+            "key": "/works/OL26933150W",
+            "type": "work",
+            "seed": [
+                "/books/OL36514283M",
+                "/works/OL26933150W",
+                "/authors/OL10108040A"
+            ],
+            "title": "Happy National Apple Cider Day!",
+            "title_suggest": "Happy National Apple Cider Day!",
+            "title_sort": "Happy National Apple Cider Day!",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36514283M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798756344349"
+            ],
+            "last_modified_i": 1640983550,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10108040A"
+            ],
+            "author_name": [
+                "Bell DEBORAH"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920137411756032,
+            "author_facet": [
+                "OL10108040A Bell DEBORAH"
+            ]
+        },
+        {
+            "key": "/works/OL29202947W",
+            "type": "work",
+            "seed": [
+                "/books/OL40167024M",
+                "/works/OL29202947W",
+                "/authors/OL7337009A"
+            ],
+            "title": "Happy National Apple Cider Day!",
+            "title_suggest": "Happy National Apple Cider Day!",
+            "title_sort": "Happy National Apple Cider Day!",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40167024M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798351655062"
+            ],
+            "last_modified_i": 1666226452,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7337009A"
+            ],
+            "author_name": [
+                "Deborah Price"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767923844879745024,
+            "author_facet": [
+                "OL7337009A Deborah Price"
+            ]
+        },
+        {
+            "key": "/works/OL29193748W",
+            "type": "work",
+            "seed": [
+                "/books/OL40154496M",
+                "/works/OL29193748W",
+                "/authors/OL10788883A"
+            ],
+            "title": "Spiked Apple Cider Cocktails",
+            "title_suggest": "Spiked Apple Cider Cocktails",
+            "title_sort": "Spiked Apple Cider Cocktails",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40154496M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798832992662"
+            ],
+            "last_modified_i": 1666218874,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10788883A"
+            ],
+            "author_name": [
+                "John Melione"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767923820012765184,
+            "author_facet": [
+                "OL10788883A John Melione"
+            ]
+        },
+        {
+            "key": "/works/OL36305066W",
+            "type": "work",
+            "seed": [
+                "/books/OL49055913M",
+                "/works/OL36305066W",
+                "/authors/OL11324789A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL49055913M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798471567238"
+            ],
+            "last_modified_i": 1689659031,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11324789A"
+            ],
+            "author_name": [
+                "Kendrick Precious"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1771735913146089472,
+            "author_facet": [
+                "OL11324789A Kendrick Precious"
+            ]
+        },
+        {
+            "key": "/works/OL31550506W",
+            "type": "work",
+            "seed": [
+                "/books/OL43218443M",
+                "/works/OL31550506W",
+                "/authors/OL7681219A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL43218443M"
+            ],
+            "publish_date": [
+                "2016-02-01"
+            ],
+            "publish_year": [
+                2016
+            ],
+            "first_publish_year": 2016,
+            "isbn": [
+                "1523830018",
+                "9781523830015"
+            ],
+            "last_modified_i": 1695485213,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "applecidervinega0000kyli"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL43218443M",
+            "lending_identifier_s": "applecidervinega0000kyli",
+            "printdisabled_s": "OL43218443M",
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL7681219A"
+            ],
+            "author_name": [
+                "Kylie Young"
+            ],
+            "ia_box_id": [
+                "IA40937820"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "_version_": 1777845105441374211,
+            "author_facet": [
+                "OL7681219A Kylie Young"
+            ]
+        },
+        {
+            "key": "/works/OL31103690W",
+            "type": "work",
+            "seed": [
+                "/books/OL42713921M",
+                "/works/OL31103690W",
+                "/authors/OL11362466A"
+            ],
+            "title": "Apple Cider Vinegar Manual",
+            "title_suggest": "Apple Cider Vinegar Manual",
+            "title_sort": "Apple Cider Vinegar Manual",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42713921M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798355578602"
+            ],
+            "last_modified_i": 1670060520,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11362466A"
+            ],
+            "author_name": [
+                "Camilla NORMAN"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926805289762816,
+            "author_facet": [
+                "OL11362466A Camilla NORMAN"
+            ]
+        },
+        {
+            "key": "/works/OL34314600W",
+            "type": "work",
+            "seed": [
+                "/books/OL46534542M",
+                "/works/OL34314600W",
+                "/authors/OL9201775A"
+            ],
+            "title": "Apple Cider Vinegar Diet",
+            "title_suggest": "Apple Cider Vinegar Diet",
+            "title_sort": "Apple Cider Vinegar Diet",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46534542M"
+            ],
+            "publish_date": [
+                "Oct 28, 2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "number_of_pages_median": 32,
+            "isbn": [
+                "1518786219",
+                "9781518786211"
+            ],
+            "last_modified_i": 1675382082,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL46534542M",
+            "cover_i": 13221725,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL9201775A"
+            ],
+            "author_name": [
+                "Naomi Rowland"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "_version_": 1767931797075656704,
+            "author_facet": [
+                "OL9201775A Naomi Rowland"
+            ]
+        },
+        {
+            "key": "/works/OL28865717W",
+            "type": "work",
+            "seed": [
+                "/books/OL39679585M",
+                "/works/OL28865717W",
+                "/authors/OL10631932A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL39679585M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798790119606"
+            ],
+            "last_modified_i": 1663531613,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10631932A"
+            ],
+            "author_name": [
+                "Biden M. BROOKE"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767923285151973376,
+            "author_facet": [
+                "OL10631932A Biden M. BROOKE"
+            ]
+        },
+        {
+            "key": "/works/OL21522389W",
+            "type": "work",
+            "seed": [
+                "/books/OL29187953M",
+                "/books/OL29206534M",
+                "/works/OL21522389W",
+                "/subjects/gardening",
+                "/authors/OL8234122A"
+            ],
+            "title": "Cider Apples",
+            "title_suggest": "Cider Apples",
+            "title_sort": "Cider Apples",
+            "edition_count": 2,
+            "edition_key": [
+                "OL29187953M",
+                "OL29206534M"
+            ],
+            "publish_date": [
+                "2014",
+                "2013"
+            ],
+            "publish_year": [
+                2014,
+                2013
+            ],
+            "first_publish_year": 2013,
+            "number_of_pages_median": 141,
+            "isbn": [
+                "9781925110524",
+                "192511046X",
+                "9781925110463",
+                "1925110524"
+            ],
+            "last_modified_i": 1677214286,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL29206534M",
+            "cover_i": 13337436,
+            "publisher": [
+                "Quillpen Pty Ltd",
+                "Quillpen Pty Ltd T/A Leaves of Gold Press",
+                "Leaves of Gold Press"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8234122A"
+            ],
+            "author_name": [
+                "C. Thornton"
+            ],
+            "subject": [
+                "Gardening"
+            ],
+            "publisher_facet": [
+                "Leaves of Gold Press",
+                "Quillpen Pty Ltd",
+                "Quillpen Pty Ltd T/A Leaves of Gold Press"
+            ],
+            "subject_facet": [
+                "Gardening"
+            ],
+            "_version_": 1767911002065600513,
+            "author_facet": [
+                "OL8234122A C. Thornton"
+            ],
+            "subject_key": [
+                "gardening"
+            ]
+        },
+        {
+            "key": "/works/OL35931526W",
+            "type": "work",
+            "seed": [
+                "/books/OL48502171M",
+                "/works/OL35931526W",
+                "/authors/OL9634997A"
+            ],
+            "title": "Apple Cider Vinegar : Background Information about Apple Cider Vinegar and How to Use It Efficiently",
+            "title_suggest": "Apple Cider Vinegar : Background Information about Apple Cider Vinegar and How to Use It Efficiently",
+            "title_sort": "Apple Cider Vinegar : Background Information about Apple Cider Vinegar and How to Use It Efficiently",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48502171M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798681177524"
+            ],
+            "last_modified_i": 1687053353,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9634997A"
+            ],
+            "author_name": [
+                "Rocio Solis"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1769216711906557953,
+            "author_facet": [
+                "OL9634997A Rocio Solis"
+            ]
+        },
+        {
+            "key": "/works/OL1593454W",
+            "type": "work",
+            "seed": [
+                "/books/OL19021641M",
+                "/works/OL1593454W",
+                "/subjects/acetic_acid",
+                "/subjects/apple_cider_vinegar",
+                "/subjects/therapeutic_use",
+                "/authors/OL172854A"
+            ],
+            "title": "The miracles of apple cider vinegar",
+            "title_suggest": "The miracles of apple cider vinegar",
+            "title_sort": "The miracles of apple cider vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL19021641M"
+            ],
+            "publish_date": [
+                "1998"
+            ],
+            "publish_year": [
+                1998
+            ],
+            "first_publish_year": 1998,
+            "number_of_pages_median": 68,
+            "lccn": [
+                "97340020"
+            ],
+            "publish_place": [
+                "Santa Barbara, Calif"
+            ],
+            "last_modified_i": 1291411652,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Health Science"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL172854A"
+            ],
+            "author_name": [
+                "Paul Chappuis Bragg"
+            ],
+            "author_alternative_name": [
+                "Paul Bragg",
+                "Paul C. Bragg"
+            ],
+            "subject": [
+                "Acetic acid",
+                "Apple Cider Vinegar",
+                "Therapeutic use"
+            ],
+            "publisher_facet": [
+                "Health Science"
+            ],
+            "subject_facet": [
+                "Acetic acid",
+                "Apple Cider Vinegar",
+                "Therapeutic use"
+            ],
+            "_version_": 1767899536526671872,
+            "author_facet": [
+                "OL172854A Paul Chappuis Bragg"
+            ],
+            "subject_key": [
+                "acetic_acid",
+                "apple_cider_vinegar",
+                "therapeutic_use"
+            ]
+        },
+        {
+            "key": "/works/OL14354854M",
+            "type": "work",
+            "seed": [
+                "/books/OL14354854M",
+                "/works/OL14354854M"
+            ],
+            "title": "Cider and juice apples",
+            "title_suggest": "Cider and juice apples",
+            "title_sort": "Cider and juice apples",
+            "edition_count": 1,
+            "edition_key": [
+                "OL14354854M"
+            ],
+            "publish_date": [
+                "1991"
+            ],
+            "publish_year": [
+                1991
+            ],
+            "first_publish_year": 1991,
+            "contributor": [
+                "Williams, R. R."
+            ],
+            "last_modified_i": 1686044613,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "University of Bristol"
+            ],
+            "language": [
+                "eng"
+            ],
+            "publisher_facet": [
+                "University of Bristol"
+            ],
+            "_version_": 1767945917459070978
+        },
+        {
+            "key": "/works/OL12818801W",
+            "type": "work",
+            "seed": [
+                "/books/OL19925483M",
+                "/works/OL12818801W",
+                "/authors/OL5771903A"
+            ],
+            "title": "The economics of cider apple production",
+            "title_suggest": "The economics of cider apple production",
+            "title_sort": "The economics of cider apple production",
+            "edition_count": 1,
+            "edition_key": [
+                "OL19925483M"
+            ],
+            "publish_date": [
+                "1977"
+            ],
+            "publish_year": [
+                1977
+            ],
+            "first_publish_year": 1977,
+            "number_of_pages_median": 49,
+            "publish_place": [
+                "Bristol"
+            ],
+            "contributor": [
+                "Rendell, John."
+            ],
+            "last_modified_i": 1264371132,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Agricultural Economics Research Unit"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL5771903A"
+            ],
+            "author_name": [
+                "S. R. Wragg"
+            ],
+            "publisher_facet": [
+                "Agricultural Economics Research Unit"
+            ],
+            "_version_": 1767895261342859264,
+            "author_facet": [
+                "OL5771903A S. R. Wragg"
+            ]
+        },
+        {
+            "key": "/works/OL20003930W",
+            "type": "work",
+            "seed": [
+                "/books/OL27184024M",
+                "/works/OL20003930W",
+                "/subjects/cider",
+                "/subjects/apples",
+                "/subjects/handbooks_manuals",
+                "/subjects/industrial_&_technical",
+                "/subjects/science",
+                "/subjects/chemistry",
+                "/authors/OL7102593A"
+            ],
+            "title": "Apples to cider",
+            "title_suggest": "Apples to cider",
+            "title_sort": "Apples to cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27184024M"
+            ],
+            "publish_date": [
+                "2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "number_of_pages_median": 151,
+            "lccn": [
+                "2015000551"
+            ],
+            "oclc": [
+                "900609653"
+            ],
+            "contributor": [
+                "Wood, Stephen M., author"
+            ],
+            "lcc": [
+                "TP-0563.00000000.W47 2015",
+                "TP-0563.00000000"
+            ],
+            "ddc": [
+                "663.63"
+            ],
+            "isbn": [
+                "9781627883156",
+                "9781592539185",
+                "1592539181"
+            ],
+            "last_modified_i": 1633431183,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "applestociderhow00whit"
+            ],
+            "ia_collection": [
+                "americana",
+                "hamiltonpubliclibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "americana;hamiltonpubliclibrary-ol;inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL27184024M",
+            "lending_identifier_s": "applestociderhow00whit",
+            "printdisabled_s": "OL27184024M",
+            "cover_edition_key": "OL27184024M",
+            "cover_i": 8783334,
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7102593A"
+            ],
+            "author_name": [
+                "April White"
+            ],
+            "subject": [
+                "Cider",
+                "Apples",
+                "Handbooks, manuals",
+                "Industrial & Technical",
+                "SCIENCE",
+                "Chemistry"
+            ],
+            "ia_box_id": [
+                "IA1769103"
+            ],
+            "subject_facet": [
+                "Apples",
+                "Chemistry",
+                "Cider",
+                "Handbooks, manuals",
+                "Industrial & Technical",
+                "SCIENCE"
+            ],
+            "_version_": 1767907749254922242,
+            "lcc_sort": "TP-0563.00000000.W47 2015",
+            "author_facet": [
+                "OL7102593A April White"
+            ],
+            "subject_key": [
+                "apples",
+                "chemistry",
+                "cider",
+                "handbooks_manuals",
+                "industrial__technical",
+                "science"
+            ],
+            "ddc_sort": "663.63"
+        },
+        {
+            "key": "/works/OL27210964W",
+            "type": "work",
+            "seed": [
+                "/books/OL36934101M",
+                "/works/OL27210964W",
+                "/authors/OL10193910A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36934101M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798476346234"
+            ],
+            "last_modified_i": 1643428638,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10193910A"
+            ],
+            "author_name": [
+                "Mike Edna"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920559206694912,
+            "author_facet": [
+                "OL10193910A Mike Edna"
+            ]
+        },
+        {
+            "key": "/works/OL27002957W",
+            "type": "work",
+            "seed": [
+                "/books/OL36604239M",
+                "/works/OL27002957W",
+                "/authors/OL10126063A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36604239M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798523482601"
+            ],
+            "last_modified_i": 1641035199,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10126063A"
+            ],
+            "author_name": [
+                "Nolan Paisley"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920050772115456,
+            "author_facet": [
+                "OL10126063A Nolan Paisley"
+            ]
+        },
+        {
+            "key": "/works/OL31179847W",
+            "type": "work",
+            "seed": [
+                "/books/OL42833014M",
+                "/works/OL31179847W",
+                "/authors/OL3797827A"
+            ],
+            "title": "Apple Cider Vinegar Cleanse Book",
+            "title_suggest": "Apple Cider Vinegar Cleanse Book",
+            "title_sort": "Apple Cider Vinegar Cleanse Book",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42833014M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798838353191"
+            ],
+            "last_modified_i": 1670087615,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3797827A"
+            ],
+            "author_name": [
+                "Wendy Grey"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767927067198881793,
+            "author_facet": [
+                "OL3797827A Wendy Grey"
+            ]
+        },
+        {
+            "key": "/works/OL19980233W",
+            "type": "work",
+            "seed": [
+                "/books/OL27160381M",
+                "/works/OL19980233W",
+                "/subjects/therapeutic_use",
+                "/subjects/cider_vinegar",
+                "/subjects/health_aspects",
+                "/subjects/vinegar",
+                "/authors/OL7032354A"
+            ],
+            "title": "Apple cider vinegar for health",
+            "title_suggest": "Apple cider vinegar for health",
+            "title_sort": "Apple cider vinegar for health",
+            "edition_count": 1,
+            "edition_key": [
+                "OL27160381M"
+            ],
+            "publish_date": [
+                "2014"
+            ],
+            "publish_year": [
+                2014
+            ],
+            "first_publish_year": 2014,
+            "number_of_pages_median": 128,
+            "lccn": [
+                "2014008237"
+            ],
+            "oclc": [
+                "881386260"
+            ],
+            "lcc": [
+                "RM-0666.00000000.V55",
+                "RM-0666.00000000.V55B76 2014",
+                "RM-0666.00000000.V55 B76 2014"
+            ],
+            "ddc": [
+                "615.32373"
+            ],
+            "isbn": [
+                "9781440573156",
+                "9781440573149",
+                "144057314X",
+                "1440573158"
+            ],
+            "last_modified_i": 1673727051,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "applecidervinega0000bran"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL27160381M",
+            "lending_identifier_s": "applecidervinega0000bran",
+            "printdisabled_s": "OL27160381M",
+            "readinglog_count": 2,
+            "want_to_read_count": 2,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL27160381M",
+            "cover_i": 11768510,
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7032354A"
+            ],
+            "author_name": [
+                "Britt Brandon"
+            ],
+            "subject": [
+                "Therapeutic use",
+                "Cider vinegar",
+                "Health aspects",
+                "Vinegar"
+            ],
+            "ia_box_id": [
+                "IA40221522"
+            ],
+            "subject_facet": [
+                "Cider vinegar",
+                "Health aspects",
+                "Therapeutic use",
+                "Vinegar"
+            ],
+            "_version_": 1767907675246428162,
+            "lcc_sort": "RM-0666.00000000.V55 B76 2014",
+            "author_facet": [
+                "OL7032354A Britt Brandon"
+            ],
+            "subject_key": [
+                "cider_vinegar",
+                "health_aspects",
+                "therapeutic_use",
+                "vinegar"
+            ],
+            "ddc_sort": "615.32373"
+        },
+        {
+            "key": "/works/OL19741245W",
+            "type": "work",
+            "seed": [
+                "/books/OL38883463M",
+                "/books/OL26954319M",
+                "/works/OL19741245W",
+                "/subjects/therapeutic_use",
+                "/subjects/popular_works",
+                "/subjects/cider_vinegar",
+                "/subjects/cider",
+                "/subjects/vinegar",
+                "/authors/OL7151865A"
+            ],
+            "title": "Apple cider vinegar handbook",
+            "title_suggest": "Apple cider vinegar handbook",
+            "title_sort": "Apple cider vinegar handbook",
+            "edition_count": 2,
+            "edition_key": [
+                "OL38883463M",
+                "OL26954319M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "number_of_pages_median": 239,
+            "lccn": [
+                "2018000116"
+            ],
+            "oclc": [
+                "1007036754"
+            ],
+            "contributor": [
+                "Young, Kac, writer of foreword"
+            ],
+            "lcc": [
+                "RM-0666.00000000.V55M47 2018",
+                "RM-0666.00000000.V55 M47 2018"
+            ],
+            "ddc": [
+                "615.323642"
+            ],
+            "isbn": [
+                "9781454929116",
+                "9781454928973",
+                "1454928972",
+                "1454929111"
+            ],
+            "last_modified_i": 1680015806,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL26954319M",
+            "cover_i": 13774766,
+            "publisher": [
+                "Sterling Publishing Co., Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7151865A"
+            ],
+            "author_name": [
+                "Amy Leigh Mercree"
+            ],
+            "subject": [
+                "Therapeutic use",
+                "Popular works",
+                "Cider vinegar",
+                "Cider",
+                "Vinegar"
+            ],
+            "publisher_facet": [
+                "Sterling Publishing Co., Inc."
+            ],
+            "subject_facet": [
+                "Cider",
+                "Cider vinegar",
+                "Popular works",
+                "Therapeutic use",
+                "Vinegar"
+            ],
+            "_version_": 1767907253983117312,
+            "lcc_sort": "RM-0666.00000000.V55 M47 2018",
+            "author_facet": [
+                "OL7151865A Amy Leigh Mercree"
+            ],
+            "subject_key": [
+                "cider",
+                "cider_vinegar",
+                "popular_works",
+                "therapeutic_use",
+                "vinegar"
+            ],
+            "ddc_sort": "615.323642"
+        },
+        {
+            "key": "/works/OL13481551M",
+            "type": "work",
+            "seed": [
+                "/books/OL13481551M",
+                "/works/OL13481551M",
+                "/subjects/labels_--_law_and_legislation.",
+                "/subjects/business_names."
+            ],
+            "title": "Misbranding of apple cider",
+            "title_suggest": "Misbranding of apple cider",
+            "title_sort": "Misbranding of apple cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL13481551M"
+            ],
+            "publish_date": [
+                "1908"
+            ],
+            "publish_year": [
+                1908
+            ],
+            "first_publish_year": 1908,
+            "publish_place": [
+                "Washington, D.C"
+            ],
+            "last_modified_i": 1686044526,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Sine nomine"
+            ],
+            "subject": [
+                "Labels -- Law and legislation.",
+                "Business names."
+            ],
+            "publisher_facet": [
+                "Sine nomine"
+            ],
+            "subject_facet": [
+                "Business names.",
+                "Labels -- Law and legislation."
+            ],
+            "_version_": 1767945826237153280,
+            "subject_key": [
+                "business_names.",
+                "labels_--_law_and_legislation."
+            ]
+        },
+        {
+            "key": "/works/OL31381763W",
+            "type": "work",
+            "seed": [
+                "/books/OL43033662M",
+                "/works/OL31381763W",
+                "/subjects/vinegar",
+                "/authors/OL9341467A"
+            ],
+            "title": "Apple Cider Vinegar Solutions",
+            "title_suggest": "Apple Cider Vinegar Solutions",
+            "title_sort": "Apple Cider Vinegar Solutions",
+            "edition_count": 1,
+            "edition_key": [
+                "OL43033662M"
+            ],
+            "publish_date": [
+                "2015-11-01"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "lcc": [
+                "RM-0666.00000000.V55"
+            ],
+            "isbn": [
+                "9781942411277",
+                "1942411278"
+            ],
+            "last_modified_i": 1692239852,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Sonoma Press"
+            ],
+            "author_key": [
+                "OL9341467A"
+            ],
+            "author_name": [
+                "Madeline Given NC"
+            ],
+            "subject": [
+                "Vinegar"
+            ],
+            "publisher_facet": [
+                "Sonoma Press"
+            ],
+            "subject_facet": [
+                "Vinegar"
+            ],
+            "_version_": 1774442100029390850,
+            "lcc_sort": "RM-0666.00000000.V55",
+            "author_facet": [
+                "OL9341467A Madeline Given NC"
+            ],
+            "subject_key": [
+                "vinegar"
+            ]
+        },
+        {
+            "key": "/works/OL7892610W",
+            "type": "work",
+            "seed": [
+                "/books/OL7252601M",
+                "/works/OL7892610W",
+                "/subjects/cider",
+                "/subjects/cold_storage",
+                "/authors/OL2588574A"
+            ],
+            "title": "The cold storage of apple cider",
+            "title_suggest": "The cold storage of apple cider",
+            "title_sort": "The cold storage of apple cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL7252601M"
+            ],
+            "publish_date": [
+                "1910"
+            ],
+            "publish_year": [
+                1910
+            ],
+            "first_publish_year": 1910,
+            "lccn": [
+                "agr10000266"
+            ],
+            "publish_place": [
+                "[Washington"
+            ],
+            "last_modified_i": 1597321580,
+            "ebook_count_i": 1,
+            "ebook_access": "public",
+            "has_fulltext": true,
+            "public_scan_b": true,
+            "ia": [
+                "coldstorageofapp00gorerich"
+            ],
+            "ia_collection": [
+                "USGovernmentDocuments",
+                "additional_collections",
+                "americana",
+                "cdl"
+            ],
+            "ia_collection_s": "USGovernmentDocuments;additional_collections;americana;cdl",
+            "lending_edition_s": "OL7252601M",
+            "lending_identifier_s": "coldstorageofapp00gorerich",
+            "cover_edition_key": "OL7252601M",
+            "cover_i": 5568109,
+            "publisher": [
+                "Govt. Print. Off.]"
+            ],
+            "author_key": [
+                "OL2588574A"
+            ],
+            "author_name": [
+                "Gore, Herbert Charles."
+            ],
+            "subject": [
+                "Cider",
+                "Cold storage"
+            ],
+            "publisher_facet": [
+                "Govt. Print. Off.]"
+            ],
+            "subject_facet": [
+                "Cider",
+                "Cold storage"
+            ],
+            "_version_": 1767941798369427458,
+            "author_facet": [
+                "OL2588574A Gore, Herbert Charles."
+            ],
+            "subject_key": [
+                "cider",
+                "cold_storage"
+            ]
+        },
+        {
+            "key": "/works/OL28044513W",
+            "type": "work",
+            "seed": [
+                "/books/OL38377980M",
+                "/works/OL28044513W",
+                "/subjects/cider",
+                "/subjects/vinegar",
+                "/authors/OL10461378A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38377980M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "lcc": [
+                "RM-0666.00000000.V55T75 2017"
+            ],
+            "isbn": [
+                "0757004466",
+                "9780757004469"
+            ],
+            "last_modified_i": 1655570130,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Square One Publishers"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10461378A"
+            ],
+            "author_name": [
+                "Larry Jr Trivieri"
+            ],
+            "subject": [
+                "Cider",
+                "Vinegar"
+            ],
+            "publisher_facet": [
+                "Square One Publishers"
+            ],
+            "subject_facet": [
+                "Cider",
+                "Vinegar"
+            ],
+            "_version_": 1767921917809917953,
+            "lcc_sort": "RM-0666.00000000.V55T75 2017",
+            "author_facet": [
+                "OL10461378A Larry Jr Trivieri"
+            ],
+            "subject_key": [
+                "cider",
+                "vinegar"
+            ]
+        },
+        {
+            "key": "/works/OL36177902W",
+            "type": "work",
+            "seed": [
+                "/books/OL48886837M",
+                "/works/OL36177902W",
+                "/authors/OL9828902A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48886837M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798528941721"
+            ],
+            "last_modified_i": 1689620492,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9828902A"
+            ],
+            "author_name": [
+                "William Barbara"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1771695499006443520,
+            "author_facet": [
+                "OL9828902A William Barbara"
+            ]
+        },
+        {
+            "key": "/works/OL27194904W",
+            "type": "work",
+            "seed": [
+                "/books/OL36912547M",
+                "/works/OL27194904W",
+                "/authors/OL10185389A"
+            ],
+            "title": "Apple Cider Vinegar for Diabetes",
+            "title_suggest": "Apple Cider Vinegar for Diabetes",
+            "title_sort": "Apple Cider Vinegar for Diabetes",
+            "edition_count": 1,
+            "edition_key": [
+                "OL36912547M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798645367176"
+            ],
+            "last_modified_i": 1643415440,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10185389A"
+            ],
+            "author_name": [
+                "Jason HANSON"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767920375589502976,
+            "author_facet": [
+                "OL10185389A Jason HANSON"
+            ]
+        },
+        {
+            "key": "/works/OL29622121W",
+            "type": "work",
+            "seed": [
+                "/books/OL40755892M",
+                "/works/OL29622121W",
+                "/authors/OL10433843A"
+            ],
+            "title": "Apple Cider Vinegar Recipes",
+            "title_suggest": "Apple Cider Vinegar Recipes",
+            "title_sort": "Apple Cider Vinegar Recipes",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40755892M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "isbn": [
+                "1973446545",
+                "9781973446545"
+            ],
+            "last_modified_i": 1668994918,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10433843A"
+            ],
+            "author_name": [
+                "Martha Stephenson"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924642925772800,
+            "author_facet": [
+                "OL10433843A Martha Stephenson"
+            ]
+        },
+        {
+            "key": "/works/OL29550184W",
+            "type": "work",
+            "seed": [
+                "/books/OL40664520M",
+                "/works/OL29550184W",
+                "/authors/OL9864117A"
+            ],
+            "title": "Weight Loss with Apple Cider Vinegar",
+            "title_suggest": "Weight Loss with Apple Cider Vinegar",
+            "title_sort": "Weight Loss with Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40664520M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "1729346324",
+                "9781729346327"
+            ],
+            "last_modified_i": 1668943921,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9864117A"
+            ],
+            "author_name": [
+                "Shan Trout"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924503993647105,
+            "author_facet": [
+                "OL9864117A Shan Trout"
+            ]
+        },
+        {
+            "key": "/works/OL29836806W",
+            "type": "work",
+            "seed": [
+                "/books/OL41029090M",
+                "/works/OL29836806W",
+                "/authors/OL9267561A"
+            ],
+            "title": "Getting Started with Apple Cider Vinegar",
+            "title_suggest": "Getting Started with Apple Cider Vinegar",
+            "title_sort": "Getting Started with Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41029090M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1799077721",
+                "9781799077725"
+            ],
+            "last_modified_i": 1669154483,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9267561A"
+            ],
+            "author_name": [
+                "Madison Hall"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924882014732288,
+            "author_facet": [
+                "OL9267561A Madison Hall"
+            ]
+        },
+        {
+            "key": "/works/OL35863275W",
+            "type": "work",
+            "seed": [
+                "/books/OL48406264M",
+                "/works/OL35863275W",
+                "/authors/OL9651962A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48406264M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798639656491"
+            ],
+            "last_modified_i": 1687034216,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9651962A"
+            ],
+            "author_name": [
+                "Henry DONALD"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1769214361937641473,
+            "author_facet": [
+                "OL9651962A Henry DONALD"
+            ]
+        },
+        {
+            "key": "/works/OL36269000W",
+            "type": "work",
+            "seed": [
+                "/books/OL49008622M",
+                "/works/OL36269000W",
+                "/authors/OL13053894A"
+            ],
+            "title": "Apple Cider Vinegar : Benefits, Uses, Risks, and Dosage",
+            "title_suggest": "Apple Cider Vinegar : Benefits, Uses, Risks, and Dosage",
+            "title_sort": "Apple Cider Vinegar : Benefits, Uses, Risks, and Dosage",
+            "edition_count": 1,
+            "edition_key": [
+                "OL49008622M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798730021853"
+            ],
+            "last_modified_i": 1689648536,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL13053894A"
+            ],
+            "author_name": [
+                "Mercedez Simpers"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1771724905821241344,
+            "author_facet": [
+                "OL13053894A Mercedez Simpers"
+            ]
+        },
+        {
+            "key": "/works/OL25844257W",
+            "type": "work",
+            "seed": [
+                "/books/OL40217495M",
+                "/books/OL34854044M",
+                "/works/OL25844257W",
+                "/authors/OL9272666A"
+            ],
+            "title": "Making the Best Apple Cider",
+            "title_suggest": "Making the Best Apple Cider",
+            "title_sort": "Making the Best Apple Cider",
+            "edition_count": 2,
+            "edition_key": [
+                "OL40217495M",
+                "OL34854044M"
+            ],
+            "publish_date": [
+                "1980",
+                "1983"
+            ],
+            "publish_year": [
+                1980,
+                1983
+            ],
+            "first_publish_year": 1980,
+            "number_of_pages_median": 32,
+            "publish_place": [
+                "Charlotte, Vt"
+            ],
+            "oclc": [
+                "6993725"
+            ],
+            "lcc": [
+                "TP-0563.00000000.P7"
+            ],
+            "ddc": [
+                "641.875"
+            ],
+            "isbn": [
+                "1603424059",
+                "9781603424059",
+                "9780882662213",
+                "088266221X"
+            ],
+            "last_modified_i": 1670392997,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "makingbestapplec0000prou_e8h2"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL40217495M",
+            "lending_identifier_s": "makingbestapplec0000prou_e8h2",
+            "printdisabled_s": "OL40217495M",
+            "cover_edition_key": "OL40217495M",
+            "cover_i": 12975034,
+            "publisher": [
+                "Garden Way",
+                "Storey Publishing, LLC"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9272666A"
+            ],
+            "author_name": [
+                "Annie Proulx"
+            ],
+            "ia_box_id": [
+                "IA40753406"
+            ],
+            "publisher_facet": [
+                "Garden Way",
+                "Storey Publishing, LLC"
+            ],
+            "_version_": 1767918266049626114,
+            "lcc_sort": "TP-0563.00000000.P7",
+            "author_facet": [
+                "OL9272666A Annie Proulx"
+            ],
+            "ddc_sort": "641.875"
+        },
+        {
+            "key": "/works/OL29638823W",
+            "type": "work",
+            "seed": [
+                "/books/OL40775877M",
+                "/works/OL29638823W",
+                "/authors/OL7660350A"
+            ],
+            "title": "Health Benefits of Apple Cider Vinegar",
+            "title_suggest": "Health Benefits of Apple Cider Vinegar",
+            "title_sort": "Health Benefits of Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40775877M"
+            ],
+            "publish_date": [
+                "2018"
+            ],
+            "publish_year": [
+                2018
+            ],
+            "first_publish_year": 2018,
+            "isbn": [
+                "1790396026",
+                "9781790396023"
+            ],
+            "last_modified_i": 1669005427,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7660350A"
+            ],
+            "author_name": [
+                "Ron Kness"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924647961034752,
+            "author_facet": [
+                "OL7660350A Ron Kness"
+            ]
+        },
+        {
+            "key": "/works/OL29856820W",
+            "type": "work",
+            "seed": [
+                "/books/OL41055031M",
+                "/works/OL29856820W",
+                "/authors/OL11010462A"
+            ],
+            "title": "Apple Cider Vinegar for Diabetes",
+            "title_suggest": "Apple Cider Vinegar for Diabetes",
+            "title_sort": "Apple Cider Vinegar for Diabetes",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41055031M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781096504368",
+                "1096504367"
+            ],
+            "last_modified_i": 1669169332,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11010462A"
+            ],
+            "author_name": [
+                "Audrey Baines"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924935410319360,
+            "author_facet": [
+                "OL11010462A Audrey Baines"
+            ]
+        },
+        {
+            "key": "/works/OL29808063W",
+            "type": "work",
+            "seed": [
+                "/books/OL40992532M",
+                "/works/OL29808063W",
+                "/authors/OL11010462A"
+            ],
+            "title": "Apple Cider Vinegar for Weight Loss",
+            "title_suggest": "Apple Cider Vinegar for Weight Loss",
+            "title_sort": "Apple Cider Vinegar for Weight Loss",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40992532M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781096505723",
+                "109650572X"
+            ],
+            "last_modified_i": 1669132172,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11010462A"
+            ],
+            "author_name": [
+                "Audrey Baines"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924807271186433,
+            "author_facet": [
+                "OL11010462A Audrey Baines"
+            ]
+        },
+        {
+            "key": "/works/OL26338458W",
+            "type": "work",
+            "seed": [
+                "/books/OL35559657M",
+                "/works/OL26338458W",
+                "/subjects/health",
+                "/authors/OL9929519A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL35559657M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "1637500513",
+                "9781637500514"
+            ],
+            "last_modified_i": 1635916126,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Sam Amoo"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9929519A"
+            ],
+            "author_name": [
+                "Sam Peller"
+            ],
+            "subject": [
+                "Health"
+            ],
+            "publisher_facet": [
+                "Sam Amoo"
+            ],
+            "subject_facet": [
+                "Health"
+            ],
+            "_version_": 1767918884678008832,
+            "author_facet": [
+                "OL9929519A Sam Peller"
+            ],
+            "subject_key": [
+                "health"
+            ]
+        },
+        {
+            "key": "/works/OL30186391W",
+            "type": "work",
+            "seed": [
+                "/books/OL41491921M",
+                "/works/OL30186391W",
+                "/authors/OL9332411A"
+            ],
+            "title": "Apple Cider Vinegar Health Benefits",
+            "title_suggest": "Apple Cider Vinegar Health Benefits",
+            "title_sort": "Apple Cider Vinegar Health Benefits",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41491921M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781699268117",
+                "1699268118"
+            ],
+            "last_modified_i": 1669427092,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9332411A"
+            ],
+            "author_name": [
+                "Joanna Aphiah"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925343561187328,
+            "author_facet": [
+                "OL9332411A Joanna Aphiah"
+            ]
+        },
+        {
+            "key": "/works/OL9784652W",
+            "type": "work",
+            "seed": [
+                "/books/OL11873960M",
+                "/works/OL9784652W",
+                "/authors/OL3772874A"
+            ],
+            "title": "The Apple Tree Theatre",
+            "title_suggest": "The Apple Tree Theatre",
+            "title_sort": "The Apple Tree Theatre",
+            "edition_count": 1,
+            "edition_key": [
+                "OL11873960M"
+            ],
+            "publish_date": [
+                "September 22, 2006"
+            ],
+            "publish_year": [
+                2006
+            ],
+            "first_publish_year": 2006,
+            "number_of_pages_median": 44,
+            "isbn": [
+                "9781425953775",
+                "1425953778"
+            ],
+            "last_modified_i": 1272449366,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL11873960M",
+            "cover_i": 2835625,
+            "publisher": [
+                "AuthorHouse"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3772874A"
+            ],
+            "author_name": [
+                "Grammy Cider"
+            ],
+            "publisher_facet": [
+                "AuthorHouse"
+            ],
+            "_version_": 1767945040490921984,
+            "author_facet": [
+                "OL3772874A Grammy Cider"
+            ]
+        },
+        {
+            "key": "/works/OL30573118W",
+            "type": "work",
+            "seed": [
+                "/books/OL42036331M",
+                "/works/OL30573118W",
+                "/authors/OL9084734A"
+            ],
+            "title": "Apple Cider Vinegar Cure",
+            "title_suggest": "Apple Cider Vinegar Cure",
+            "title_sort": "Apple Cider Vinegar Cure",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42036331M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798664665338"
+            ],
+            "last_modified_i": 1669730896,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9084734A"
+            ],
+            "author_name": [
+                "Anne Duval"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926061691043840,
+            "author_facet": [
+                "OL9084734A Anne Duval"
+            ]
+        },
+        {
+            "key": "/works/OL29961742W",
+            "type": "work",
+            "seed": [
+                "/books/OL41192771M",
+                "/works/OL29961742W",
+                "/authors/OL4846316A"
+            ],
+            "title": "Apple Cider Vinegar for Healthy Living",
+            "title_suggest": "Apple Cider Vinegar for Healthy Living",
+            "title_sort": "Apple Cider Vinegar for Healthy Living",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41192771M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781076181626",
+                "1076181627"
+            ],
+            "last_modified_i": 1669248817,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL4846316A"
+            ],
+            "author_name": [
+                "Deborah Smith"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925038230536192,
+            "author_facet": [
+                "OL4846316A Deborah Smith"
+            ]
+        },
+        {
+            "key": "/works/OL6782564W",
+            "type": "work",
+            "seed": [
+                "/books/OL4693593M",
+                "/books/OL5456484M",
+                "/works/OL6782564W",
+                "/subjects/cider",
+                "/authors/OL1850297A"
+            ],
+            "title": "Making and preserving apple cider",
+            "title_suggest": "Making and preserving apple cider",
+            "title_sort": "Making and preserving apple cider",
+            "edition_count": 2,
+            "edition_key": [
+                "OL4693593M",
+                "OL5456484M"
+            ],
+            "publish_date": [
+                "1970",
+                "1972"
+            ],
+            "publish_year": [
+                1970,
+                1972
+            ],
+            "first_publish_year": 1970,
+            "number_of_pages_median": 14,
+            "lccn": [
+                "73158770",
+                "77608316"
+            ],
+            "publish_place": [
+                "Washington",
+                "Washington]"
+            ],
+            "lcc": [
+                "S--0021.00000000.A6 rev. no. 2125, Nov., 1972",
+                "TP-0563.00000000.A6 rev. no. 2125, Nov., 1972",
+                "S--0021.00000000.A6 rev. no. 2125 1970"
+            ],
+            "ddc": [
+                "663.63",
+                "630.8 s"
+            ],
+            "last_modified_i": 1602701463,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "for sale by the Supt. of Docs., U.S. Govt. Print. Off.",
+                "U.S. Dept. of Agriculture; [for sale by the Supt. of Docs., U.S. Govt. Print. Off."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL1850297A"
+            ],
+            "author_name": [
+                "James Frederick Robinson"
+            ],
+            "subject": [
+                "Cider"
+            ],
+            "publisher_facet": [
+                "U.S. Dept. of Agriculture; [for sale by the Supt. of Docs., U.S. Govt. Print. Off.",
+                "for sale by the Supt. of Docs., U.S. Govt. Print. Off."
+            ],
+            "subject_facet": [
+                "Cider"
+            ],
+            "_version_": 1767939791383429120,
+            "lcc_sort": "TP-0563.00000000.A6 rev. no. 2125, Nov., 1972",
+            "author_facet": [
+                "OL1850297A James Frederick Robinson"
+            ],
+            "subject_key": [
+                "cider"
+            ],
+            "ddc_sort": "630.8 s"
+        },
+        {
+            "key": "/works/OL456064W",
+            "type": "work",
+            "seed": [
+                "/books/OL8177850M",
+                "/works/OL456064W",
+                "/subjects/apples",
+                "/subjects/cider",
+                "/subjects/apple_juice",
+                "/subjects/cooking_(cider)",
+                "/subjects/cidre",
+                "/subjects/jus_de_pomme",
+                "/subjects/cuisine_(cidre)",
+                "/subjects/cooking",
+                "/subjects/beverages",
+                "/subjects/general",
+                "/subjects/non-alcoholic",
+                "/authors/OL26736A"
+            ],
+            "title": "Making the Best Apple Cider",
+            "title_suggest": "Making the Best Apple Cider",
+            "title_sort": "Making the Best Apple Cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL8177850M"
+            ],
+            "publish_date": [
+                "January 11, 1983"
+            ],
+            "publish_year": [
+                1983
+            ],
+            "first_publish_year": 1983,
+            "number_of_pages_median": 32,
+            "oclc": [
+                "701238326"
+            ],
+            "lcc": [
+                "TP-0563.00000000.P78 1980eb"
+            ],
+            "isbn": [
+                "0882662228",
+                "9780882662220"
+            ],
+            "last_modified_i": 1683680780,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "makingbestapplec0000prou"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL8177850M",
+            "lending_identifier_s": "makingbestapplec0000prou",
+            "printdisabled_s": "OL8177850M",
+            "cover_edition_key": "OL8177850M",
+            "cover_i": 679886,
+            "first_sentence": [
+                "The heady fragrance of fresh sweet cider running form the press is a wonderful blend of mellow apples, the faintly acidic scent of fallen leaves, and the brisk taste of country air that has been cleared by early morning frost."
+            ],
+            "publisher": [
+                "Storey Publishing, LLC"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL26736A"
+            ],
+            "author_name": [
+                "Annie Proulx"
+            ],
+            "author_alternative_name": [
+                "E. Annix Proulx",
+                "E. Annie Proulx",
+                "Proulx, E, Annie.",
+                "Annie E. Proulx"
+            ],
+            "subject": [
+                "Apples",
+                "Cider",
+                "Apple juice",
+                "Cooking (Cider)",
+                "Cidre",
+                "Jus de pomme",
+                "Cuisine (Cidre)",
+                "COOKING",
+                "Beverages",
+                "General",
+                "Non-Alcoholic"
+            ],
+            "id_goodreads": [
+                "292312"
+            ],
+            "id_librarything": [
+                "1651992"
+            ],
+            "ia_box_id": [
+                "IA40613906"
+            ],
+            "publisher_facet": [
+                "Storey Publishing, LLC"
+            ],
+            "subject_facet": [
+                "Apple juice",
+                "Apples",
+                "Beverages",
+                "COOKING",
+                "Cider",
+                "Cidre",
+                "Cooking (Cider)",
+                "Cuisine (Cidre)",
+                "General",
+                "Jus de pomme",
+                "Non-Alcoholic"
+            ],
+            "_version_": 1767935831221207042,
+            "lcc_sort": "TP-0563.00000000.P78 1980eb",
+            "author_facet": [
+                "OL26736A Annie Proulx"
+            ],
+            "subject_key": [
+                "apple_juice",
+                "apples",
+                "beverages",
+                "cider",
+                "cidre",
+                "cooking",
+                "cooking_(cider)",
+                "cuisine_(cidre)",
+                "general",
+                "jus_de_pomme",
+                "non-alcoholic"
+            ]
+        },
+        {
+            "key": "/works/OL15547734W",
+            "type": "work",
+            "seed": [
+                "/books/OL24503903M",
+                "/works/OL15547734W",
+                "/authors/OL6866949A"
+            ],
+            "title": "Apple cider vinegar, nuts & honey",
+            "title_suggest": "Apple cider vinegar, nuts & honey",
+            "title_sort": "Apple cider vinegar, nuts & honey",
+            "edition_count": 1,
+            "edition_key": [
+                "OL24503903M"
+            ],
+            "publish_date": [
+                "1996"
+            ],
+            "publish_year": [
+                1996
+            ],
+            "first_publish_year": 1996,
+            "number_of_pages_median": 96,
+            "lccn": [
+                "97811409"
+            ],
+            "publish_place": [
+                "Lantana, FL"
+            ],
+            "contributor": [
+                "Copyright Paperback Collection (Library of Congress)"
+            ],
+            "last_modified_i": 1606454088,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "MicroMags"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6866949A"
+            ],
+            "author_name": [
+                "Louise Stanley"
+            ],
+            "publisher_facet": [
+                "MicroMags"
+            ],
+            "_version_": 1767898918917505024,
+            "author_facet": [
+                "OL6866949A Louise Stanley"
+            ]
+        },
+        {
+            "key": "/works/OL25465504W",
+            "type": "work",
+            "seed": [
+                "/books/OL34149343M",
+                "/works/OL25465504W",
+                "/authors/OL7619771A"
+            ],
+            "title": "Death by Hot Apple Cider",
+            "title_suggest": "Death by Hot Apple Cider",
+            "title_sort": "Death by Hot Apple Cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL34149343M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "number_of_pages_median": 320,
+            "isbn": [
+                "9781496721150",
+                "1496721152"
+            ],
+            "last_modified_i": 1670432463,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Kensington Publishing Corporation"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7619771A"
+            ],
+            "author_name": [
+                "Alex Erickson"
+            ],
+            "publisher_facet": [
+                "Kensington Publishing Corporation"
+            ],
+            "_version_": 1767917425726062593,
+            "author_facet": [
+                "OL7619771A Alex Erickson"
+            ]
+        },
+        {
+            "key": "/works/OL29626058W",
+            "type": "work",
+            "seed": [
+                "/books/OL40760575M",
+                "/works/OL29626058W",
+                "/authors/OL3469847A"
+            ],
+            "title": "Apple Cider Vinegar Complete Guide",
+            "title_suggest": "Apple Cider Vinegar Complete Guide",
+            "title_sort": "Apple Cider Vinegar Complete Guide",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40760575M"
+            ],
+            "publish_date": [
+                "2017"
+            ],
+            "publish_year": [
+                2017
+            ],
+            "first_publish_year": 2017,
+            "isbn": [
+                "9781549968488",
+                "1549968483"
+            ],
+            "last_modified_i": 1668997302,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL3469847A"
+            ],
+            "author_name": [
+                "Mary Bryant"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924542321197057,
+            "author_facet": [
+                "OL3469847A Mary Bryant"
+            ]
+        },
+        {
+            "key": "/works/OL10825109W",
+            "type": "work",
+            "seed": [
+                "/books/OL14206521M",
+                "/works/OL10825109W",
+                "/subjects/cider",
+                "/authors/OL158128A"
+            ],
+            "title": "Making and preserving apple cider",
+            "title_suggest": "Making and preserving apple cider",
+            "title_sort": "Making and preserving apple cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL14206521M"
+            ],
+            "publish_date": [
+                "1977"
+            ],
+            "publish_year": [
+                1977
+            ],
+            "first_publish_year": 1977,
+            "number_of_pages_median": 14,
+            "publish_place": [
+                "[Washington]"
+            ],
+            "contributor": [
+                "Robinson, James F"
+            ],
+            "last_modified_i": 1336686757,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Dept. of Agriculture, Agricultural Research Service : for sale by the Supt. of Docs., U.S. Govt. Print. Off."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL158128A"
+            ],
+            "author_name": [
+                "United States. Agricultural Research Service."
+            ],
+            "author_alternative_name": [
+                "United States. Agricultural Research Service",
+                "United States Agricultural Research Service"
+            ],
+            "subject": [
+                "Cider"
+            ],
+            "publisher_facet": [
+                "Dept. of Agriculture, Agricultural Research Service : for sale by the Supt. of Docs., U.S. Govt. Print. Off."
+            ],
+            "subject_facet": [
+                "Cider"
+            ],
+            "_version_": 1767891554475704320,
+            "author_facet": [
+                "OL158128A United States. Agricultural Research Service."
+            ],
+            "subject_key": [
+                "cider"
+            ]
+        },
+        {
+            "key": "/works/OL34498341W",
+            "type": "work",
+            "seed": [
+                "/books/OL46795643M",
+                "/works/OL34498341W",
+                "/authors/OL11159672A"
+            ],
+            "title": "Apple Cider Vinegar (English Edition)",
+            "title_suggest": "Apple Cider Vinegar (English Edition)",
+            "title_sort": "Apple Cider Vinegar (English Edition)",
+            "edition_count": 1,
+            "edition_key": [
+                "OL46795643M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798609235961"
+            ],
+            "last_modified_i": 1676658727,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11159672A"
+            ],
+            "author_name": [
+                "Julia Smit"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767932175106179072,
+            "author_facet": [
+                "OL11159672A Julia Smit"
+            ]
+        },
+        {
+            "key": "/works/OL29121034W",
+            "type": "work",
+            "seed": [
+                "/books/OL40052173M",
+                "/works/OL29121034W",
+                "/authors/OL7706663A"
+            ],
+            "title": "Apple Cider Vinegar for Beginners",
+            "title_suggest": "Apple Cider Vinegar for Beginners",
+            "title_sort": "Apple Cider Vinegar for Beginners",
+            "edition_count": 1,
+            "edition_key": [
+                "OL40052173M"
+            ],
+            "publish_date": [
+                "2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "isbn": [
+                "9781329060173",
+                "1329060172"
+            ],
+            "last_modified_i": 1666154013,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Lulu Press, Inc."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7706663A"
+            ],
+            "author_name": [
+                "Lindsey P"
+            ],
+            "publisher_facet": [
+                "Lulu Press, Inc."
+            ],
+            "_version_": 1767923719590641664,
+            "author_facet": [
+                "OL7706663A Lindsey P"
+            ]
+        },
+        {
+            "key": "/works/OL31795648W",
+            "type": "work",
+            "seed": [
+                "/books/OL43491937M",
+                "/works/OL31795648W",
+                "/authors/OL11557092A"
+            ],
+            "title": "Apple Cider Vinegar for Health",
+            "title_suggest": "Apple Cider Vinegar for Health",
+            "title_sort": "Apple Cider Vinegar for Health",
+            "edition_count": 1,
+            "edition_key": [
+                "OL43491937M"
+            ],
+            "publish_date": [
+                "2014-01-01"
+            ],
+            "publish_year": [
+                2014
+            ],
+            "first_publish_year": 2014,
+            "isbn": [
+                "9781435166332",
+                "1435166337"
+            ],
+            "last_modified_i": 1670555325,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Sterling Publishing Co."
+            ],
+            "author_key": [
+                "OL11557092A"
+            ],
+            "author_name": [
+                "Britt Brandon, CFNS, CPT"
+            ],
+            "publisher_facet": [
+                "Sterling Publishing Co."
+            ],
+            "_version_": 1767927912214822913,
+            "author_facet": [
+                "OL11557092A Britt Brandon, CFNS, CPT"
+            ]
+        },
+        {
+            "key": "/works/OL30874866W",
+            "type": "work",
+            "seed": [
+                "/books/OL42418404M",
+                "/works/OL30874866W",
+                "/authors/OL9929519A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42418404M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798686284999"
+            ],
+            "last_modified_i": 1669949414,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9929519A"
+            ],
+            "author_name": [
+                "Sam Peller"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926378693394432,
+            "author_facet": [
+                "OL9929519A Sam Peller"
+            ]
+        },
+        {
+            "key": "/works/OL22419475W",
+            "type": "work",
+            "seed": [
+                "/books/OL30508263M",
+                "/works/OL22419475W",
+                "/subjects/therapeutic_use",
+                "/subjects/popular_works",
+                "/subjects/cider_vinegar",
+                "/authors/OL6867171A"
+            ],
+            "title": "Apple cider vinegar",
+            "title_suggest": "Apple cider vinegar",
+            "title_sort": "Apple cider vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL30508263M"
+            ],
+            "publish_date": [
+                "1997"
+            ],
+            "publish_year": [
+                1997
+            ],
+            "first_publish_year": 1997,
+            "number_of_pages_median": 66,
+            "lccn": [
+                "2010655008"
+            ],
+            "publish_place": [
+                "Boca Raton, FL"
+            ],
+            "lcc": [
+                "RM-0666.00000000.V55 W37 1994"
+            ],
+            "last_modified_i": 1600993197,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Globe Communications"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL6867171A"
+            ],
+            "author_name": [
+                "Bernard Ward"
+            ],
+            "subject": [
+                "Therapeutic use",
+                "Popular works",
+                "Cider vinegar"
+            ],
+            "publisher_facet": [
+                "Globe Communications"
+            ],
+            "subject_facet": [
+                "Cider vinegar",
+                "Popular works",
+                "Therapeutic use"
+            ],
+            "_version_": 1767912239151448064,
+            "lcc_sort": "RM-0666.00000000.V55 W37 1994",
+            "author_facet": [
+                "OL6867171A Bernard Ward"
+            ],
+            "subject_key": [
+                "cider_vinegar",
+                "popular_works",
+                "therapeutic_use"
+            ]
+        },
+        {
+            "key": "/works/OL29869283W",
+            "type": "work",
+            "seed": [
+                "/books/OL41071332M",
+                "/works/OL29869283W",
+                "/authors/OL9866321A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL41071332M"
+            ],
+            "publish_date": [
+                "2019"
+            ],
+            "publish_year": [
+                2019
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "9781097129461",
+                "1097129462"
+            ],
+            "last_modified_i": 1669178472,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9866321A"
+            ],
+            "author_name": [
+                "Peter Peckman"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767924840942010368,
+            "author_facet": [
+                "OL9866321A Peter Peckman"
+            ]
+        },
+        {
+            "key": "/works/OL30613181W",
+            "type": "work",
+            "seed": [
+                "/books/OL42084208M",
+                "/works/OL30613181W",
+                "/authors/OL11082677A"
+            ],
+            "title": "Amazing Apple Cider Vinegar Miracle Book",
+            "title_suggest": "Amazing Apple Cider Vinegar Miracle Book",
+            "title_sort": "Amazing Apple Cider Vinegar Miracle Book",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42084208M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798646080883"
+            ],
+            "last_modified_i": 1669758895,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11082677A"
+            ],
+            "author_name": [
+                "Lora Walter"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926081089699840,
+            "author_facet": [
+                "OL11082677A Lora Walter"
+            ]
+        },
+        {
+            "key": "/works/OL21990029W",
+            "type": "work",
+            "seed": [
+                "/books/OL29992436M",
+                "/works/OL21990029W",
+                "/authors/OL8414127A"
+            ],
+            "title": "Apple Cider Vinegar Miracle",
+            "title_suggest": "Apple Cider Vinegar Miracle",
+            "title_sort": "Apple Cider Vinegar Miracle",
+            "edition_count": 1,
+            "edition_key": [
+                "OL29992436M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 38,
+            "isbn": [
+                "9798615949043"
+            ],
+            "last_modified_i": 1599036906,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8414127A"
+            ],
+            "author_name": [
+                "Rebecca Paul"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767911574764257280,
+            "author_facet": [
+                "OL8414127A Rebecca Paul"
+            ]
+        },
+        {
+            "key": "/works/OL27902866W",
+            "type": "work",
+            "seed": [
+                "/books/OL38135752M",
+                "/works/OL27902866W",
+                "/authors/OL10111872A"
+            ],
+            "title": "Apple Cider Detox Book",
+            "title_suggest": "Apple Cider Detox Book",
+            "title_sort": "Apple Cider Detox Book",
+            "edition_count": 1,
+            "edition_key": [
+                "OL38135752M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798787930405"
+            ],
+            "last_modified_i": 1653616030,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL10111872A"
+            ],
+            "author_name": [
+                "Betty WILLIAMS"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767921569752940544,
+            "author_facet": [
+                "OL10111872A Betty WILLIAMS"
+            ]
+        },
+        {
+            "key": "/works/OL36268518W",
+            "type": "work",
+            "seed": [
+                "/books/OL49008115M",
+                "/works/OL36268518W",
+                "/authors/OL11312810A"
+            ],
+            "title": "Homemade Apple Cider Vinegar",
+            "title_suggest": "Homemade Apple Cider Vinegar",
+            "title_sort": "Homemade Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL49008115M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798476295389"
+            ],
+            "last_modified_i": 1689648451,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11312810A"
+            ],
+            "author_name": [
+                "Gregory Mandela"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1771724815910043652,
+            "author_facet": [
+                "OL11312810A Gregory Mandela"
+            ]
+        },
+        {
+            "key": "/works/OL36412551W",
+            "type": "work",
+            "seed": [
+                "/books/OL49200018M",
+                "/works/OL36412551W",
+                "/authors/OL9271543A"
+            ],
+            "title": "Apple Cider Vinegar Solution",
+            "title_suggest": "Apple Cider Vinegar Solution",
+            "title_sort": "Apple Cider Vinegar Solution",
+            "edition_count": 1,
+            "edition_key": [
+                "OL49200018M"
+            ],
+            "publish_date": [
+                "2015-01-17"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "isbn": [
+                "9781507553381",
+                "1507553382"
+            ],
+            "last_modified_i": 1689902045,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "author_key": [
+                "OL9271543A"
+            ],
+            "author_name": [
+                "Sandi Lane"
+            ],
+            "publisher_facet": [
+                "CreateSpace Independent Publishing Platform"
+            ],
+            "_version_": 1771990729207316481,
+            "author_facet": [
+                "OL9271543A Sandi Lane"
+            ]
+        },
+        {
+            "key": "/works/OL30766766W",
+            "type": "work",
+            "seed": [
+                "/books/OL42278136M",
+                "/works/OL30766766W",
+                "/authors/OL11261299A"
+            ],
+            "title": "Apple Cider Vinegar Detox 101 : Apple Cider Vinegar Cure",
+            "title_suggest": "Apple Cider Vinegar Detox 101 : Apple Cider Vinegar Cure",
+            "title_sort": "Apple Cider Vinegar Detox 101 : Apple Cider Vinegar Cure",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42278136M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "isbn": [
+                "9798689614397"
+            ],
+            "last_modified_i": 1669874954,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11261299A"
+            ],
+            "author_name": [
+                "Gino TONEY"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926214400409600,
+            "author_facet": [
+                "OL11261299A Gino TONEY"
+            ]
+        },
+        {
+            "key": "/works/OL24384268W",
+            "type": "work",
+            "seed": [
+                "/books/OL32291907M",
+                "/books/OL32722571M",
+                "/books/OL46221117M",
+                "/works/OL24384268W",
+                "/authors/OL9177942A"
+            ],
+            "title": "The Chemical Composition of Apples and Cider. I. the Composition of Apples in Relation to Cider and",
+            "title_suggest": "The Chemical Composition of Apples and Cider. I. the Composition of Apples in Relation to Cider and",
+            "title_sort": "The Chemical Composition of Apples and Cider. I. the Composition of Apples in Relation to Cider and",
+            "edition_count": 3,
+            "edition_key": [
+                "OL32291907M",
+                "OL32722571M",
+                "OL46221117M"
+            ],
+            "publish_date": [
+                "Oct 17, 2018",
+                "2022",
+                "Oct 06, 2018"
+            ],
+            "publish_year": [
+                2018,
+                2022
+            ],
+            "first_publish_year": 2018,
+            "number_of_pages_median": 48,
+            "isbn": [
+                "0341679089",
+                "101565424X",
+                "0343639793",
+                "9781015654242",
+                "9780343639792",
+                "9780341679080"
+            ],
+            "last_modified_i": 1673970103,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "cover_edition_key": "OL32291907M",
+            "cover_i": 10918103,
+            "publisher": [
+                "Franklin Classics",
+                "Franklin Classics Trade Press",
+                "Creative Media Partners, LLC"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL9177942A"
+            ],
+            "author_name": [
+                "Alwood William Bradford"
+            ],
+            "publisher_facet": [
+                "Creative Media Partners, LLC",
+                "Franklin Classics",
+                "Franklin Classics Trade Press"
+            ],
+            "_version_": 1767915594115448834,
+            "author_facet": [
+                "OL9177942A Alwood William Bradford"
+            ]
+        },
+        {
+            "key": "/works/OL1593468W",
+            "type": "work",
+            "seed": [
+                "/books/OL21857223M",
+                "/books/OL19152438M",
+                "/works/OL1593468W",
+                "/subjects/acetic_acid",
+                "/subjects/apple_cider_vinegar",
+                "/subjects/diet_therapy",
+                "/subjects/longevity",
+                "/subjects/therapeutic_use",
+                "/authors/OL172854A"
+            ],
+            "title": "Bragg apple cider vinegar",
+            "title_suggest": "Bragg apple cider vinegar",
+            "title_sort": "Bragg apple cider vinegar",
+            "edition_count": 2,
+            "edition_key": [
+                "OL21857223M",
+                "OL19152438M"
+            ],
+            "publish_date": [
+                "2006",
+                "1998"
+            ],
+            "publish_year": [
+                2006,
+                1998
+            ],
+            "first_publish_year": 1998,
+            "number_of_pages_median": 111,
+            "publish_place": [
+                "Santa Barbara, CA"
+            ],
+            "oclc": [
+                "40921428",
+                "62456417"
+            ],
+            "contributor": [
+                "Bragg, Patricia."
+            ],
+            "isbn": [
+                "9780877900450",
+                "0877900426",
+                "9780877900429",
+                "0877900450"
+            ],
+            "last_modified_i": 1291412665,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Health Science"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL172854A"
+            ],
+            "author_name": [
+                "Paul Chappuis Bragg"
+            ],
+            "author_alternative_name": [
+                "Paul Bragg",
+                "Paul C. Bragg"
+            ],
+            "subject": [
+                "Acetic acid",
+                "Apple Cider Vinegar",
+                "Diet therapy",
+                "Longevity",
+                "Therapeutic use"
+            ],
+            "id_goodreads": [
+                "292307",
+                "2431143"
+            ],
+            "id_librarything": [
+                "771911"
+            ],
+            "publisher_facet": [
+                "Health Science"
+            ],
+            "subject_facet": [
+                "Acetic acid",
+                "Apple Cider Vinegar",
+                "Diet therapy",
+                "Longevity",
+                "Therapeutic use"
+            ],
+            "_version_": 1767899536201613312,
+            "author_facet": [
+                "OL172854A Paul Chappuis Bragg"
+            ],
+            "subject_key": [
+                "acetic_acid",
+                "apple_cider_vinegar",
+                "diet_therapy",
+                "longevity",
+                "therapeutic_use"
+            ]
+        },
+        {
+            "key": "/works/OL30356120W",
+            "type": "work",
+            "seed": [
+                "/books/OL41730027M",
+                "/books/OL46796647M",
+                "/works/OL30356120W",
+                "/authors/OL11132525A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 2,
+            "edition_key": [
+                "OL41730027M",
+                "OL46796647M"
+            ],
+            "publish_date": [
+                "2019",
+                "2020"
+            ],
+            "publish_year": [
+                2019,
+                2020
+            ],
+            "first_publish_year": 2019,
+            "isbn": [
+                "1712773054",
+                "9798615623929",
+                "9781712773055"
+            ],
+            "last_modified_i": 1676659012,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL11132525A"
+            ],
+            "author_name": [
+                "Claire Bryce"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767925786888634369,
+            "author_facet": [
+                "OL11132525A Claire Bryce"
+            ]
+        },
+        {
+            "key": "/works/OL35877385W",
+            "type": "work",
+            "seed": [
+                "/books/OL48426546M",
+                "/works/OL35877385W",
+                "/authors/OL12957369A"
+            ],
+            "title": "Healthy Diet : Debunking the Health Benefits of Apple Cider Vinegar",
+            "title_suggest": "Healthy Diet : Debunking the Health Benefits of Apple Cider Vinegar",
+            "title_sort": "Healthy Diet : Debunking the Health Benefits of Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL48426546M"
+            ],
+            "publish_date": [
+                "2021"
+            ],
+            "publish_year": [
+                2021
+            ],
+            "first_publish_year": 2021,
+            "isbn": [
+                "9798747979611"
+            ],
+            "last_modified_i": 1687037934,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 0,
+            "want_to_read_count": 0,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL12957369A"
+            ],
+            "author_name": [
+                "Blair Rolstad"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1769214770504794113,
+            "author_facet": [
+                "OL12957369A Blair Rolstad"
+            ]
+        },
+        {
+            "key": "/works/OL21104579W",
+            "type": "work",
+            "seed": [
+                "/books/OL28567688M",
+                "/books/OL29716601M",
+                "/works/OL21104579W",
+                "/subjects/cider",
+                "/authors/OL2949629A"
+            ],
+            "title": "Craft Cider",
+            "title_suggest": "Craft Cider",
+            "title_sort": "Craft Cider",
+            "edition_count": 2,
+            "edition_key": [
+                "OL28567688M",
+                "OL29716601M"
+            ],
+            "publish_date": [
+                "2015"
+            ],
+            "publish_year": [
+                2015
+            ],
+            "first_publish_year": 2015,
+            "number_of_pages_median": 184,
+            "lccn": [
+                "2015022601"
+            ],
+            "lcc": [
+                "TP-0563.00000000.S65 2015"
+            ],
+            "isbn": [
+                "1581575858",
+                "1581573138",
+                "9781581573138",
+                "9781581575859"
+            ],
+            "last_modified_i": 1673738390,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "craftciderhowtot0000smit"
+            ],
+            "ia_collection": [
+                "goffstownlibrary-ol",
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled"
+            ],
+            "ia_collection_s": "goffstownlibrary-ol;inlibrary;internetarchivebooks;printdisabled",
+            "lending_edition_s": "OL28567688M",
+            "lending_identifier_s": "craftciderhowtot0000smit",
+            "printdisabled_s": "OL28567688M",
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL28567688M",
+            "cover_i": 11403322,
+            "publisher": [
+                "Norton & Company, Incorporated, W. W."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL2949629A"
+            ],
+            "author_name": [
+                "Jeff Smith"
+            ],
+            "subject": [
+                "Cider"
+            ],
+            "ia_box_id": [
+                "IA40413315"
+            ],
+            "publisher_facet": [
+                "Norton & Company, Incorporated, W. W."
+            ],
+            "subject_facet": [
+                "Cider"
+            ],
+            "_version_": 1767909991336902660,
+            "lcc_sort": "TP-0563.00000000.S65 2015",
+            "author_facet": [
+                "OL2949629A Jeff Smith"
+            ],
+            "subject_key": [
+                "cider"
+            ]
+        },
+        {
+            "key": "/works/OL21121969W",
+            "type": "work",
+            "seed": [
+                "/books/OL28591203M",
+                "/books/OL29732851M",
+                "/works/OL21121969W",
+                "/subjects/vinegar",
+                "/subjects/cooking",
+                "/authors/OL7533330A"
+            ],
+            "title": "Apple Cider Vinegar Companion",
+            "title_suggest": "Apple Cider Vinegar Companion",
+            "title_sort": "Apple Cider Vinegar Companion",
+            "edition_count": 2,
+            "edition_key": [
+                "OL28591203M",
+                "OL29732851M"
+            ],
+            "publish_date": [
+                "2016"
+            ],
+            "publish_year": [
+                2016
+            ],
+            "first_publish_year": 2016,
+            "number_of_pages_median": 164,
+            "lcc": [
+                "RM-0666.00000000.V55S34 2016"
+            ],
+            "isbn": [
+                "9781581573602",
+                "1581575033",
+                "158157360X",
+                "9781581575033"
+            ],
+            "last_modified_i": 1670673914,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Norton & Company, Incorporated, W. W."
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7533330A"
+            ],
+            "author_name": [
+                "Suzy Scherr"
+            ],
+            "subject": [
+                "Vinegar",
+                "Cooking"
+            ],
+            "id_amazon": [
+                ""
+            ],
+            "publisher_facet": [
+                "Norton & Company, Incorporated, W. W."
+            ],
+            "subject_facet": [
+                "Cooking",
+                "Vinegar"
+            ],
+            "_version_": 1767909857802846208,
+            "lcc_sort": "RM-0666.00000000.V55S34 2016",
+            "author_facet": [
+                "OL7533330A Suzy Scherr"
+            ],
+            "subject_key": [
+                "cooking",
+                "vinegar"
+            ]
+        },
+        {
+            "key": "/works/OL21895937W",
+            "type": "work",
+            "seed": [
+                "/books/OL29862077M",
+                "/works/OL21895937W",
+                "/authors/OL8098514A"
+            ],
+            "title": "Cinderella",
+            "title_suggest": "Cinderella",
+            "title_sort": "Cinderella",
+            "edition_count": 1,
+            "edition_key": [
+                "OL29862077M"
+            ],
+            "publish_date": [
+                "2020"
+            ],
+            "publish_year": [
+                2020
+            ],
+            "first_publish_year": 2020,
+            "number_of_pages_median": 28,
+            "isbn": [
+                "9781646430369",
+                "1646430360"
+            ],
+            "last_modified_i": 1598930671,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Cider Mill Press Book Publishers, LLC"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL8098514A"
+            ],
+            "author_name": [
+                "Cider Mill Cider Mill Press"
+            ],
+            "publisher_facet": [
+                "Cider Mill Press Book Publishers, LLC"
+            ],
+            "_version_": 1767911500396101632,
+            "author_facet": [
+                "OL8098514A Cider Mill Cider Mill Press"
+            ]
+        },
+        {
+            "key": "/works/OL20791516W",
+            "type": "work",
+            "seed": [
+                "/books/OL35804329M",
+                "/books/OL35801103M",
+                "/books/OL35797924M",
+                "/books/OL35801099M",
+                "/books/OL28142935M",
+                "/books/OL37690916M",
+                "/works/OL20791516W",
+                "/subjects/apple",
+                "/subjects/apples",
+                "/subjects/cider",
+                "/subjects/fall",
+                "/subjects/farm",
+                "/subjects/seasons",
+                "/subjects/food_production",
+                "/subjects/orchard",
+                "/subjects/apples",
+                "/subjects/apples_juvenile_literature",
+                "/subjects/farm_life",
+                "/subjects/farm_life_juvenile_literature",
+                "/authors/OL7416930A"
+            ],
+            "title": "From Apple Trees to Cider, Please!",
+            "title_suggest": "From Apple Trees to Cider, Please!",
+            "title_sort": "From Apple Trees to Cider, Please!",
+            "edition_count": 6,
+            "edition_key": [
+                "OL35804329M",
+                "OL35801103M",
+                "OL35797924M",
+                "OL35801099M",
+                "OL28142935M",
+                "OL37690916M"
+            ],
+            "publish_date": [
+                "2015",
+                "2022"
+            ],
+            "publish_year": [
+                2015,
+                2022
+            ],
+            "first_publish_year": 2015,
+            "number_of_pages_median": 32,
+            "publish_place": [
+                "Chicago, Illinois"
+            ],
+            "lcc": [
+                "PZ-0008.30000000.C4256Fr 2015"
+            ],
+            "isbn": [
+                "9781504017619",
+                "9781504017596",
+                "9781504017602",
+                "0807565091",
+                "9780807565131",
+                "9780807565094",
+                "1504017625",
+                "080756513X",
+                "1504017595",
+                "1504017617",
+                "1504017609",
+                "9781504017626"
+            ],
+            "last_modified_i": 1670679255,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL28142935M",
+            "cover_i": 10084745,
+            "publisher": [
+                "Albert Whitman & Company",
+                "Whitman & Company, Albert"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7416930A"
+            ],
+            "author_name": [
+                "Felicia Sanzari Chernesky"
+            ],
+            "subject": [
+                "apple",
+                "apples",
+                "cider",
+                "fall",
+                "farm",
+                "seasons",
+                "food production",
+                "orchard",
+                "Apples",
+                "Apples, juvenile literature",
+                "Farm life",
+                "Farm life, juvenile literature"
+            ],
+            "id_amazon": [
+                ""
+            ],
+            "publisher_facet": [
+                "Albert Whitman & Company",
+                "Whitman & Company, Albert"
+            ],
+            "subject_facet": [
+                "Apples",
+                "Apples, juvenile literature",
+                "Farm life",
+                "Farm life, juvenile literature",
+                "apple",
+                "apples",
+                "cider",
+                "fall",
+                "farm",
+                "food production",
+                "orchard",
+                "seasons"
+            ],
+            "_version_": 1767909252443144192,
+            "lcc_sort": "PZ-0008.30000000.C4256Fr 2015",
+            "author_facet": [
+                "OL7416930A Felicia Sanzari Chernesky"
+            ],
+            "subject_key": [
+                "apple",
+                "apples",
+                "apples_juvenile_literature",
+                "cider",
+                "fall",
+                "farm",
+                "farm_life",
+                "farm_life_juvenile_literature",
+                "food_production",
+                "orchard",
+                "seasons"
+            ]
+        },
+        {
+            "key": "/works/OL16992982W",
+            "type": "work",
+            "seed": [
+                "/books/OL25570499M",
+                "/works/OL16992982W",
+                "/subjects/spiritualit\u00e9",
+                "/subjects/vie_chr\u00e9tienne",
+                "/subjects/anecdotes",
+                "/subjects/aspect_religieux",
+                "/subjects/christian_life",
+                "/subjects/authors_canadian_(english)",
+                "/subjects/christianity",
+                "/subjects/spirituality",
+                "/subjects/christianisme",
+                "/subjects/\u00e9crivains_canadiens-anglais",
+                "/subjects/inspiration",
+                "/subjects/time:21e_si\u00e8cle",
+                "/subjects/time:21st_century",
+                "/authors/OL7214368A",
+                "/authors/OL6587752A"
+            ],
+            "title": "Hot apple cider",
+            "title_suggest": "Hot apple cider",
+            "title_sort": "Hot apple cider",
+            "edition_count": 1,
+            "edition_key": [
+                "OL25570499M"
+            ],
+            "publish_date": [
+                "2008"
+            ],
+            "publish_year": [
+                2008
+            ],
+            "first_publish_year": 2008,
+            "number_of_pages_median": 295,
+            "publish_place": [
+                "Markham, Ont"
+            ],
+            "oclc": [
+                "191241193"
+            ],
+            "lcc": [
+                "BV-4515.30000000.H68 2008"
+            ],
+            "ddc": [
+                "242"
+            ],
+            "isbn": [
+                "9780978496302",
+                "0978496302"
+            ],
+            "last_modified_i": 1670623811,
+            "ebook_count_i": 1,
+            "ebook_access": "borrowable",
+            "has_fulltext": true,
+            "public_scan_b": false,
+            "ia": [
+                "hotappleciderwor00nell"
+            ],
+            "ia_collection": [
+                "inlibrary",
+                "internetarchivebooks",
+                "printdisabled",
+                "toronto"
+            ],
+            "ia_collection_s": "inlibrary;internetarchivebooks;printdisabled;toronto",
+            "lending_edition_s": "OL25570499M",
+            "lending_identifier_s": "hotappleciderwor00nell",
+            "printdisabled_s": "OL25570499M",
+            "readinglog_count": 1,
+            "want_to_read_count": 1,
+            "currently_reading_count": 0,
+            "already_read_count": 0,
+            "cover_edition_key": "OL25570499M",
+            "cover_i": 10063487,
+            "publisher": [
+                "That's Life! Communications"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL7214368A",
+                "OL6587752A"
+            ],
+            "author_name": [
+                "Wendy E. Nelles",
+                "N. J. Lindquist"
+            ],
+            "subject": [
+                "Spiritualit\u00e9",
+                "Vie chr\u00e9tienne",
+                "Anecdotes",
+                "Aspect religieux",
+                "Christian life",
+                "Authors, Canadian (English)",
+                "Christianity",
+                "Spirituality",
+                "Christianisme",
+                "\u00c9crivains canadiens-anglais",
+                "Inspiration"
+            ],
+            "time": [
+                "21e si\u00e8cle",
+                "21st century"
+            ],
+            "id_amazon": [
+                ""
+            ],
+            "ia_box_id": [
+                "IA169510"
+            ],
+            "publisher_facet": [
+                "That's Life! Communications"
+            ],
+            "time_facet": [
+                "21e si\u00e8cle",
+                "21st century"
+            ],
+            "subject_facet": [
+                "Anecdotes",
+                "Aspect religieux",
+                "Authors, Canadian (English)",
+                "Christian life",
+                "Christianisme",
+                "Christianity",
+                "Inspiration",
+                "Spirituality",
+                "Spiritualit\u00e9",
+                "Vie chr\u00e9tienne",
+                "\u00c9crivains canadiens-anglais"
+            ],
+            "_version_": 1767902602149756929,
+            "lcc_sort": "BV-4515.30000000.H68 2008",
+            "author_facet": [
+                "OL6587752A N. J. Lindquist",
+                "OL7214368A Wendy E. Nelles"
+            ],
+            "subject_key": [
+                "anecdotes",
+                "aspect_religieux",
+                "authors_canadian_(english)",
+                "christian_life",
+                "christianisme",
+                "christianity",
+                "inspiration",
+                "spirituality",
+                "spiritualit\u00e9",
+                "vie_chr\u00e9tienne",
+                "\u00e9crivains_canadiens-anglais"
+            ],
+            "time_key": [
+                "21e_si\u00e8cle",
+                "21st_century"
+            ],
+            "ddc_sort": "242"
+        },
+        {
+            "key": "/works/OL31169887W",
+            "type": "work",
+            "seed": [
+                "/books/OL42815388M",
+                "/works/OL31169887W",
+                "/authors/OL684159A"
+            ],
+            "title": "Apple Cider Vinegar",
+            "title_suggest": "Apple Cider Vinegar",
+            "title_sort": "Apple Cider Vinegar",
+            "edition_count": 1,
+            "edition_key": [
+                "OL42815388M"
+            ],
+            "publish_date": [
+                "2022"
+            ],
+            "publish_year": [
+                2022
+            ],
+            "first_publish_year": 2022,
+            "isbn": [
+                "9798842080243"
+            ],
+            "last_modified_i": 1670083660,
+            "ebook_count_i": 0,
+            "ebook_access": "no_ebook",
+            "has_fulltext": false,
+            "public_scan_b": false,
+            "publisher": [
+                "Independently Published"
+            ],
+            "language": [
+                "eng"
+            ],
+            "author_key": [
+                "OL684159A"
+            ],
+            "author_name": [
+                "Leo Smith"
+            ],
+            "publisher_facet": [
+                "Independently Published"
+            ],
+            "_version_": 1767926984841625600,
+            "author_facet": [
+                "OL684159A Leo Smith"
+            ]
+        }
+    ],
+    "num_found": 403,
+    "q": "apple cider",
+    "offset": null
+}
