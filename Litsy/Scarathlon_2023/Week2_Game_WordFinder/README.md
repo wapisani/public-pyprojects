@@ -7,3 +7,10 @@ It wasn't too hard finding a dictionary online that I could download. I found th
 ### You Gotta Be Swift
 The parsing script was written in Swift, Apple's primary programming language for mac OS and iOS. I've never written any Swift (yet, I plan to if I ever buy a Mac) nor run any, but I knew it was available for non-Apple platforms. So I found a [guide](https://itsfoss.com/use-swift-linux/) on downloading/installing Swift on Linux (via Windows Subsystem for Linux 2) and downloaded Swift.
 
+I ran into some errors with line 245 in main.swift that took some figuring out (mostly trial-and-erroring since I have no experience with Swift), but I got it figured out. I replaced lines 245 - 248 with the following. I added the .sortedKeys option to sort the JSON file in alphabetical order. The JSON file is composed of words with their definitions.
+
+```swift
+try JSONSerialization.writeJSONObject(compiledDictionary,
+                                      toStream: outputStream,
+                                      options: [JSONSerialization.WritingOptions.prettyPrinted, JSONSerialization.WritingOptions.sortedKeys])
+```
