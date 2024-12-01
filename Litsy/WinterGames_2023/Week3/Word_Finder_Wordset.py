@@ -11,8 +11,8 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-The purpose of this script is to load the search results from Open Library
-and filter until only fiction books are found.
+The purpose of this script is to find as many words as possible that can be made
+from the specified phrase
 """
 import os, json, string, re, gzip
 from unidecode import unidecode # To strip accents
@@ -25,7 +25,7 @@ json_file = r'Wordset_Dictionary_A-Z.json.gz'
 with gzip.open(json_file, 'r') as f:
     words = json.load(f)
 
-# The Winter Games 2023 phrase
+# The Winter Games 2023/2024 phrase
 phrase = "merrychristmasandhappyholidayswintergamers"
 
 phrase_count = {s:0 for s in string.ascii_lowercase}
